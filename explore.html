@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Explore Japanese Snacks — Okashi</title>
+<meta name="description" content="Browse and filter Japanese snacks by flavor, texture, category, and sweetness level. Find your perfect snack.">
+<meta property="og:title" content="Explore Japanese Snacks — Okashi">
+<meta property="og:description" content="Filter Japanese snacks by flavor, texture, and sweetness. The most detailed Japanese snack database.">
+<link rel="stylesheet" href="css/style.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1N5PR9Y0H"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-H1N5PR9Y0H');</script>
+</head>
+<body>
+<div id="nav"></div>
+
+<section class="section" style="padding-top:24px">
+  <div class="container">
+    <h1 style="font-size:1.5rem;font-weight:700;margin-bottom:16px">Explore Japanese Snacks</h1>
+
+    <div class="filter-bar" id="filters">
+      <div class="filter-group">
+        <span class="filter-label">Flavor</span>
+        <div class="filter-tags" id="flavor-filters"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Texture</span>
+        <div class="filter-tags" id="texture-filters"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Category</span>
+        <div class="filter-tags" id="category-filters"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Sweetness: <span id="sweet-val">Any</span></span>
+        <input type="range" min="0" max="5" value="0" class="sweetness-range" id="sweet-range">
+        <div class="sweetness-labels"><span>Any</span><span>Not sweet</span><span>Medium</span><span>Very sweet</span></div>
+      </div>
+      <div style="margin-top:12px">
+        <button class="btn btn-sm btn-outline" id="clear-filters">Clear All Filters</button>
+      </div>
+    </div>
+
+    <div class="filter-count" id="result-count"></div>
+    <div class="card-grid" id="snack-grid"></div>
+  </div>
+</section>
+
+<!-- ===== GA4 — auto-inserted by build agent ===== -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1N5PR9Y0H"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-H1N5PR9Y0H');</script>
+<!-- ===== STANDARD FOOTER — auto-inserted by build agent ===== -->
+
+<!-- Support CTA -->
+<section style="background:linear-gradient(135deg,#f0fdf4,#ecfdf5);border:1px solid #bbf7d0;border-radius:12px;padding:20px 16px;margin:24px auto;max-width:600px;text-align:center;">
+  <p style="font-weight:700;font-size:1.05rem;color:#166534;margin:0 0 6px;">Did this save you time?</p>
+  <p style="font-size:0.85rem;color:#555;margin:0 0 14px;">This tool is 100% free, no ads. Your support keeps it running.</p>
+  <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+    <a href="https://japantoolkit.lemonsqueezy.com/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 20px;background:#7c3aed;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.9rem;min-height:44px;line-height:24px;">Support Us</a>
+  </div>
+</section>
+
+<!-- Newsletter -->
+<div style="text-align:center;padding:16px 12px 4px;font-size:0.82rem;color:#888;border-top:1px solid #e0e0e033;margin-top:12px;">
+  <p style="margin-bottom:8px;font-weight:600;">Get Updates</p>
+  <form action="https://buttondown.com/api/emails/embed-subscribe/japandevtools" method="post" target="_blank" style="display:flex;gap:6px;justify-content:center;flex-wrap:wrap;max-width:360px;margin:0 auto;">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:6px 10px;border:1px solid #ccc;border-radius:4px;font-size:0.82rem;min-width:180px;min-height:44px;">
+    <button type="submit" style="padding:6px 14px;background:#1e3a5f;color:#fff;border:none;border-radius:4px;font-size:0.82rem;cursor:pointer;min-height:44px;">Subscribe</button>
+  </form>
+  <p style="margin-top:4px;font-size:0.7rem;color:#aaa;">Free updates about new tools. No spam.</p>
+</div>
+
+<!-- Share -->
+<div style="text-align:center;padding:12px 12px 4px;font-size:0.82rem;color:#888;">
+  <p style="margin-bottom:6px;">Share this tool</p>
+  <p>
+    <button onclick="if(navigator.share){navigator.share({title:document.title,url:location.href})}else{window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(document.title),'_blank')}" style="background:none;border:1px solid #ccc;border-radius:4px;padding:4px 12px;font-size:0.8rem;cursor:pointer;color:#888;margin:0 4px;min-height:32px;">Share</button>
+    <a href="https://twitter.com/intent/tweet?url=" onclick="this.href='https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(document.title)" target="_blank" rel="noopener" style="color:#1DA1F2;text-decoration:none;font-weight:600;margin:0 6px;font-size:0.82rem;">Twitter</a>
+    <a href="https://reddit.com/submit?url=" onclick="this.href='https://reddit.com/submit?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)" target="_blank" rel="noopener" style="color:#FF4500;text-decoration:none;font-weight:600;margin:0 6px;font-size:0.82rem;">Reddit</a>
+  </p>
+</div>
+
+<!-- Feedback -->
+<p style="text-align:center;margin-top:2rem;font-size:0.82rem;"><a href="https://japantool.featurebase.app" target="_blank" style="color:#888;text-decoration:none;">Got feedback or feature requests? Let us know &rarr;</a></p>
+
+<!-- ===== END STANDARD FOOTER ===== -->
+<script src="js/app.js"></script>
+<script>
+document.getElementById('nav').innerHTML = renderNav('explore');
+
+const state = { flavors: [], textures: [], categories: [], sweetness: 0 };
+
+function getUnique(arr, key) {
+  const vals = new Set();
+  arr.forEach(s => {
+    if (Array.isArray(s[key])) s[key].forEach(v => vals.add(v));
+    else vals.add(s[key]);
+  });
+  return [...vals].sort();
+}
+
+function renderFilterTags(containerId, values, cls, stateKey) {
+  const el = document.getElementById(containerId);
+  el.innerHTML = values.map(v => `<button class="tag ${cls}" data-val="${v}">${v}</button>`).join('');
+  el.addEventListener('click', e => {
+    const btn = e.target.closest('.tag');
+    if (!btn) return;
+    const val = btn.dataset.val;
+    btn.classList.toggle('active');
+    if (state[stateKey].includes(val)) state[stateKey] = state[stateKey].filter(x => x !== val);
+    else state[stateKey].push(val);
+    applyFilters();
+  });
+}
+
+function applyFilters() {
+  let results = SA.snacks;
+  if (state.flavors.length) results = results.filter(s => s.flavors.some(f => state.flavors.includes(f)));
+  if (state.textures.length) results = results.filter(s => state.textures.includes(s.texture));
+  if (state.categories.length) results = results.filter(s => state.categories.includes(s.category));
+  if (state.sweetness > 0) results = results.filter(s => s.sweetness <= state.sweetness);
+
+  document.getElementById('result-count').textContent = `${results.length} snack${results.length !== 1 ? 's' : ''} found`;
+  const grid = document.getElementById('snack-grid');
+  grid.innerHTML = results.map(s => SA.renderSnackCard(s)).join('');
+  SA.bindTriedButtons(grid);
+}
+
+SA.loadSnacks().then(snacks => {
+  renderFilterTags('flavor-filters', getUnique(snacks, 'flavors'), 'tag-flavor', 'flavors');
+  renderFilterTags('texture-filters', getUnique(snacks, 'texture'), 'tag-texture', 'textures');
+  renderFilterTags('category-filters', getUnique(snacks, 'category'), 'tag-category', 'categories');
+  applyFilters();
+});
+
+document.getElementById('sweet-range').addEventListener('input', e => {
+  state.sweetness = parseInt(e.target.value);
+  document.getElementById('sweet-val').textContent = state.sweetness === 0 ? 'Any' : '≤ ' + state.sweetness;
+  applyFilters();
+});
+
+document.getElementById('clear-filters').addEventListener('click', () => {
+  state.flavors = []; state.textures = []; state.categories = []; state.sweetness = 0;
+  document.querySelectorAll('.tag.active').forEach(t => t.classList.remove('active'));
+  document.getElementById('sweet-range').value = 0;
+  document.getElementById('sweet-val').textContent = 'Any';
+  applyFilters();
+});
+</script>
+</body>
+</html>
