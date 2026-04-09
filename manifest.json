@@ -1,0 +1,11 @@
+{
+  "name": "Okashi — Japanese Snack Database",
+  "short_name": "Okashi",
+  "start_url": "/okashi/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FF6B6B",
+  "icons": [
+    {"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}

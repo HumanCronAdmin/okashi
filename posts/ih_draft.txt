@@ -1,0 +1,20 @@
+# IH Draft
+> Gemini | 2026-04-09 20:07
+
+## From Personal Craving to Public Tool: I Built Okashi!, a Japanese Snack Discovery Site (Solo!)
+
+Hey Indie Hackers!
+
+I'm super excited (and a little nervous!) to finally share something I've been pouring my heart and soul into: **Okashi!**
+
+It's a dedicated platform for **Japanese snack enthusiasts** to discover, explore, and share their favorite treats. You can check it out here: **[https://humancronadmin.github.io/okashi/](https://humancronadmin.github.io/okashi/)**
+
+### The "Why": Solving My Own Snack Struggles
+
+As a huge fan of Japanese snacks myself, living abroad, I always ran into the same problem: **how do I find new snacks that match what I *actually* like?**
+
+*   **"I want something chewy, matcha-flavored, and not too sweet."** – Good luck trying to find that on an international e-commerce site!
+*   **"What's that crunchy, savory snack I saw on TikTok, but I can't remember the name?"** – Endless scrolling, often fruitless.
+*   **"Which Pocky flavor is the *best*?"** – A question that deserves a proper debate tool.
+
+Relying on random Reddit threads or fleeting TikTok videos was a hit-or-miss game. I wanted a structured, fun way to explore the incredible world of Japanese confectionery

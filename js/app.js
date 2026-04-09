@@ -30,16 +30,28 @@ const SA = {
     return this.collected.length;
   },
 
+  categoryColors: {
+    chocolate:'#5c3317',cookie:'#c97b2a',chips:'#d4a017',candy:'#e85d75',
+    'rice-cracker':'#8b6914',gummy:'#9b59b6',mochi:'#7c5295',cake:'#c0756e'
+  },
+
   renderSnackCard(s, opts = {}) {
     const collected = this.isCollected(s.id);
     const showTried = opts.showTried !== false;
     const flavorTags = s.flavors.map(f => `<span class="tag tag-flavor">${f}</span>`).join('');
     const texTag = `<span class="tag tag-texture">${s.texture}</span>`;
+    const color = this.categoryColors[s.category] || '#888';
+    const imgHtml = s.image
+      ? `<img src="${s.image}" alt="${s.name_en}" class="card-photo">`
+      : `<div class="card-placeholder" style="background:${color}20;border-bottom:3px solid ${color}">
+           <span style="font-size:2rem">${this.categoryEmoji(s.category)}</span>
+           <span style="font-size:0.75rem;color:${color};font-weight:600">${s.name_en}</span>
+         </div>`;
     return `
       <div class="card-wrapper">
         <div class="card ${collected ? 'card-collected' : ''}" data-id="${s.id}">
           <div class="card-check">✓</div>
-          <div class="card-img">${s.name_en}</div>
+          ${imgHtml}
           <div class="card-body">
             <div class="card-title">${s.name_en}</div>
             <div class="card-maker">${s.maker} · ${s.name_ja}</div>
@@ -48,6 +60,10 @@ const SA = {
           ${showTried ? `<button class="tried-btn ${collected ? 'is-tried' : 'not-tried'}" data-id="${s.id}">${collected ? '✓ Tried!' : 'Mark as Tried'}</button>` : ''}
         </div>
       </div>`;
+  },
+
+  categoryEmoji(cat) {
+    return {chocolate:'🍫',cookie:'🍪',chips:'🥔',candy:'🍬','rice-cracker':'🍘',gummy:'🧸',mochi:'🍡',cake:'🍰'}[cat]||'🍿';
   },
 
   bindTriedButtons(container) {

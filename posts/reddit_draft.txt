@@ -1,0 +1,18 @@
+# REDDIT Draft
+> Gemini | 2026-04-09 20:07
+
+Here's a Reddit post crafted for r/JapaneseSnacks, keeping the platform rules and self-promotion guidelines in mind:
+
+---
+
+**Title:** Ever wish you could search for Japanese snacks by *exactly* what you like (flavor, texture, tier lists!)? I built a tool for that! (Seeking feedback, r/JapaneseSnacks!)
+
+Hey everyone!
+
+As a huge Japanese snack fan living abroad, I always struggled to find new snacks based on what I *actually* like, or describe them to friends beyond "it's yummy!" Trying to explain "that slightly salty, super crispy, umami seaweed cracker" to someone is tougher than it sounds.
+
+So, after months of coding (and way too much snack taste-testing, purely for research, of course!), I finally launched my passion project: **Okashi**!
+
+It's a free website designed to help us all explore the amazing world of Japanese snacks in a new way. Here's what you can do:
+
+*   **Find snacks by specific flavor & texture:** This is the big one for me! You can actually filter by categories like sweet, savory
