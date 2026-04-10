@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Japanese Snack Brands — Okashi</title>
+<meta name="description" content="Explore the companies behind Japan's most iconic snacks. Meiji, Glico, Calbee, Morinaga, Kameda Seika — each with a unique story.">
+<meta property="og:title" content="Japanese Snack Brands — Okashi">
+<meta property="og:description" content="The stories behind Japan's biggest snack makers. Not corporate profiles — the human side.">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="canonical" href="https://humancronadmin.github.io/okashi/brands/">
+<meta name="theme-color" content="#FF6B6B">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1N5PR9Y0H"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-H1N5PR9Y0H');</script>
+</head>
+<body>
+<div id="nav"></div>
+<section class="hero">
+  <h1>The Brands Behind the Snacks</h1>
+  <p>Not corporate profiles. The stories, rivalries, and obsessions that make each company's snacks worth knowing.</p>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="feature-grid" id="brand-list"></div>
+  </div>
+</section>
+<script src="../js/app.js"></script>
+<script>
+document.getElementById('nav').innerHTML = renderNav('brands');
+const brands = [
+  { name: 'Meiji', tagline: 'The friendly rivalry company. Kinoko vs Takenoko, milk chocolate vs Apollo.', icon: '🍫', url: 'meiji.html' },
+  { name: 'Glico', tagline: 'Everyone knows Pocky. But Cheeza and Pretz deserve their moment too.', icon: '🥢', url: 'glico.html' },
+  { name: 'Calbee', tagline: 'Obsessed with one question: how many things can you do with a potato?', icon: '🥔', url: 'calbee.html' },
+  { name: 'Morinaga', tagline: 'Hi-Chew is Japanese. Most people have no idea.', icon: '🍬', url: 'morinaga.html' },
+  { name: 'Kameda Seika', tagline: 'Rice crackers are a whole snack category you have been missing.', icon: '🍘', url: 'kameda.html' }
+];
+document.getElementById('brand-list').innerHTML = brands.map(b =>
+  `<a href="${b.url}" class="feature-card" style="text-decoration:none;color:inherit;cursor:pointer">
+    <div class="feature-icon">${b.icon}</div>
+    <div class="feature-title">${b.name}</div>
+    <div class="feature-desc">${b.tagline}</div>
+  </a>`
+).join('');
+</script>
+</body>
+</html>

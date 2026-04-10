@@ -91,6 +91,7 @@ function renderNav(active) {
   const pre = inSubdir ? '../' : '';
   const links = [
     ['Explore', pre + 'explore.html'],
+    ['Brands', pre + 'brands/'],
     ['Tier List', pre + 'tierlist.html'],
     ['Quiz', pre + 'quiz.html'],
     ['Collection', pre + 'collection.html'],
