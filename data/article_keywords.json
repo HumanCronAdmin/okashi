@@ -1,6 +1,61 @@
 {
   "keywords": [
     {
+      "slug": "meiji-snacks-complete-guide",
+      "title": "Meiji Snacks: A Complete Guide to Japan's Favorite Chocolate Company",
+      "keyword": "meiji japanese snacks guide",
+      "filter_key": "maker",
+      "filter_values": [
+        "Meiji"
+      ],
+      "brand_page": "../brands/meiji.html",
+      "status": "completed"
+    },
+    {
+      "slug": "glico-snacks-pocky-and-beyond",
+      "title": "Glico Snacks: Pocky, Pretz, Cheeza and Everything In Between",
+      "keyword": "glico japanese snacks pocky pretz cheeza",
+      "filter_key": "maker",
+      "filter_values": [
+        "Glico"
+      ],
+      "brand_page": "../brands/glico.html",
+      "status": "completed"
+    },
+    {
+      "slug": "calbee-potato-snacks-guide",
+      "title": "Calbee Snacks: Every Potato Snack Ranked and Reviewed",
+      "keyword": "calbee japanese potato snacks jagariko jagabee",
+      "filter_key": "maker",
+      "filter_values": [
+        "Calbee"
+      ],
+      "brand_page": "../brands/calbee.html",
+      "status": "completed"
+    },
+    {
+      "slug": "morinaga-hi-chew-guide",
+      "title": "Morinaga Hi-Chew: The Japanese Candy That Conquered the World",
+      "keyword": "morinaga hi-chew japanese candy flavors",
+      "filter_key": "maker",
+      "filter_values": [
+        "Morinaga"
+      ],
+      "brand_page": "../brands/morinaga.html",
+      "status": "completed"
+    },
+    {
+      "slug": "kameda-rice-crackers-guide",
+      "title": "Kameda Seika: Kaki no Tane, Happy Turn, and the World of Rice Crackers",
+      "keyword": "kameda kaki no tane happy turn rice crackers",
+      "filter_key": "maker",
+      "filter_values": [
+        "Kameda"
+      ],
+      "brand_page": "../brands/kameda.html",
+      "status": "completed"
+    },
+    {
       "slug": "best-strawberry-japanese-snacks",
       "title": "Best Strawberry Japanese Snacks You Need to Try",
       "keyword": "best strawberry japanese snacks",
@@ -329,6 +384,11 @@
     "best-cheese-japanese-snacks",
     "japanese-snacks-for-gift",
     "best-japanese-convenience-store-snacks",
-    "best-strawberry-japanese-snacks"
+    "best-strawberry-japanese-snacks",
+    "meiji-snacks-complete-guide",
+    "glico-snacks-pocky-and-beyond",
+    "calbee-potato-snacks-guide",
+    "morinaga-hi-chew-guide",
+    "kameda-rice-crackers-guide"
   ]
 }
