@@ -6,15 +6,25 @@
       "name_ja": "キットカット ミニ 抹茶",
       "maker": "Nestle Japan",
       "category": "chocolate",
-      "flavors": ["matcha"],
+      "flavors": [
+        "matcha"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Rich Uji matcha green tea coating over crispy wafer layers. Japan's most iconic souvenir snack.",
-      "pairs_with": ["green-tea", "black-coffee"],
-      "good_for": ["gift", "office-snack", "travel"]
+      "pairs_with": [
+        "green-tea",
+        "black-coffee"
+      ],
+      "good_for": [
+        "gift",
+        "office-snack",
+        "travel"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Japanese+KitKat+Matcha&tag=okashisnack-20"
     },
     {
       "id": "kitkat-strawberry",
@@ -22,15 +32,24 @@
       "name_ja": "キットカット ミニ オトナの甘さ ストロベリー",
       "maker": "Nestle Japan",
       "category": "chocolate",
-      "flavors": ["strawberry"],
+      "flavors": [
+        "strawberry"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Pink strawberry-flavored chocolate with crispy wafer. Balanced sweetness for adults.",
-      "pairs_with": ["milk", "black-tea"],
-      "good_for": ["gift", "office-snack"]
+      "pairs_with": [
+        "milk",
+        "black-tea"
+      ],
+      "good_for": [
+        "gift",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Japanese+KitKat+Strawberry&tag=okashisnack-20"
     },
     {
       "id": "pocky-chocolate",
@@ -38,15 +57,25 @@
       "name_ja": "ポッキー チョコレート",
       "maker": "Glico",
       "category": "cookie",
-      "flavors": ["chocolate"],
+      "flavors": [
+        "chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Thin pretzel sticks dipped in milk chocolate. The original and best-selling flavor worldwide.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["sharing", "office-snack", "travel"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "sharing",
+        "office-snack",
+        "travel"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Pocky+Chocolate+Japanese&tag=okashisnack-20"
     },
     {
       "id": "pocky-matcha",
@@ -54,15 +83,24 @@
       "name_ja": "ポッキー 抹茶",
       "maker": "Glico",
       "category": "cookie",
-      "flavors": ["matcha"],
+      "flavors": [
+        "matcha"
+      ],
       "texture": "crispy",
       "sweetness": 2,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Pretzel sticks coated in aromatic matcha chocolate. Slightly bitter, refined taste.",
-      "pairs_with": ["green-tea", "milk"],
-      "good_for": ["gift", "office-snack"]
+      "pairs_with": [
+        "green-tea",
+        "milk"
+      ],
+      "good_for": [
+        "gift",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Pocky+Matcha+Green+Tea&tag=okashisnack-20"
     },
     {
       "id": "pocky-strawberry",
@@ -70,15 +108,24 @@
       "name_ja": "ポッキー つぶつぶいちご",
       "maker": "Glico",
       "category": "cookie",
-      "flavors": ["strawberry"],
+      "flavors": [
+        "strawberry"
+      ],
       "texture": "crispy",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Pretzel sticks with strawberry cream coating containing real strawberry bits.",
-      "pairs_with": ["milk", "sparkling-water"],
-      "good_for": ["sharing", "kids"]
+      "pairs_with": [
+        "milk",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "sharing",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Pocky+Strawberry+Japanese&tag=okashisnack-20"
     },
     {
       "id": "jagariko-salad",
@@ -86,15 +133,26 @@
       "name_ja": "じゃがりこ サラダ",
       "maker": "Calbee",
       "category": "chips",
-      "flavors": ["salty", "herb"],
+      "flavors": [
+        "salty",
+        "herb"
+      ],
       "texture": "crunchy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Cup of crunchy potato sticks with parsley and carrot bits. Addictively crispy texture.",
-      "pairs_with": ["beer", "sparkling-water"],
-      "good_for": ["office-snack", "travel", "late-night"]
+      "pairs_with": [
+        "beer",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "office-snack",
+        "travel",
+        "late-night"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Jagariko+Salad+Calbee&tag=okashisnack-20"
     },
     {
       "id": "jagariko-cheese",
@@ -102,15 +160,24 @@
       "name_ja": "じゃがりこ チーズ",
       "maker": "Calbee",
       "category": "chips",
-      "flavors": ["cheese"],
+      "flavors": [
+        "cheese"
+      ],
       "texture": "crunchy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Crunchy potato sticks with rich cheese flavor. Japan's favorite savory cup snack.",
-      "pairs_with": ["beer", "cola"],
-      "good_for": ["office-snack", "late-night"]
+      "pairs_with": [
+        "beer",
+        "cola"
+      ],
+      "good_for": [
+        "office-snack",
+        "late-night"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Jagariko+Cheese+Calbee&tag=okashisnack-20"
     },
     {
       "id": "umaibo-corn-potage",
@@ -118,15 +185,25 @@
       "name_ja": "うまい棒 コーンポタージュ味",
       "maker": "Yaokin",
       "category": "chips",
-      "flavors": ["corn", "cheese"],
+      "flavors": [
+        "corn",
+        "cheese"
+      ],
       "texture": "fluffy",
       "sweetness": 2,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Puffy corn snack stick with creamy corn potage flavor. Only about 12 yen each.",
-      "pairs_with": ["milk", "juice"],
-      "good_for": ["kids", "budget-snack"]
+      "pairs_with": [
+        "milk",
+        "juice"
+      ],
+      "good_for": [
+        "kids",
+        "budget-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Umaibo+Corn+Potage&tag=okashisnack-20"
     },
     {
       "id": "calbee-kataage-usushio",
@@ -134,15 +211,24 @@
       "name_ja": "カルビー 堅あげポテト うすしお味",
       "maker": "Calbee",
       "category": "chips",
-      "flavors": ["salty"],
+      "flavors": [
+        "salty"
+      ],
       "texture": "crunchy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Thick-cut, hard-fried potato chips with a satisfying crunch. Simple salt flavor.",
-      "pairs_with": ["beer", "sparkling-water"],
-      "good_for": ["late-night", "sharing"]
+      "pairs_with": [
+        "beer",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "late-night",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Calbee+Kata+Age+Potato+Chips&tag=okashisnack-20"
     },
     {
       "id": "happy-turn",
@@ -150,15 +236,25 @@
       "name_ja": "ハッピーターン",
       "maker": "Kameda Seika",
       "category": "rice-cracker",
-      "flavors": ["salty", "umami"],
+      "flavors": [
+        "salty",
+        "umami"
+      ],
       "texture": "crispy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Light rice crackers coated in addictive 'Happy Powder' — a sweet-salty umami seasoning.",
-      "pairs_with": ["green-tea", "beer"],
-      "good_for": ["sharing", "office-snack"]
+      "pairs_with": [
+        "green-tea",
+        "beer"
+      ],
+      "good_for": [
+        "sharing",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Happy+Turn+Rice+Cracker+Kameda&tag=okashisnack-20"
     },
     {
       "id": "koala-no-march-chocolate",
@@ -166,15 +262,25 @@
       "name_ja": "コアラのマーチ チョコレート",
       "maker": "Lotte",
       "category": "cookie",
-      "flavors": ["chocolate"],
+      "flavors": [
+        "chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Bite-sized koala-shaped biscuits filled with chocolate cream. Each has a unique koala print.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["kids", "sharing", "gift"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "kids",
+        "sharing",
+        "gift"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Koala+March+Chocolate+Lotte&tag=okashisnack-20"
     },
     {
       "id": "takenoko-no-sato",
@@ -182,15 +288,24 @@
       "name_ja": "たけのこの里",
       "maker": "Meiji",
       "category": "cookie",
-      "flavors": ["chocolate"],
+      "flavors": [
+        "chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Bamboo shoot-shaped cookie topped with chocolate. The rival of Kinoko no Yama in Japan's great snack debate.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["sharing", "office-snack"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "sharing",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Takenoko+no+Sato&tag=okashisnack-20"
     },
     {
       "id": "kinoko-no-yama",
@@ -198,15 +313,24 @@
       "name_ja": "きのこの山",
       "maker": "Meiji",
       "category": "cookie",
-      "flavors": ["chocolate"],
+      "flavors": [
+        "chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Mushroom-shaped crackers topped with chocolate. Part of the legendary Kinoko vs Takenoko rivalry.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["sharing", "office-snack"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "sharing",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Kinoko+no+Yama&tag=okashisnack-20"
     },
     {
       "id": "hi-chew-grape",
@@ -214,15 +338,24 @@
       "name_ja": "ハイチュウ グレープ",
       "maker": "Morinaga",
       "category": "candy",
-      "flavors": ["grape", "fruit"],
+      "flavors": [
+        "grape",
+        "fruit"
+      ],
       "texture": "chewy",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Soft, juicy chewy candy with intense grape flavor. Japan's most popular chewy candy worldwide.",
-      "pairs_with": ["sparkling-water"],
-      "good_for": ["travel", "kids"]
+      "pairs_with": [
+        "sparkling-water"
+      ],
+      "good_for": [
+        "travel",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Hi+Chew+Grape+Japanese&tag=okashisnack-20"
     },
     {
       "id": "hi-chew-strawberry",
@@ -230,15 +363,25 @@
       "name_ja": "ハイチュウ ストロベリー",
       "maker": "Morinaga",
       "category": "candy",
-      "flavors": ["strawberry", "fruit"],
+      "flavors": [
+        "strawberry",
+        "fruit"
+      ],
       "texture": "chewy",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Classic strawberry chewy candy with real fruit juice. Loved by all ages.",
-      "pairs_with": ["milk", "sparkling-water"],
-      "good_for": ["travel", "kids"]
+      "pairs_with": [
+        "milk",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "travel",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Hi+Chew+Strawberry+Japanese&tag=okashisnack-20"
     },
     {
       "id": "milky",
@@ -246,15 +389,25 @@
       "name_ja": "ミルキー",
       "maker": "Fujiya",
       "category": "candy",
-      "flavors": ["milk", "cream"],
+      "flavors": [
+        "milk",
+        "cream"
+      ],
       "texture": "chewy",
       "sweetness": 5,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Creamy milk candy with Peko-chan mascot. Made with Hokkaido fresh cream. An iconic Japanese sweet.",
-      "pairs_with": ["green-tea", "black-coffee"],
-      "good_for": ["kids", "gift"]
+      "pairs_with": [
+        "green-tea",
+        "black-coffee"
+      ],
+      "good_for": [
+        "kids",
+        "gift"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Fujiya+Milky+Candy+Japanese&tag=okashisnack-20"
     },
     {
       "id": "meiji-chocolate-koka",
@@ -262,15 +415,25 @@
       "name_ja": "明治ミルクチョコレート",
       "maker": "Meiji",
       "category": "chocolate",
-      "flavors": ["chocolate", "milk"],
+      "flavors": [
+        "chocolate",
+        "milk"
+      ],
       "texture": "melty",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Japan's classic milk chocolate bar since 1926. Smooth, creamy, and perfectly balanced.",
-      "pairs_with": ["black-coffee", "milk"],
-      "good_for": ["office-snack", "treat"]
+      "pairs_with": [
+        "black-coffee",
+        "milk"
+      ],
+      "good_for": [
+        "office-snack",
+        "treat"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Milk+Chocolate+Bar+Japanese&tag=okashisnack-20"
     },
     {
       "id": "toppo",
@@ -278,15 +441,24 @@
       "name_ja": "トッポ",
       "maker": "Lotte",
       "category": "cookie",
-      "flavors": ["chocolate"],
+      "flavors": [
+        "chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Pretzel tubes filled with chocolate inside — the inverse of Pocky. Chocolate won't melt on your hands.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["office-snack", "travel"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "office-snack",
+        "travel"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Lotte+Toppo+Chocolate&tag=okashisnack-20"
     },
     {
       "id": "kaki-no-tane",
@@ -294,15 +466,25 @@
       "name_ja": "柿の種",
       "maker": "Kameda Seika",
       "category": "rice-cracker",
-      "flavors": ["salty", "spicy"],
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
       "texture": "crunchy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Crescent-shaped spicy rice crackers mixed with peanuts. Japan's #1 beer snack since 1966.",
-      "pairs_with": ["beer", "sake"],
-      "good_for": ["late-night", "sharing"]
+      "pairs_with": [
+        "beer",
+        "sake"
+      ],
+      "good_for": [
+        "late-night",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Kameda+Kaki+no+Tane&tag=okashisnack-20"
     },
     {
       "id": "country-maam-vanilla",
@@ -310,15 +492,25 @@
       "name_ja": "カントリーマアム バニラ",
       "maker": "Fujiya",
       "category": "cookie",
-      "flavors": ["vanilla", "chocolate-chip"],
+      "flavors": [
+        "vanilla",
+        "chocolate-chip"
+      ],
       "texture": "soft",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Soft-baked cookie with chocolate chips and vanilla flavor. Even softer when microwaved.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["office-snack", "kids"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "office-snack",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Country+Maam+Vanilla+Fujiya&tag=okashisnack-20"
     },
     {
       "id": "pretz-salad",
@@ -326,15 +518,25 @@
       "name_ja": "プリッツ サラダ",
       "maker": "Glico",
       "category": "cookie",
-      "flavors": ["herb", "salty"],
+      "flavors": [
+        "herb",
+        "salty"
+      ],
       "texture": "crispy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Savory pretzel sticks with herb seasoning. The no-chocolate sibling of Pocky.",
-      "pairs_with": ["beer", "wine"],
-      "good_for": ["office-snack", "sharing"]
+      "pairs_with": [
+        "beer",
+        "wine"
+      ],
+      "good_for": [
+        "office-snack",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Glico+Pretz+Salad&tag=okashisnack-20"
     },
     {
       "id": "kasugai-gummy-muscat",
@@ -342,15 +544,24 @@
       "name_ja": "春日井 マスカットグミ",
       "maker": "Kasugai",
       "category": "gummy",
-      "flavors": ["grape", "fruit"],
+      "flavors": [
+        "grape",
+        "fruit"
+      ],
       "texture": "chewy",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Soft gummy candies bursting with Muscat grape flavor. Made with real fruit juice.",
-      "pairs_with": ["sparkling-water"],
-      "good_for": ["travel", "kids"]
+      "pairs_with": [
+        "sparkling-water"
+      ],
+      "good_for": [
+        "travel",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Kasugai+Muscat+Gummy&tag=okashisnack-20"
     },
     {
       "id": "bourbon-alfort",
@@ -358,15 +569,24 @@
       "name_ja": "アルフォート ミニチョコレート",
       "maker": "Bourbon",
       "category": "chocolate",
-      "flavors": ["chocolate"],
+      "flavors": [
+        "chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Rich chocolate layered on a whole wheat biscuit with a sailing ship embossed design.",
-      "pairs_with": ["black-coffee", "milk"],
-      "good_for": ["office-snack", "treat"]
+      "pairs_with": [
+        "black-coffee",
+        "milk"
+      ],
+      "good_for": [
+        "office-snack",
+        "treat"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Bourbon+Alfort+Chocolate+Biscuit&tag=okashisnack-20"
     },
     {
       "id": "calbee-shrimp-chips",
@@ -374,15 +594,25 @@
       "name_ja": "カルビー かっぱえびせん",
       "maker": "Calbee",
       "category": "chips",
-      "flavors": ["shrimp", "salty"],
+      "flavors": [
+        "shrimp",
+        "salty"
+      ],
       "texture": "crispy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Light and crispy shrimp-flavored chips. Made with real shrimp since 1964. 'You can't stop eating them.'",
-      "pairs_with": ["beer", "sparkling-water"],
-      "good_for": ["sharing", "kids"]
+      "pairs_with": [
+        "beer",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "sharing",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Calbee+Shrimp+Chips+Kappa+Ebisen&tag=okashisnack-20"
     },
     {
       "id": "black-thunder",
@@ -390,15 +620,25 @@
       "name_ja": "ブラックサンダー",
       "maker": "Yuraku Confectionery",
       "category": "chocolate",
-      "flavors": ["chocolate", "cookie"],
+      "flavors": [
+        "chocolate",
+        "cookie"
+      ],
       "texture": "crunchy",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Dense chocolate bar packed with cocoa cookie and biscuit crunch. Huge flavor for its tiny price.",
-      "pairs_with": ["black-coffee", "milk"],
-      "good_for": ["budget-snack", "office-snack"]
+      "pairs_with": [
+        "black-coffee",
+        "milk"
+      ],
+      "good_for": [
+        "budget-snack",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Black+Thunder+Chocolate+Japanese&tag=okashisnack-20"
     },
     {
       "id": "tokyo-banana",
@@ -406,15 +646,25 @@
       "name_ja": "東京ばな奈",
       "maker": "Grapestone",
       "category": "cake",
-      "flavors": ["banana", "cream"],
+      "flavors": [
+        "banana",
+        "cream"
+      ],
       "texture": "soft",
       "sweetness": 4,
       "availability": "regional-limited",
       "seasonal": false,
       "price_range": "premium",
       "description": "Soft sponge cake filled with banana custard cream. Tokyo's #1 souvenir snack found at train stations.",
-      "pairs_with": ["black-tea", "black-coffee"],
-      "good_for": ["gift", "travel"]
+      "pairs_with": [
+        "black-tea",
+        "black-coffee"
+      ],
+      "good_for": [
+        "gift",
+        "travel"
+      ],
+      "amazon_us": ""
     },
     {
       "id": "royce-nama-chocolate",
@@ -422,15 +672,25 @@
       "name_ja": "ロイズ 生チョコレート",
       "maker": "Royce'",
       "category": "chocolate",
-      "flavors": ["chocolate", "cream"],
+      "flavors": [
+        "chocolate",
+        "cream"
+      ],
       "texture": "melty",
       "sweetness": 3,
       "availability": "regional-limited",
       "seasonal": false,
       "price_range": "premium",
       "description": "Ultra-smooth ganache squares dusted with cocoa powder. Made in Hokkaido with fresh cream.",
-      "pairs_with": ["black-coffee", "whiskey"],
-      "good_for": ["gift", "treat"]
+      "pairs_with": [
+        "black-coffee",
+        "whiskey"
+      ],
+      "good_for": [
+        "gift",
+        "treat"
+      ],
+      "amazon_us": ""
     },
     {
       "id": "shiroi-koibito",
@@ -438,15 +698,24 @@
       "name_ja": "白い恋人",
       "maker": "Ishiya",
       "category": "cookie",
-      "flavors": ["white-chocolate"],
+      "flavors": [
+        "white-chocolate"
+      ],
       "texture": "crispy",
       "sweetness": 4,
       "availability": "regional-limited",
       "seasonal": false,
       "price_range": "premium",
       "description": "Two thin butter cookies sandwiching white chocolate. Hokkaido's most famous souvenir.",
-      "pairs_with": ["black-coffee", "black-tea"],
-      "good_for": ["gift", "travel"]
+      "pairs_with": [
+        "black-coffee",
+        "black-tea"
+      ],
+      "good_for": [
+        "gift",
+        "travel"
+      ],
+      "amazon_us": ""
     },
     {
       "id": "yatsuhashi-cinnamon",
@@ -454,15 +723,23 @@
       "name_ja": "生八ッ橋 ニッキ",
       "maker": "Shogoin",
       "category": "mochi",
-      "flavors": ["cinnamon"],
+      "flavors": [
+        "cinnamon"
+      ],
       "texture": "mochi",
       "sweetness": 3,
       "availability": "regional-limited",
       "seasonal": false,
       "price_range": "mid-range",
       "description": "Soft mochi triangles with cinnamon flavor and sweet red bean filling. Kyoto's signature sweet.",
-      "pairs_with": ["green-tea"],
-      "good_for": ["gift", "travel"]
+      "pairs_with": [
+        "green-tea"
+      ],
+      "good_for": [
+        "gift",
+        "travel"
+      ],
+      "amazon_us": ""
     },
     {
       "id": "meiji-apollo",
@@ -470,15 +747,24 @@
       "name_ja": "明治 アポロ",
       "maker": "Meiji",
       "category": "chocolate",
-      "flavors": ["strawberry", "chocolate"],
+      "flavors": [
+        "strawberry",
+        "chocolate"
+      ],
       "texture": "melty",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Cone-shaped chocolate with strawberry and milk chocolate layers. Named after the Apollo spacecraft.",
-      "pairs_with": ["milk"],
-      "good_for": ["kids", "sharing"]
+      "pairs_with": [
+        "milk"
+      ],
+      "good_for": [
+        "kids",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Apollo+Strawberry+Chocolate&tag=okashisnack-20"
     },
     {
       "id": "calbee-jagabee",
@@ -486,15 +772,24 @@
       "name_ja": "Jagabee うすしお味",
       "maker": "Calbee",
       "category": "chips",
-      "flavors": ["salty"],
+      "flavors": [
+        "salty"
+      ],
       "texture": "crunchy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Whole-cut potato sticks in a cup. Crunchier and more natural-tasting than regular chips.",
-      "pairs_with": ["beer", "sparkling-water"],
-      "good_for": ["office-snack", "travel"]
+      "pairs_with": [
+        "beer",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "office-snack",
+        "travel"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Calbee+Jagabee&tag=okashisnack-20"
     },
     {
       "id": "bourbon-petit-series",
@@ -502,15 +797,24 @@
       "name_ja": "ブルボン プチ チョコチップクッキー",
       "maker": "Bourbon",
       "category": "cookie",
-      "flavors": ["chocolate-chip"],
+      "flavors": [
+        "chocolate-chip"
+      ],
       "texture": "crispy",
       "sweetness": 3,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "budget",
       "description": "Tiny cookies in a tube. The Petit series has 20+ flavors — perfect for trying different tastes.",
-      "pairs_with": ["milk", "black-coffee"],
-      "good_for": ["office-snack", "budget-snack"]
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "office-snack",
+        "budget-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Bourbon+Petit+Cookie+Japanese&tag=okashisnack-20"
     },
     {
       "id": "meiji-kinoko-strawberry",
@@ -518,15 +822,23 @@
       "name_ja": "きのこの山 いちご",
       "maker": "Meiji",
       "category": "cookie",
-      "flavors": ["strawberry"],
+      "flavors": [
+        "strawberry"
+      ],
       "texture": "crispy",
       "sweetness": 4,
       "availability": "convenience-store",
       "seasonal": true,
       "price_range": "budget",
       "description": "Mushroom-shaped crackers with strawberry chocolate. A seasonal twist on the classic.",
-      "pairs_with": ["milk"],
-      "good_for": ["sharing", "kids"]
+      "pairs_with": [
+        "milk"
+      ],
+      "good_for": [
+        "sharing",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Kinoko+Yama+Strawberry&tag=okashisnack-20"
     },
     {
       "id": "cheeza-cheddar",
@@ -534,15 +846,24 @@
       "name_ja": "チーザ チェダーチーズ",
       "maker": "Glico",
       "category": "chips",
-      "flavors": ["cheese"],
+      "flavors": [
+        "cheese"
+      ],
       "texture": "crispy",
       "sweetness": 1,
       "availability": "convenience-store",
       "seasonal": false,
       "price_range": "mid-range",
       "description": "Over 50% real cheese content. Intense, concentrated cheese flavor in thin crispy chips.",
-      "pairs_with": ["wine", "beer"],
-      "good_for": ["late-night", "sharing"]
+      "pairs_with": [
+        "wine",
+        "beer"
+      ],
+      "good_for": [
+        "late-night",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Glico+Cheeza+Cheddar+Cheese&tag=okashisnack-20"
     },
     {
       "id": "kabukiage",
@@ -550,15 +871,25 @@
       "name_ja": "歌舞伎揚",
       "maker": "Amanoya",
       "category": "rice-cracker",
-      "flavors": ["soy-sauce", "sweet"],
+      "flavors": [
+        "soy-sauce",
+        "sweet"
+      ],
       "texture": "crunchy",
       "sweetness": 2,
       "availability": "supermarket",
       "seasonal": false,
       "price_range": "budget",
       "description": "Sweet soy sauce glazed rice crackers. Deep-fried for an extra crunchy, addictive bite.",
-      "pairs_with": ["green-tea", "beer"],
-      "good_for": ["sharing", "office-snack"]
+      "pairs_with": [
+        "green-tea",
+        "beer"
+      ],
+      "good_for": [
+        "sharing",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Kabukiage+Rice+Cracker+Amanoya&tag=okashisnack-20"
     }
   ]
 }

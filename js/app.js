@@ -58,6 +58,8 @@ const SA = {
             <div class="card-tags">${flavorTags}${texTag}</div>
           </div>
           ${showTried ? `<button class="tried-btn ${collected ? 'is-tried' : 'not-tried'}" data-id="${s.id}">${collected ? '✓ Tried!' : 'Mark as Tried'}</button>` : ''}
+          ${s.amazon_us ? `<a href="${s.amazon_us}" target="_blank" rel="noopener" class="buy-btn">Buy on Amazon</a>` : ''}
+          ${s.availability === 'regional-limited' && !s.amazon_us ? `<span class="japan-only-badge">Japan Only</span>` : ''}
         </div>
       </div>`;
   },
