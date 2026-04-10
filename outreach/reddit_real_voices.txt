@@ -1,0 +1,253 @@
+========================================
+Reddit 本物の声 — 収集済み（2026-04-10）
+========================================
+全てReddit JSON APIから直接取得した実在の投稿・コメント。
+URLをクリックすれば原文が確認できる。
+
+次セッションでの作業:
+1. 各ブランドの声をもっと集める（Pocky, Calbee, Kameda系が不足）
+2. 集めた声をブランドページに反映する
+3. 引用元のURL・ユーザー名・upvote数を記録して信頼性を担保する
+
+
+========================================
+明治（Meiji）— きのこの山 vs たけのこの里
+========================================
+ソース: r/Hololive "Kinoko? Takenoko?" (1213pts, 218コメント)
+URL: https://reddit.com/r/Hololive/comments/10qq51y/kinoko_takenoko/
+
+■ きのこの山を推す声
+[10pts] u/plasmarine0:
+"The kinoko has a detached combination of chocolate and biscuit which sets it apart from most chocolate+cookie confections out there. Most follow the takenoko route of even chocolate coating across the biscuit which, to me, mires it in normalcy."
+（きのこの山はチョコとビスケットが分離してて、他のチョコ菓子とは一線を画してる。たけのこの里はチョコが全体にコーティングされてて、普通のお菓子と変わらない）
+
+[5pts] u/Yamigosaya:
+"Kinoko or death"
+（きのこの山か死か）
+
+[2pts] u/Hiu_Sharky:
+"Ate both of them, liked kinoko much more tbh. Though I'd definitely eat both."
+（両方食べたけど、正直きのこの方がずっと好き。でもどっちも食べる）
+
+■ たけのこの里を推す声
+[8pts] u/FearTHEReaper01:
+"Takenoko has the right amount of chocolate. Therefore it is the right answer"
+（たけのこの里はチョコの量がちょうどいい。だから正解）
+
+■ 論争そのものへの声
+[6pts] u/SnabDedraterEdave:
+"One of the most brutal religious wars that continues to wage on to this day."
+（今日まで続く最も残酷な宗教戦争の一つ）
+
+[3pts] u/redditfanfan00:
+"i like them both. i can't vote for either one, both are delicious."
+（どっちも好き。投票できない。どっちもおいしい）
+
+■ 海外勢の反応
+[10pts] u/Screamlord_Sam:
+"I've never had either before, but when in doubt you should always choose the mushroom."
+（どっちも食べたことないけど、迷ったらきのこを選ぶべき）
+
+[8pts] u/fuzzymarth:
+"Are Chocorooms and Chococones identical to Kinoko and Takenoko or are the 'foreign market' versions inferior like with so many snacks?"
+（海外版のChocorooms/Chococonesは本物のきのこ/たけのこと同じ？海外版は劣化版みたいにならない？）
+
+[3pts] u/Calico_fox:
+"I had a bag of Chocorooms (Circle K near me carries them) and they were pretty good."
+（近くのCircle Kで売ってたChocorooms食べた、結構おいしかった）
+
+
+========================================
+森永（Morinaga）— ハイチュウ
+========================================
+ソース: r/candy "Best Hi-Chew Flavor?" (135pts, 149コメント)
+URL: https://reddit.com/r/candy/comments/17w32x5/best_hichew_flavor/
+
+[48pts] u/I_DontNeedNoDoctor:
+"Grape…tastes like eating a fresh Concord grape off my parents arbor back in the 60's"
+（グレープ…60年代に実家のブドウ棚から摘んで食べた新鮮なコンコードグレープの味がする）
+※ 48upvote。感情と記憶が直結してる本物の声。ブランドページに最適。
+
+[22pts] u/El-chucho373:
+"Ramune, rainbow sherbet, and grape in no particular order"
+（ラムネ、レインボーシャーベット、グレープ。順位はつけられない）
+
+[16pts] u/TheDarlizzle:
+"Green apple or mango"
+（青リンゴかマンゴー）
+
+[10pts] u/mickcow:
+"Grape for regular and lemon for sour"
+（通常はグレープ、サワーはレモン）
+
+---
+ソース: r/TheYardPodcast "Hi Chew are just LA Starbursts" (0pts, 12コメント)
+URL: https://reddit.com/r/TheYardPodcast/comments/1okxiqq/hi_chew_are_just_la_starbursts/
+
+投稿者の主張:
+"The good hichews arent as good as the good Starbursts. There's no way theyre more than just Candy, Nick is insane."
+（いいハイチュウでもいいStarburstには勝てない。ただのキャンディ以上のものじゃない）
+
+[17pts] u/N238:
+"Hi-Chew is a god-tier candy. I get the good flavors from the international market in my midwest city. Cola, Ramune, Dragonfruit, Blue Raspberry... They're not LA starburst, they're Japanese starburst."
+（ハイチュウは神レベルのキャンディ。中西部の街のインターナショナルマーケットでいい味を買ってる。コーラ、ラムネ、ドラゴンフルーツ、ブルーラズベリー…LAのStarburstじゃない、日本のStarburstだ）
+※ 反論として17upvote。「LAのStarburstじゃなく日本のStarburst」は名言。
+
+[1pts] u/Dewey519:
+"There's a lot of bad candy takes we can poke fun of, but this isn't one of them."
+（ふざけたキャンディ評論は多いけど、これはそうじゃない ※ハイチュウを擁護）
+
+
+========================================
+カルビー（Calbee）— Jagabee / じゃがりこ
+========================================
+ソース: r/traderjoes "Does anyone remember Spud Crunchies and know a dupe?" (64pts, 9コメント)
+URL: https://reddit.com/r/traderjoes/comments/rr9x3d/does_anyone_remember_spud_crunchies_and_know_a/
+
+[17pts] u/EwokNuggets:
+"Find a Japanese or Asian Grocer and grab Jagabee. It's the same thing."
+（日本食品店かアジアンスーパーでJagabee買え。同じものだ）
+※ Jagabeeがアメリカの人にとって「Spud Crunchiesの代替品」として認知されてる証拠。
+
+[7pts] u/khide_:
+"I think around the time it got discontinued, there was a thread that offered an alternative that was similar, I think that this is it (calbeena.com/jagabee)"
+（廃番になった頃、似た代替品を紹介するスレがあった。たぶんこれ）
+
+---
+ソース: r/japan "Help finding Japanese snack I once had?" (2pts, 5コメント)
+URL: https://reddit.com/r/japan/comments/5gjeaa/help_finding_japanese_snack_i_once_had/
+
+投稿者:
+"I got invited into a lot of Japanese homes, where we were always offered refreshments, and there was one snack I really liked... It looked like french fries and was crunchy and slightly sweet."
+（日本の家庭にたくさん招かれて、お菓子が出されたんだけど、すごく気に入ったのがあった…フライドポテトみたいな見た目で、カリカリでちょっと甘い）
+※ じゃがりこ/Jagabeeへの思い出。「日本の家庭で出された」という体験。
+
+[8pts] u/FourthBridge:
+"Search for imokempi/芋けんぴ. They are sweet potato based and usually glazed with sugar. Calbee Jagabee/Jagariko are made from regular potato and generally savory."
+（芋けんぴを検索して。さつまいもベースで砂糖がかかってる。カルビーのJagabee/じゃがりこは普通のじゃがいもでだいたいしょっぱい系）
+
+
+========================================
+グリコ（Glico）— ポッキー / チーザ
+========================================
+
+■ ポッキー
+ソース: r/polls "What pocky flavor tastes the best?" (3pts, 3コメント)
+URL: https://reddit.com/r/polls/comments/y0orvn/what_pocky_flavor_tastes_the_best/
+
+[4pts] u/High_Definition7:
+"PEOPLE HATE POCKY????"
+
+[0pts] u/PinaColadaGoddess:
+"Almond Pocky is the best hands down"
+
+---
+ソース: r/candy "Just made a cultured candy run!" (110pts, 50コメント)
+URL: https://reddit.com/r/candy/comments/17ipc61/just_made_a_cultured_candy_run/
+
+[8pts] u/my_stupid_name:
+"A million years ago I got a box of Pocky for Men (dark chocolate, I think), that wasn't anything special aside from the 'for Men' part. Cracked me up, and I wish I could still find it."
+
+[6pts] u/dpark03:
+"I like the banana and matcha the best"
+
+---
+ソース: r/candy "Went to an international store..." (182pts, 107コメント)
+URL: https://reddit.com/r/candy/comments/17taib1/went_to_an_international_store/
+
+[3pts] u/Nthmetalwings:
+"The coconut pocky are my favourite flavour of pocky, no question!"
+
+■ チーザ
+ソース: r/JapanTravelTips "Top 10 food to buy at supermarket/konbini" (53pts, 6コメント)
+URL: https://reddit.com/r/JapanTravelTips/comments/1i4n75q/
+
+[1pts] u/OstentatiousIt:
+"Cheeza is one of the finest snacks on this planet. Good list!"
+
+---
+ソース: r/japanlife "Cheese flavored snacks that don't suck" (39pts, 99コメント)
+URL: https://reddit.com/r/japanlife/comments/1sfq71d/cheese_flavored_snacks_that_dont_suck/
+
+[63pts] u/nomusicnolife:
+"Cheeza are generally pretty good!"
+
+[17pts] u/Background_Map_3460:
+"Cheeza are made with a ton of real cheese. Great and crispy"
+
+
+========================================
+カルビー（Calbee）— かっぱえびせん 追加分
+========================================
+ソース: r/Costco "Shrimp Chips... Yay or nay?" (259pts, 152コメント)
+URL: https://reddit.com/r/Costco/comments/1hsay2a/shrimp_chips_yay_or_nay/
+
+[233pts] u/cottonycloud:
+"These are one of the OG shrimp chips I had as a kid."
+※ 233upvote。「OG」「子供の頃から」。強い思い出の声。
+
+[54pts] u/NicolaColi:
+"Best damn shrimp chips. I wish they had the yuzu or black pepper flavors"
+
+[42pts] u/Least-Ingenuity9631:
+"Man Costco is really trying to grab hold of that Asian market share lol. This is indeed one of the og authentic Asian branded shrimp chips that would be at any major Asian supermarket. I always used to grab a bag with my parents every time we went to Chinatown back in the 90s and 2000s. Truly is a classic."
+
+---
+ソース: r/Costco "New Shrimp Chips multi flavor pack" (80pts, 16コメント)
+URL: https://reddit.com/r/Costco/comments/1qfrnwu/new_shrimp_chips_multi_flavor_pack/
+
+[24pts] u/Heavy_Roof7607:
+"Iconic. Asian kid staple."
+
+[7pts] u/ambiguousluxe:
+"I'm so glad we won't get these at my small arkansas store because they'd be a problem for me. They're sooo good"
+
+---
+ソース: r/snacking "these shrimp chips are addicting and are in the GOAT conversation" (32pts, 5コメント)
+URL: https://reddit.com/r/snacking/comments/1qpfgnh/
+
+
+========================================
+亀田製菓（Kameda）— 柿の種 追加分
+========================================
+ソース: r/AskAChinese "Rice crackers - assorted" (11pts, 6コメント)
+URL: https://reddit.com/r/AskAChinese/comments/1rox34f/rice_crackers_assorted/
+
+[6pts] u/Key-Pomegranate-2086:
+"Thats a common Japanese rice cracker, Kakinotane, but not that common in China."
+
+[2pts] u/OnkelKarl_1891:
+"柿の種 'Persimmons' seed' is a Japanese snack, we import them from Japan and they could be found in some specialized supermarkets and 無印良品 but it's not a traditional Chinese snack."
+
+---
+ソース: r/ShokugekiNoSoma "Made Kaki No Tane Chicken Fillet" (263pts, 6コメント)
+URL: https://reddit.com/r/ShokugekiNoSoma/comments/xqz7g7/
+
+[1pts] u/jamesscoob:
+"Instead of using panko, use Kaki No Tane to coat the chicken for extra crunch and flavor!"
+※ 柿の種を料理のコーティングとして使うレシピ。使い方の幅を示す声。
+
+---
+ソース: r/JapaneseFood "I made a Fried Fish fillet coated with Kaki No Tane" (293pts, 10コメント)
+URL: https://reddit.com/r/JapaneseFood/comments/wvffvc/
+
+[3pts] u/ichigoajihatsume:
+"Wait, there are things like wasabi/umeboshi flavored Kaki No Tane..."
+
+---
+ソース: r/askvan "Help with finding a specific Japanese snack" (3pts, 9コメント)
+URL: https://reddit.com/r/askvan/comments/1nxlu3n/
+
+[7pts] u/SkyisFullofCats:
+バンクーバーで柿の種を探している人に購入先を教えてる。海外での需要を示す。
+
+
+========================================
+未収集（追加収集の余地あり）
+========================================
+- Happy Turn（ハッピーターン）: Reddit上で直接の言及がほぼ見つからない。日本語圏に情報が偏っている
+- Pretz（プリッツ）: 単独の議論がほぼない。Pockyの影に隠れている
+- Kata-Age（堅あげポテト）: 英語圏での認知が低い
+
+→ これらはお菓子を買って自分で食べた体験を書くか、
+  YouTubeの日本のお菓子レビュー動画のコメント欄から拾う必要がある

@@ -19,6 +19,18 @@ function renderBrandPage(brand) {
     </div>`
   ).join('');
 
+  // Real voices
+  const voicesHtml = (brand.realVoices || []).map(v =>
+    `<div class="voice-item">
+      <div class="voice-quote">"${v.quote}"</div>
+      <div class="voice-meta">
+        <span class="voice-user">u/${v.user}</span>
+        <span class="voice-source">${v.source}</span>
+        ${v.score ? `<span class="voice-score">${v.score} pts</span>` : ''}
+      </div>
+    </div>`
+  ).join('');
+
   // Related articles
   const articlesHtml = brand.articles.map(a =>
     `<a href="${a.url}" class="brand-article-link">${a.icon} ${a.title}</a>`
@@ -51,6 +63,15 @@ function renderBrandPage(brand) {
         <div class="scene-grid">${scenesHtml}</div>
       </div>
     </section>
+
+    ${voicesHtml ? `
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">What people actually say</h2>
+        <p style="font-size:0.85rem;color:#999;margin-bottom:16px">Real quotes from real people on Reddit.</p>
+        <div class="voices-grid">${voicesHtml}</div>
+      </div>
+    </section>` : ''}
 
     ${articlesHtml ? `
     <section class="section" style="background:#fff">
