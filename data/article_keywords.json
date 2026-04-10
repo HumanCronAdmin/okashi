@@ -1,41 +1,334 @@
 {
   "keywords": [
-    {"slug": "best-strawberry-japanese-snacks", "title": "Best Strawberry Japanese Snacks You Need to Try", "keyword": "best strawberry japanese snacks", "filter_key": "flavors", "filter_values": ["strawberry"], "status": "pending"},
-    {"slug": "best-melon-japanese-snacks", "title": "Best Melon-Flavored Japanese Snacks", "keyword": "best melon japanese snacks", "filter_key": "flavors", "filter_values": ["melon"], "status": "pending"},
-    {"slug": "best-yuzu-japanese-snacks", "title": "Best Yuzu Japanese Snacks: Japan's Citrus Flavor", "keyword": "best yuzu japanese snacks", "filter_key": "flavors", "filter_values": ["yuzu"], "status": "pending"},
-    {"slug": "chewy-japanese-candy", "title": "Best Chewy Japanese Candy and Snacks", "keyword": "chewy japanese candy", "filter_key": "texture", "filter_values": ["chewy", "mochi"], "status": "pending"},
-    {"slug": "soft-japanese-snacks", "title": "Best Soft Japanese Snacks: Mochi, Cakes, and More", "keyword": "soft japanese snacks", "filter_key": "texture", "filter_values": ["soft", "mochi", "melty"], "status": "pending"},
-    {"slug": "japanese-chocolate-snacks-ranked", "title": "Japanese Chocolate Snacks Ranked: The Definitive Guide", "keyword": "japanese chocolate snacks ranked", "filter_key": "flavors", "filter_values": ["chocolate"], "status": "pending"},
-    {"slug": "japanese-snacks-for-kids", "title": "Best Japanese Snacks for Kids: Fun and Delicious Picks", "keyword": "japanese snacks for kids", "filter_key": "good_for", "filter_values": ["kids"], "status": "pending"},
-    {"slug": "japanese-snacks-for-office", "title": "Best Japanese Office Snacks That Won't Annoy Coworkers", "keyword": "japanese office snacks", "filter_key": "good_for", "filter_values": ["office-snack"], "status": "pending"},
-    {"slug": "japanese-snacks-under-200-yen", "title": "Best Japanese Snacks Under 200 Yen: Budget Picks", "keyword": "japanese snacks under 200 yen", "filter_key": "price_range", "filter_values": ["budget"], "status": "pending"},
-    {"slug": "japanese-rice-crackers-guide", "title": "Japanese Rice Crackers: Complete Guide to Senbei and More", "keyword": "japanese rice crackers", "filter_key": "category", "filter_values": ["rice-cracker"], "status": "pending"},
-    {"slug": "best-savory-japanese-snacks", "title": "Best Savory Japanese Snacks for People Who Don't Like Sweet", "keyword": "best savory japanese snacks", "filter_key": "flavors", "filter_values": ["salty", "umami", "cheese", "soy-sauce"], "status": "pending"},
-    {"slug": "japanese-snacks-for-road-trip", "title": "Best Japanese Snacks for Road Trips and Long Drives", "keyword": "japanese snacks for road trip", "filter_key": "good_for", "filter_values": ["travel"], "status": "pending"},
-    {"slug": "japanese-snacks-late-night", "title": "Best Japanese Late Night Snacks: Konbini Midnight Picks", "keyword": "japanese snacks late night", "filter_key": "good_for", "filter_values": ["late-night"], "status": "pending"},
-    {"slug": "pocky-flavors-ranked", "title": "All Pocky Flavors Ranked: Which One Is the Best?", "keyword": "best pocky flavors ranked", "filter_key": "flavors", "filter_values": ["chocolate", "matcha", "strawberry"], "status": "pending"},
-    {"slug": "kinoko-vs-takenoko", "title": "Kinoko no Yama vs Takenoko no Sato: The Ultimate Debate", "keyword": "kinoko vs takenoko", "filter_key": "category", "filter_values": ["cookie"], "status": "pending"},
-    {"slug": "japanese-gummy-candy-guide", "title": "Best Japanese Gummy Candy: Soft, Chewy, and Fruity", "keyword": "japanese gummy candy", "filter_key": "category", "filter_values": ["gummy", "candy"], "status": "pending"},
-    {"slug": "japanese-snacks-with-green-tea", "title": "Japanese Snacks That Go Perfectly with Green Tea", "keyword": "japanese snacks with green tea", "filter_key": "pairs_with", "filter_values": ["green-tea"], "status": "pending"},
-    {"slug": "japanese-snacks-with-beer", "title": "Best Japanese Snacks to Pair with Beer: Izakaya Style", "keyword": "japanese snacks with beer", "filter_key": "pairs_with", "filter_values": ["beer"], "status": "pending"},
-    {"slug": "japanese-regional-snacks", "title": "Best Japanese Regional Snacks: Limited Edition Souvenirs", "keyword": "japanese regional snacks", "filter_key": "availability", "filter_values": ["regional-limited"], "status": "pending"},
-    {"slug": "how-to-buy-japanese-snacks-online", "title": "How to Buy Japanese Snacks Online: Complete 2026 Guide", "keyword": "how to buy japanese snacks online", "filter_key": "availability", "filter_values": ["convenience-store", "supermarket", "online-only"], "status": "pending"},
-    {"slug": "best-kitkat-flavors-japan", "title": "Best KitKat Flavors in Japan: From Matcha to Sake", "keyword": "best kit kat flavors japan", "filter_key": "flavors", "filter_values": ["matcha", "strawberry"], "status": "pending"},
-    {"slug": "japanese-snacks-for-study", "title": "Best Japanese Snacks for Studying: Brain Fuel Picks", "keyword": "japanese snacks for study", "filter_key": "good_for", "filter_values": ["office-snack"], "status": "pending"},
-    {"slug": "japanese-mochi-snacks", "title": "Best Japanese Mochi Snacks: Chewy, Soft, and Satisfying", "keyword": "japanese mochi snacks", "filter_key": "texture", "filter_values": ["mochi"], "status": "pending"},
-    {"slug": "weird-japanese-snack-flavors", "title": "Weirdest Japanese Snack Flavors That Actually Taste Good", "keyword": "weird japanese snack flavors", "filter_key": "flavors", "filter_values": ["wasabi", "spicy", "umami"], "status": "pending"},
-    {"slug": "japanese-snacks-vs-korean-snacks", "title": "Japanese Snacks vs Korean Snacks: Which Are Better?", "keyword": "japanese snacks vs korean snacks", "filter_key": "category", "filter_values": ["chocolate", "chips", "candy"], "status": "pending"},
-    {"slug": "sakura-flavored-japanese-snacks", "title": "Best Sakura (Cherry Blossom) Flavored Japanese Snacks", "keyword": "sakura flavored snacks japan", "filter_key": "flavors", "filter_values": ["sakura"], "status": "pending"},
-    {"slug": "japanese-snacks-for-halloween", "title": "Best Japanese Snacks for Halloween: Spooky and Delicious", "keyword": "japanese halloween snacks", "filter_key": "category", "filter_values": ["chocolate", "candy", "gummy"], "status": "pending"},
-    {"slug": "best-japanese-candy", "title": "Best Japanese Candy: Sweet, Sour, and Everything In Between", "keyword": "best japanese candy", "filter_key": "category", "filter_values": ["candy"], "status": "pending"},
-    {"slug": "50-japanese-snacks-must-try", "title": "50 Japanese Snacks You Must Try Before You Die", "keyword": "50 japanese snacks must try", "filter_key": "category", "filter_values": ["chocolate", "cookie", "chips", "candy", "rice-cracker"], "status": "pending"},
-    {"slug": "healthy-japanese-snacks", "title": "Healthy Japanese Snacks: Low Calorie and Guilt-Free Options", "keyword": "healthy japanese snacks", "filter_key": "sweetness_max", "filter_values": ["2"], "status": "pending"}
+    {
+      "slug": "best-strawberry-japanese-snacks",
+      "title": "Best Strawberry Japanese Snacks You Need to Try",
+      "keyword": "best strawberry japanese snacks",
+      "filter_key": "flavors",
+      "filter_values": [
+        "strawberry"
+      ],
+      "status": "completed"
+    },
+    {
+      "slug": "best-melon-japanese-snacks",
+      "title": "Best Melon-Flavored Japanese Snacks",
+      "keyword": "best melon japanese snacks",
+      "filter_key": "flavors",
+      "filter_values": [
+        "melon"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "best-yuzu-japanese-snacks",
+      "title": "Best Yuzu Japanese Snacks: Japan's Citrus Flavor",
+      "keyword": "best yuzu japanese snacks",
+      "filter_key": "flavors",
+      "filter_values": [
+        "yuzu"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "chewy-japanese-candy",
+      "title": "Best Chewy Japanese Candy and Snacks",
+      "keyword": "chewy japanese candy",
+      "filter_key": "texture",
+      "filter_values": [
+        "chewy",
+        "mochi"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "soft-japanese-snacks",
+      "title": "Best Soft Japanese Snacks: Mochi, Cakes, and More",
+      "keyword": "soft japanese snacks",
+      "filter_key": "texture",
+      "filter_values": [
+        "soft",
+        "mochi",
+        "melty"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-chocolate-snacks-ranked",
+      "title": "Japanese Chocolate Snacks Ranked: The Definitive Guide",
+      "keyword": "japanese chocolate snacks ranked",
+      "filter_key": "flavors",
+      "filter_values": [
+        "chocolate"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-for-kids",
+      "title": "Best Japanese Snacks for Kids: Fun and Delicious Picks",
+      "keyword": "japanese snacks for kids",
+      "filter_key": "good_for",
+      "filter_values": [
+        "kids"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-for-office",
+      "title": "Best Japanese Office Snacks That Won't Annoy Coworkers",
+      "keyword": "japanese office snacks",
+      "filter_key": "good_for",
+      "filter_values": [
+        "office-snack"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-under-200-yen",
+      "title": "Best Japanese Snacks Under 200 Yen: Budget Picks",
+      "keyword": "japanese snacks under 200 yen",
+      "filter_key": "price_range",
+      "filter_values": [
+        "budget"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-rice-crackers-guide",
+      "title": "Japanese Rice Crackers: Complete Guide to Senbei and More",
+      "keyword": "japanese rice crackers",
+      "filter_key": "category",
+      "filter_values": [
+        "rice-cracker"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "best-savory-japanese-snacks",
+      "title": "Best Savory Japanese Snacks for People Who Don't Like Sweet",
+      "keyword": "best savory japanese snacks",
+      "filter_key": "flavors",
+      "filter_values": [
+        "salty",
+        "umami",
+        "cheese",
+        "soy-sauce"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-for-road-trip",
+      "title": "Best Japanese Snacks for Road Trips and Long Drives",
+      "keyword": "japanese snacks for road trip",
+      "filter_key": "good_for",
+      "filter_values": [
+        "travel"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-late-night",
+      "title": "Best Japanese Late Night Snacks: Konbini Midnight Picks",
+      "keyword": "japanese snacks late night",
+      "filter_key": "good_for",
+      "filter_values": [
+        "late-night"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "pocky-flavors-ranked",
+      "title": "All Pocky Flavors Ranked: Which One Is the Best?",
+      "keyword": "best pocky flavors ranked",
+      "filter_key": "flavors",
+      "filter_values": [
+        "chocolate",
+        "matcha",
+        "strawberry"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "kinoko-vs-takenoko",
+      "title": "Kinoko no Yama vs Takenoko no Sato: The Ultimate Debate",
+      "keyword": "kinoko vs takenoko",
+      "filter_key": "category",
+      "filter_values": [
+        "cookie"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-gummy-candy-guide",
+      "title": "Best Japanese Gummy Candy: Soft, Chewy, and Fruity",
+      "keyword": "japanese gummy candy",
+      "filter_key": "category",
+      "filter_values": [
+        "gummy",
+        "candy"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-with-green-tea",
+      "title": "Japanese Snacks That Go Perfectly with Green Tea",
+      "keyword": "japanese snacks with green tea",
+      "filter_key": "pairs_with",
+      "filter_values": [
+        "green-tea"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-with-beer",
+      "title": "Best Japanese Snacks to Pair with Beer: Izakaya Style",
+      "keyword": "japanese snacks with beer",
+      "filter_key": "pairs_with",
+      "filter_values": [
+        "beer"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-regional-snacks",
+      "title": "Best Japanese Regional Snacks: Limited Edition Souvenirs",
+      "keyword": "japanese regional snacks",
+      "filter_key": "availability",
+      "filter_values": [
+        "regional-limited"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "how-to-buy-japanese-snacks-online",
+      "title": "How to Buy Japanese Snacks Online: Complete 2026 Guide",
+      "keyword": "how to buy japanese snacks online",
+      "filter_key": "availability",
+      "filter_values": [
+        "convenience-store",
+        "supermarket",
+        "online-only"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "best-kitkat-flavors-japan",
+      "title": "Best KitKat Flavors in Japan: From Matcha to Sake",
+      "keyword": "best kit kat flavors japan",
+      "filter_key": "flavors",
+      "filter_values": [
+        "matcha",
+        "strawberry"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-for-study",
+      "title": "Best Japanese Snacks for Studying: Brain Fuel Picks",
+      "keyword": "japanese snacks for study",
+      "filter_key": "good_for",
+      "filter_values": [
+        "office-snack"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-mochi-snacks",
+      "title": "Best Japanese Mochi Snacks: Chewy, Soft, and Satisfying",
+      "keyword": "japanese mochi snacks",
+      "filter_key": "texture",
+      "filter_values": [
+        "mochi"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "weird-japanese-snack-flavors",
+      "title": "Weirdest Japanese Snack Flavors That Actually Taste Good",
+      "keyword": "weird japanese snack flavors",
+      "filter_key": "flavors",
+      "filter_values": [
+        "wasabi",
+        "spicy",
+        "umami"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-vs-korean-snacks",
+      "title": "Japanese Snacks vs Korean Snacks: Which Are Better?",
+      "keyword": "japanese snacks vs korean snacks",
+      "filter_key": "category",
+      "filter_values": [
+        "chocolate",
+        "chips",
+        "candy"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "sakura-flavored-japanese-snacks",
+      "title": "Best Sakura (Cherry Blossom) Flavored Japanese Snacks",
+      "keyword": "sakura flavored snacks japan",
+      "filter_key": "flavors",
+      "filter_values": [
+        "sakura"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "japanese-snacks-for-halloween",
+      "title": "Best Japanese Snacks for Halloween: Spooky and Delicious",
+      "keyword": "japanese halloween snacks",
+      "filter_key": "category",
+      "filter_values": [
+        "chocolate",
+        "candy",
+        "gummy"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "best-japanese-candy",
+      "title": "Best Japanese Candy: Sweet, Sour, and Everything In Between",
+      "keyword": "best japanese candy",
+      "filter_key": "category",
+      "filter_values": [
+        "candy"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "50-japanese-snacks-must-try",
+      "title": "50 Japanese Snacks You Must Try Before You Die",
+      "keyword": "50 japanese snacks must try",
+      "filter_key": "category",
+      "filter_values": [
+        "chocolate",
+        "cookie",
+        "chips",
+        "candy",
+        "rice-cracker"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "healthy-japanese-snacks",
+      "title": "Healthy Japanese Snacks: Low Calorie and Guilt-Free Options",
+      "keyword": "healthy japanese snacks",
+      "filter_key": "sweetness_max",
+      "filter_values": [
+        "2"
+      ],
+      "status": "pending"
+    }
   ],
   "completed": [
     "best-matcha-japanese-snacks",
     "crunchy-japanese-snacks",
     "best-cheese-japanese-snacks",
     "japanese-snacks-for-gift",
-    "best-japanese-convenience-store-snacks"
+    "best-japanese-convenience-store-snacks",
+    "best-strawberry-japanese-snacks"
   ]
 }

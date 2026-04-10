@@ -1,9 +1,40 @@
 {
   "articles": [
-    {"slug": "best-matcha-japanese-snacks", "title": "Best Matcha Snacks", "emoji": "🍵", "desc": "The top matcha-flavored Japanese snacks, reviewed from Japan."},
-    {"slug": "crunchy-japanese-snacks", "title": "Crunchy Snacks Guide", "emoji": "🥨", "desc": "The crunchiest, crispiest Japanese snacks ranked."},
-    {"slug": "best-cheese-japanese-snacks", "title": "Best Cheese Snacks", "emoji": "🧀", "desc": "Cheese snacks in Japan go way beyond cheddar chips."},
-    {"slug": "japanese-snacks-for-gift", "title": "Snacks for Gifts", "emoji": "🎁", "desc": "What to buy as a Japanese snack gift for friends and family."},
-    {"slug": "best-japanese-convenience-store-snacks", "title": "Konbini Snacks", "emoji": "🏪", "desc": "The best snacks to grab at Japanese convenience stores."}
+    {
+      "slug": "best-matcha-japanese-snacks",
+      "title": "Best Matcha Snacks",
+      "emoji": "🍵",
+      "desc": "The top matcha-flavored Japanese snacks, reviewed from Japan."
+    },
+    {
+      "slug": "crunchy-japanese-snacks",
+      "title": "Crunchy Snacks Guide",
+      "emoji": "🥨",
+      "desc": "The crunchiest, crispiest Japanese snacks ranked."
+    },
+    {
+      "slug": "best-cheese-japanese-snacks",
+      "title": "Best Cheese Snacks",
+      "emoji": "🧀",
+      "desc": "Cheese snacks in Japan go way beyond cheddar chips."
+    },
+    {
+      "slug": "japanese-snacks-for-gift",
+      "title": "Snacks for Gifts",
+      "emoji": "🎁",
+      "desc": "What to buy as a Japanese snack gift for friends and family."
+    },
+    {
+      "slug": "best-japanese-convenience-store-snacks",
+      "title": "Konbini Snacks",
+      "emoji": "🏪",
+      "desc": "The best snacks to grab at Japanese convenience stores."
+    },
+    {
+      "slug": "best-strawberry-japanese-snacks",
+      "title": "Best Strawberry Japanese Snacks You Need to Try",
+      "emoji": "🍓",
+      "desc": "Best Strawberry Japanese Snacks You Need to Try. Curated guide from Japan."
+    }
   ]
 }
