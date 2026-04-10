@@ -6,6 +6,8 @@ const SA = {
 
   async loadSnacks() {
     const base = location.pathname.includes('/okashi') ? '/okashi' : '';
+    const inSubdir = location.pathname.includes('/brands/') || location.pathname.includes('/articles/');
+    const prefix = inSubdir ? '..' : '.';
     const res = await fetch(`${base}/data/snacks.json`);
     const data = await res.json();
     this.snacks = data.snacks;
@@ -85,19 +87,21 @@ const SA = {
 
 /* NAV HTML */
 function renderNav(active) {
+  const inSubdir = location.pathname.includes('/brands/') || location.pathname.includes('/articles/');
+  const pre = inSubdir ? '../' : '';
   const links = [
-    ['Explore', 'explore.html'],
-    ['Tier List', 'tierlist.html'],
-    ['Quiz', 'quiz.html'],
-    ['Collection', 'collection.html'],
-    ['About', 'about.html']
+    ['Explore', pre + 'explore.html'],
+    ['Tier List', pre + 'tierlist.html'],
+    ['Quiz', pre + 'quiz.html'],
+    ['Collection', pre + 'collection.html'],
+    ['About', pre + 'about.html']
   ];
   const linksHtml = links.map(([label, href]) => {
     const isCurrent = active === label.toLowerCase().replace(' ', '');
     return `<a href="${href}" style="${isCurrent ? 'color:var(--primary)' : ''}">${label}</a>`;
   }).join('');
   return `<nav class="nav"><div class="nav-inner">
-    <a href="index.html" class="nav-logo"><span>🍡</span> Okashi</a>
+    <a href="${pre}index.html" class="nav-logo"><span>🍡</span> Okashi</a>
     <div class="nav-links">${linksHtml}</div>
   </div></nav>`;
 }

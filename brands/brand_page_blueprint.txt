@@ -1,0 +1,288 @@
+========================================
+Okashi Brand Pages — Blueprint
+========================================
+空気感: 日常の中にあるお菓子の幸せ。温かい、親しみやすい、カジュアル。
+公式にない価値: 食べる体験・場面・発見（「これも同じ会社なの？」）
+見せない: 年表、企業沿革、IR情報、スペック羅列
+
+
+========================================
+共通ページ構成
+========================================
+
+1. リード文（そのブランドの「空気」を一言で）
+   → 歴史年表じゃない。そのブランドのお菓子が
+     日常のどこにいるか、どういう面白さがあるかを描く
+
+2. 発見セクション（"Did you know?"的な驚き）
+   → 「え、これとこれ同じ会社なの？」
+   → そのブランドの意外なこだわりや着眼点
+   → 公式サイトでは伝わらない面白い事実
+
+3. 商品カード（サイト掲載分）
+   → 各商品に一言の体験コメント付き
+   → スペックじゃなく「食べた時の感覚」を書く
+
+4. シーン提案（"When to reach for..."）
+   → 具体的な生活の場面とお菓子のマッチング
+   → 読んでるだけでその場面が浮かぶように
+
+5. 関連記事リンク
+   → そのブランドの商品が登場する記事へ
+
+6. 公式サイトへのリンク（敬意として、控えめに）
+
+
+========================================
+1. 明治 — Meiji
+========================================
+URL: /brands/meiji.html
+商品: きのこの山、たけのこの里、明治ミルクチョコレート、アポロ、きのこの山いちご
+
+【リード文】
+Meiji is built on friendly rivalries.
+Kinoko no Yama vs Takenoko no Sato.
+Simple milk chocolate vs playful Apollo cones.
+Pick a side, or don't — either way, you win.
+If you grew up in Japan, Meiji was probably your first chocolate.
+If you didn't, it's about to become your favorite.
+
+【発見セクション】
+- きのこの山 vs たけのこの里は日本の国民的論争。
+  2001年から公式で「総選挙」まで開催してる。
+  同じ会社が両方作ってるのに、ファンは本気で戦う。
+- アポロの名前はアポロ宇宙船から。1969年、月面着陸の年に生まれた。
+  あの三角形はロケットの先端。
+- 明治ミルクチョコレートは1926年から同じ味。
+  100年間変わらないレシピで、今もコンビニで100円台。
+
+【商品カード（体験コメント）】
+- Kinoko no Yama
+  "Snap the chocolate cap off the cracker stem.
+   That's the correct way to eat it. Don't argue."
+
+- Takenoko no Sato
+  "Smoother than Kinoko. The cookie and chocolate melt together
+   instead of separating. Team Takenoko says this makes it superior."
+
+- Meiji Milk Chocolate
+  "Nothing fancy. Just clean, honest milk chocolate
+   that somehow tastes better than it should for the price."
+
+- Apollo
+  "Tiny strawberry-chocolate cones you can eat by the handful.
+   Originally designed to look like a spacecraft. Still looks fun."
+
+- Kinoko no Yama Strawberry
+  "The seasonal twist. Pink mushrooms.
+   Tastes like spring even in the middle of winter."
+
+【シーン提案】
+- 3pm desk slump → Meiji Milk Chocolate. One bar. Problem solved.
+- Movie night debate → Kinoko vs Takenoko. Let the room vote.
+- Gift for a first-timer → Apollo. It's cute, it's tasty, it's safe.
+- Convenience store run, no plan → Takenoko no Sato. Always reliable.
+
+
+========================================
+2. 江崎グリコ — Glico
+========================================
+URL: /brands/glico.html
+商品: ポッキー(3種), プリッツ サラダ, チーザ
+
+【リード文】
+Everyone knows Pocky.
+But Glico is the company that also makes Pretz — the savory stick
+that never gets the spotlight — and Cheeza, a cracker that's
+literally more than 50% cheese.
+Glico doesn't just do sweet. They do "wait, this is way better
+than I expected" across the board.
+
+【発見セクション】
+- ポッキーは欧州では「MIKADO」という名前で売られてる。
+  同じお菓子なのに名前が違う。
+- プリッツはポッキーより先に生まれた兄。
+  1963年プリッツ、1966年ポッキー。
+  弟の方が有名になった。
+- チーザはお菓子の50%以上がチーズ。
+  おつまみとして開発されたから、ワインに合う。
+  お菓子コーナーに置いてあるけど、実質チーズ。
+
+【商品カード（体験コメント）】
+- Pocky Chocolate
+  "The one that started it all. Dip end, hold end.
+   Simple concept, perfect execution."
+
+- Pocky Matcha
+  "Slightly bitter, very adult. This is the Pocky
+   you eat with actual green tea, not just as a snack."
+
+- Pocky Strawberry
+  "The sweet one. Real strawberry bits in the coating.
+   Tastes like a strawberry dipped in cream."
+
+- Pretz Salad
+  "Pocky's overlooked older brother. Herb-seasoned,
+   not sweet at all. Perfect with beer, and nobody
+   ever talks about it."
+
+- Cheeza Cheddar
+  "This isn't a cracker with cheese flavor.
+   This is cheese that happens to be a cracker.
+   50% cheese content. Read that again."
+
+【シーン提案】
+- November 11th (Pocky Day) → Pocky Chocolate. Obviously.
+- Wine night → Cheeza. Trust us on this one.
+- Road trip snack → Pretz Salad. No chocolate to melt, savory enough to not get old.
+- Gift that everyone likes → Pocky Matcha. Looks elegant, tastes refined.
+
+
+========================================
+3. カルビー — Calbee
+========================================
+URL: /brands/calbee.html
+商品: じゃがりこ(2種), 堅あげポテト, かっぱえびせん, Jagabee
+
+【リード文】
+Calbee is what happens when a company becomes obsessed
+with one question: "How many different things can we do
+with a potato?"
+Sticks in a cup. Thick-cut hard chips. Shrimp-flavored crisps.
+Whole-cut fries in a box.
+Same ingredient, wildly different experiences.
+That's Calbee.
+
+【発見セクション】
+- カルビーのポテト系商品は全部食感が違う。
+  じゃがりこ（カリカリ）、堅あげ（バリバリ）、Jagabee（サクサク）。
+  全部じゃがいもなのに、全部別の体験。
+- かっぱえびせんは1964年から売れ続けてる。
+  キャッチコピー「やめられない、とまらない」は60年選手。
+  本物のエビを使ってるから、袋を開けた瞬間に海の匂いがする。
+- じゃがりこのカップ型は「片手で食べられて、デスクが汚れない」
+  から生まれた。日本のオフィスワーカーの味方。
+
+【商品カード（体験コメント）】
+- Jagariko Salad
+  "Crunchy potato sticks with herb and carrot bits.
+   You open the cup 'just for a few' and suddenly it's empty."
+
+- Jagariko Cheese
+  "Same addictive crunch, but cheese.
+   Some people pour hot water in to make instant mashed potato.
+   We don't judge."
+
+- Kata-Age Chips
+  "Thick, hard-fried, and aggressive.
+   These chips fight back when you bite them. That's the point."
+
+- Kappa Ebisen
+  "Real shrimp. Light as air. 60 years of 'you can't stop eating them'
+   and they're still right."
+
+- Jagabee
+  "Whole-cut potato sticks. More natural, more potato-forward.
+   Like if french fries came in a snack cup."
+
+【シーン提案】
+- Working late, need one hand free → Jagariko. Cup + sticks = no mess.
+- Beer garden energy at home → Kappa Ebisen. It's basically mandatory.
+- When you want to CRUNCH → Kata-Age. Nothing else is this aggressive.
+- Healthy-ish snack run → Jagabee. Still potato, but feels more real.
+
+
+========================================
+4. 森永製菓 — Morinaga
+========================================
+URL: /brands/morinaga.html
+商品: ハイチュウ グレープ, ハイチュウ ストロベリー
+
+【リード文】
+Here's a fun fact most people outside Japan don't know:
+Hi-Chew is Japanese.
+That chewy candy you've seen at American gas stations,
+Korean convenience stores, and British sweet shops?
+Born in Japan. Made by Morinaga. Since 1975.
+It's Japan's quietest global export.
+
+【発見セクション】
+- ハイチュウの名前の由来は「ガムじゃないのにガムみたいに噛める」
+  → "Hi" (ハイグレード) + "Chew" (噛む)。
+  ガムと違って飲み込める。それが革命だった。
+- 2024年にロゴを日本語の「ハイチュウ」から英語の「HI-CHEW」に変えた。
+  海外での本気度がロゴに出てる。
+- アメリカでの売上は4年で3倍。
+  第2工場をアメリカに建設中。もはやアメリカのお菓子になりつつある。
+
+【商品カード（体験コメント）】
+- Hi-Chew Grape
+  "Intense, juicy, and you can't chew just one.
+   The grape flavor is almost too real —
+   like someone condensed an entire grape into a candy."
+
+- Hi-Chew Strawberry
+  "The classic. A little softer, a little sweeter.
+   This is the flavor that got America hooked."
+
+【シーン提案】
+- Long train ride → Hi-Chew. Lasts longer than any other candy.
+- Need to stay awake → Grape. The strong flavor keeps you alert.
+- Sharing with someone who's never had Japanese candy → Strawberry. Safe, universally loved.
+
+
+========================================
+5. 亀田製菓 — Kameda Seika
+========================================
+URL: /brands/kameda.html
+商品: 柿の種, ハッピーターン
+
+【リード文】
+If you've only ever had potato chips and cookies,
+Kameda is about to introduce you to a whole new category:
+rice crackers.
+Crunchy things made from rice instead of wheat or potato.
+It sounds simple. It is simple.
+And somehow Kameda made it one of the most addictive
+snack experiences in Japan.
+
+【シーン提案】
+- 柿の種 → Beer. 日本では「ビールに柿の種」は
+  「映画にポップコーン」と同じレベルの定番。
+- ハッピーターン → "What IS this powder?"
+  That's the reaction everyone has. Every time.
+
+【発見セクション】
+- 柿の種の「柿の種とピーナッツの比率」は国民的議論。
+  昔は6:4だった。2020年に7:3に変わった。
+  亀田が国民投票で決めた。
+- ハッピーターンの「ハッピーパウダー」は公式名称。
+  成分は非公開。甘くて、しょっぱくて、うま味があって、
+  何でこんなに止まらないのか誰にも説明できない。
+- 亀田製菓は実は日本の菓子メーカーで海外売上比率トップクラス（約40%）。
+  米菓がグルテンフリーだから、海外の健康志向と噛み合った。
+
+【商品カード（体験コメント）】
+- Kaki no Tane
+  "Spicy rice crescents + peanuts.
+   Japan's #1 beer snack since 1966.
+   Warning: you will develop a strong opinion
+   about the rice-to-peanut ratio."
+
+- Happy Turn
+  "Looks like a plain rice cracker.
+   Then the powder hits.
+   Sweet. Salty. Umami. All at once.
+   You will eat the entire bag and wonder what happened."
+
+
+========================================
+メモ
+========================================
+- 実装時はサイト全体の voice_profile.txt も更新して
+  この空気感を統一基準として明文化する
+- トップページの "Discover Japanese Snacks Like Never Before" も
+  この温度感に寄せるかどうかは別途検討
+- 記事の自動生成パイプラインにもこのトーンを反映させる
+- ブランドページは /brands/ ディレクトリに配置
+- 営業メールはブランドページ完成後に、URLを添えて送る
