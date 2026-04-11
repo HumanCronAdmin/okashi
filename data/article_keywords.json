@@ -73,7 +73,7 @@
       "filter_values": [
         "melon"
       ],
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "slug": "best-yuzu-japanese-snacks",
@@ -83,7 +83,7 @@
       "filter_values": [
         "yuzu"
       ],
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "slug": "chewy-japanese-candy",
@@ -94,7 +94,7 @@
         "chewy",
         "mochi"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "soft-japanese-snacks",
@@ -389,6 +389,7 @@
     "glico-snacks-pocky-and-beyond",
     "calbee-potato-snacks-guide",
     "morinaga-hi-chew-guide",
-    "kameda-rice-crackers-guide"
+    "kameda-rice-crackers-guide",
+    "chewy-japanese-candy"
   ]
 }
