@@ -156,7 +156,7 @@
       "filter_values": [
         "rice-cracker"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "best-savory-japanese-snacks",
@@ -169,7 +169,7 @@
         "cheese",
         "soy-sauce"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-snacks-for-road-trip",
@@ -268,14 +268,14 @@
     },
     {
       "slug": "best-kitkat-flavors-japan",
-      "title": "Best KitKat Flavors in Japan: From Matcha to Sake",
+      "title": "Best KitKat Flavors in Japan: From Matcha to Strawberry",
       "keyword": "best kit kat flavors japan",
       "filter_key": "flavors",
       "filter_values": [
         "matcha",
         "strawberry"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-snacks-for-study",
@@ -390,6 +390,9 @@
     "calbee-potato-snacks-guide",
     "morinaga-hi-chew-guide",
     "kameda-rice-crackers-guide",
-    "chewy-japanese-candy"
+    "chewy-japanese-candy",
+    "best-savory-japanese-snacks",
+    "japanese-rice-crackers-guide",
+    "best-kitkat-flavors-japan"
   ]
 }

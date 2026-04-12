@@ -71,6 +71,24 @@
       "title": "Best Chewy Japanese Candy and Snacks",
       "emoji": "🍡",
       "desc": "Best Chewy Japanese Candy and Snacks. Curated guide from Japan."
+    },
+    {
+      "slug": "best-savory-japanese-snacks",
+      "title": "Best Savory Japanese Snacks",
+      "emoji": "🧂",
+      "desc": "Not everything in Japan is matcha chocolate. The salty, crispy, spicy side of Japanese snacking."
+    },
+    {
+      "slug": "japanese-rice-crackers-guide",
+      "title": "Japanese Rice Crackers Guide",
+      "emoji": "🍘",
+      "desc": "From sweet soy sauce senbei to air-puffed kinako mochi. What the shelves actually look like."
+    },
+    {
+      "slug": "best-kitkat-flavors-japan",
+      "title": "Best KitKat Flavors in Japan",
+      "emoji": "🍫",
+      "desc": "Over 300 flavors released. Here are the ones that stay on shelves and the ones worth hunting for."
     }
   ]
 }

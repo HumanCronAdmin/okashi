@@ -890,6 +890,468 @@
         "office-snack"
       ],
       "amazon_us": "https://www.amazon.com/s?k=Kabukiage+Rice+Cracker+Amanoya&tag=okashisnack-20"
+    },
+    {
+      "id": "funwari-meijin-kinako",
+      "name_en": "Funwari Meijin Kinako Mochi",
+      "name_ja": "ふんわり名人 きなこ餅",
+      "maker": "Echigo Seika",
+      "category": "rice-cracker",
+      "flavors": [
+        "kinako",
+        "sweet"
+      ],
+      "texture": "fluffy",
+      "sweetness": 3,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Air-puffed rice crackers dusted with roasted soybean (kinako) powder. Melts on your tongue like cotton candy.",
+      "pairs_with": [
+        "green-tea",
+        "milk"
+      ],
+      "good_for": [
+        "treat",
+        "kids"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Funwari+Meijin+Kinako+Mochi&tag=okashisnack-20"
+    },
+    {
+      "id": "meltykiss-fruity-strawberry",
+      "name_en": "Meltykiss Fruity Rich Strawberry",
+      "name_ja": "メルティーキッス フルーティー濃いいちご",
+      "maker": "Meiji",
+      "category": "chocolate",
+      "flavors": [
+        "strawberry"
+      ],
+      "texture": "melty",
+      "sweetness": 4,
+      "availability": "convenience-store",
+      "seasonal": true,
+      "price_range": "mid-range",
+      "description": "Melt-in-your-mouth chocolate cubes with intense strawberry flavor. A winter-only premium treat.",
+      "pairs_with": [
+        "black-tea",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "gift",
+        "treat"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Meltykiss+Strawberry&tag=okashisnack-20"
+    },
+    {
+      "id": "pie-no-mi",
+      "name_en": "Pie no Mi",
+      "name_ja": "パイの実",
+      "maker": "Lotte",
+      "category": "cookie",
+      "flavors": [
+        "chocolate"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Bite-sized puff pastry pockets filled with chocolate. 64 flaky layers in each piece.",
+      "pairs_with": [
+        "black-coffee",
+        "milk"
+      ],
+      "good_for": [
+        "office-snack",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Lotte+Pie+no+Mi+Chocolate&tag=okashisnack-20"
+    },
+    {
+      "id": "country-maam-koi-matcha",
+      "name_en": "Country Ma'am Rich Matcha",
+      "name_ja": "カントリーマアム 濃い抹茶",
+      "maker": "Fujiya",
+      "category": "cookie",
+      "flavors": [
+        "matcha"
+      ],
+      "texture": "soft",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Soft-baked cookie with rich Uji matcha flavor and white chocolate chips. Deep green tea aroma.",
+      "pairs_with": [
+        "green-tea",
+        "milk"
+      ],
+      "good_for": [
+        "office-snack",
+        "gift"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Country+Maam+Matcha+Fujiya&tag=okashisnack-20"
+    },
+    {
+      "id": "kappa-ebisen-sakura-ebi",
+      "name_en": "Kappa Ebisen 100% Sakura Shrimp",
+      "name_ja": "かっぱえびせん 桜えび100%使用",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "shrimp",
+        "salty"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "mid-range",
+      "description": "Premium version using 100% sakura shrimp from Suruga Bay. Deeper, more refined shrimp flavor.",
+      "pairs_with": [
+        "beer",
+        "sake"
+      ],
+      "good_for": [
+        "sharing",
+        "late-night"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Kappa+Ebisen+Sakura+Ebi+Calbee&tag=okashisnack-20"
+    },
+    {
+      "id": "chocoball-peanut",
+      "name_en": "Chocoball Peanut",
+      "name_ja": "チョコボール ピーナッツ",
+      "maker": "Morinaga",
+      "category": "chocolate",
+      "flavors": [
+        "chocolate",
+        "peanut"
+      ],
+      "texture": "crunchy",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Whole peanuts coated in milk chocolate. Look for the gold Angel on the box to win a toy can.",
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "kids",
+        "budget-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Morinaga+Chocoball+Peanut&tag=okashisnack-20"
+    },
+    {
+      "id": "hi-soft-caramel-milk",
+      "name_en": "Hi-Soft Caramel Milk",
+      "name_ja": "ハイソフト キャラメル ミルク",
+      "maker": "Morinaga",
+      "category": "candy",
+      "flavors": [
+        "caramel",
+        "milk"
+      ],
+      "texture": "chewy",
+      "sweetness": 4,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Premium soft caramel made with Hokkaido cream. Smoother and richer than regular Morinaga caramel.",
+      "pairs_with": [
+        "black-coffee",
+        "black-tea"
+      ],
+      "good_for": [
+        "treat",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Morinaga+Hi+Soft+Caramel&tag=okashisnack-20"
+    },
+    {
+      "id": "kitkat-koi-matcha",
+      "name_en": "KitKat Mini Rich Matcha",
+      "name_ja": "キットカット ミニ 濃い抹茶",
+      "maker": "Nestle Japan",
+      "category": "chocolate",
+      "flavors": [
+        "matcha"
+      ],
+      "texture": "crispy",
+      "sweetness": 2,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Double the matcha intensity of regular KitKat Matcha. Deep, slightly bitter green tea flavor for matcha lovers.",
+      "pairs_with": [
+        "green-tea",
+        "black-coffee"
+      ],
+      "good_for": [
+        "gift",
+        "treat"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=KitKat+Rich+Matcha+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "kitkat-matcha-chocolat",
+      "name_en": "KitKat Matcha Chocolat",
+      "name_ja": "キットカット 抹茶ショコラ",
+      "maker": "Nestle Japan",
+      "category": "chocolate",
+      "flavors": [
+        "matcha",
+        "chocolate"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Matcha green tea blended with rich chocolate coating. A sweeter, more dessert-like matcha KitKat.",
+      "pairs_with": [
+        "black-coffee",
+        "milk"
+      ],
+      "good_for": [
+        "gift",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=KitKat+Matcha+Chocolat+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "bakauke-aonori",
+      "name_en": "Bakauke Aonori Seaweed",
+      "name_ja": "ばかうけ 青のり味",
+      "maker": "Kuriyama Beika",
+      "category": "rice-cracker",
+      "flavors": [
+        "seaweed",
+        "salty"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Oval-shaped rice crackers with fragrant green seaweed (aonori) seasoning. Light and addictive.",
+      "pairs_with": [
+        "green-tea",
+        "beer"
+      ],
+      "good_for": [
+        "sharing",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Bakauke+Rice+Cracker+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "bakauke-goma-age-shoyu",
+      "name_en": "Bakauke Sesame Fried Soy Sauce",
+      "name_ja": "ばかうけ ごま揚醤油",
+      "maker": "Kuriyama Beika",
+      "category": "rice-cracker",
+      "flavors": [
+        "soy-sauce",
+        "sesame"
+      ],
+      "texture": "crunchy",
+      "sweetness": 1,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Deep-fried rice crackers with roasted sesame and soy sauce glaze. Rich, savory, and crunchy.",
+      "pairs_with": [
+        "green-tea",
+        "beer"
+      ],
+      "good_for": [
+        "sharing",
+        "late-night"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Bakauke+Sesame+Soy+Sauce+Rice+Cracker&tag=okashisnack-20"
+    },
+    {
+      "id": "don-tacos-beef-chili",
+      "name_en": "Don Tacos Beef Chili Tacos",
+      "name_ja": "どんタコス ビーフチリタコス味",
+      "maker": "Koikeya",
+      "category": "chips",
+      "flavors": [
+        "beef",
+        "chili",
+        "spicy"
+      ],
+      "texture": "crunchy",
+      "sweetness": 1,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Triangle-shaped corn chips with spicy beef chili taco flavor. Japan's take on Mexican-style snacking.",
+      "pairs_with": [
+        "beer",
+        "cola"
+      ],
+      "good_for": [
+        "late-night",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Koikeya+Don+Tacos+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "poteco-assari-umashio",
+      "name_en": "Poteco Lightly Salted",
+      "name_ja": "ポテコ あっさりうま塩味",
+      "maker": "Tohato",
+      "category": "chips",
+      "flavors": [
+        "salty"
+      ],
+      "texture": "crunchy",
+      "sweetness": 1,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Ring-shaped potato snacks with light salt flavor. Kids love wearing them on their fingers before eating.",
+      "pairs_with": [
+        "sparkling-water",
+        "juice"
+      ],
+      "good_for": [
+        "kids",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Tohato+Poteco+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "tengu-pirikare",
+      "name_en": "Pirikare Curry Snack",
+      "name_ja": "ピリカレ",
+      "maker": "Tengu Seika",
+      "category": "chips",
+      "flavors": [
+        "curry",
+        "spicy"
+      ],
+      "texture": "crunchy",
+      "sweetness": 1,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Spicy curry-flavored puffed snack from a Kyoto maker. Authentic curry spice with a kick of heat.",
+      "pairs_with": [
+        "beer",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "late-night",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Tengu+Pirikare+Curry+Snack+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "pretz-tomato",
+      "name_en": "Pretz Tomato",
+      "name_ja": "プリッツ トマト",
+      "maker": "Glico",
+      "category": "cookie",
+      "flavors": [
+        "tomato"
+      ],
+      "texture": "crispy",
+      "sweetness": 2,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Savory pretzel sticks with sweet-tangy tomato seasoning. A refreshing alternative to chocolate sticks.",
+      "pairs_with": [
+        "beer",
+        "sparkling-water"
+      ],
+      "good_for": [
+        "office-snack",
+        "sharing"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Glico+Pretz+Tomato&tag=okashisnack-20"
+    },
+    {
+      "id": "meiji-almond-matcha",
+      "name_en": "Meiji Almond Chocolate Matcha",
+      "name_ja": "明治 アーモンドチョコレート 抹茶",
+      "maker": "Meiji",
+      "category": "chocolate",
+      "flavors": [
+        "matcha",
+        "almond"
+      ],
+      "texture": "crunchy",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Whole roasted almonds coated in matcha green tea chocolate. Nutty crunch meets earthy tea flavor.",
+      "pairs_with": [
+        "green-tea",
+        "black-coffee"
+      ],
+      "good_for": [
+        "office-snack",
+        "treat"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Meiji+Almond+Chocolate+Matcha&tag=okashisnack-20"
+    },
+    {
+      "id": "young-donut",
+      "name_en": "Young Donut",
+      "name_ja": "ヤングドーナツ",
+      "maker": "Miyata Seika",
+      "category": "cake",
+      "flavors": [
+        "sugar"
+      ],
+      "texture": "soft",
+      "sweetness": 3,
+      "availability": "supermarket",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Mini sugar-coated donuts in a pack. A nostalgic dagashi (cheap candy shop) classic loved since childhood.",
+      "pairs_with": [
+        "milk",
+        "black-coffee"
+      ],
+      "good_for": [
+        "kids",
+        "budget-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Miyata+Young+Donut+Japanese&tag=okashisnack-20"
+    },
+    {
+      "id": "black-thunder-koi-matcha",
+      "name_en": "Black Thunder Rich Matcha",
+      "name_ja": "ブラックサンダー 濃い抹茶",
+      "maker": "Yuraku Confectionery",
+      "category": "chocolate",
+      "flavors": [
+        "matcha",
+        "cookie"
+      ],
+      "texture": "crunchy",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": true,
+      "price_range": "budget",
+      "description": "Matcha-flavored Black Thunder with cocoa cookie crunch. Green tea intensity meets the signature Thunder texture.",
+      "pairs_with": [
+        "green-tea",
+        "milk"
+      ],
+      "good_for": [
+        "budget-snack",
+        "office-snack"
+      ],
+      "amazon_us": "https://www.amazon.com/s?k=Black+Thunder+Matcha+Japanese&tag=okashisnack-20"
     }
   ]
 }
