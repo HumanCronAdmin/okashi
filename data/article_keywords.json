@@ -106,7 +106,7 @@
         "mochi",
         "melty"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-chocolate-snacks-ranked",
@@ -116,7 +116,7 @@
       "filter_values": [
         "chocolate"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-snacks-for-kids",
@@ -126,7 +126,7 @@
       "filter_values": [
         "kids"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-snacks-for-office",
@@ -136,7 +136,7 @@
       "filter_values": [
         "office-snack"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-snacks-under-200-yen",
@@ -146,7 +146,7 @@
       "filter_values": [
         "budget"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-rice-crackers-guide",
@@ -179,7 +179,7 @@
       "filter_values": [
         "travel"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "japanese-snacks-late-night",
@@ -189,7 +189,7 @@
       "filter_values": [
         "late-night"
       ],
-      "status": "pending"
+      "status": "completed"
     },
     {
       "slug": "pocky-flavors-ranked",
@@ -376,6 +376,51 @@
         "2"
       ],
       "status": "pending"
+    },
+    {
+      "keyword": "best matcha flavored japanese snacks",
+      "slug": "best-matcha-flavored-japanese-snacks",
+      "filter_key": "flavors",
+      "filter_values": [
+        "matcha"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "rare japanese snacks you can't find in stores",
+      "slug": "rare-japanese-snacks-hard-to-find",
+      "filter_key": "availability",
+      "filter_values": [
+        "rare"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best japanese snack subscription boxes reviewed",
+      "slug": "best-japanese-snack-subscription-boxes",
+      "filter_key": "type",
+      "filter_values": [
+        "subscription"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "japanese snacks for gift giving ideas",
+      "slug": "japanese-snacks-for-gift-giving",
+      "filter_key": "occasion",
+      "filter_values": [
+        "gift"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best umami flavored japanese snacks",
+      "slug": "best-umami-flavored-japanese-snacks",
+      "filter_key": "flavors",
+      "filter_values": [
+        "umami"
+      ],
+      "status": "pending"
     }
   ],
   "completed": [
@@ -393,6 +438,13 @@
     "chewy-japanese-candy",
     "best-savory-japanese-snacks",
     "japanese-rice-crackers-guide",
-    "best-kitkat-flavors-japan"
+    "best-kitkat-flavors-japan",
+    "soft-japanese-snacks",
+    "japanese-chocolate-snacks-ranked",
+    "japanese-snacks-for-kids",
+    "japanese-snacks-for-office",
+    "japanese-snacks-under-200-yen",
+    "japanese-snacks-for-road-trip",
+    "japanese-snacks-late-night"
   ]
 }
