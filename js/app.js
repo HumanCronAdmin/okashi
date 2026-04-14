@@ -4,11 +4,11 @@ const SA = {
   snacks: [],
   collected: JSON.parse(localStorage.getItem('sa_collected') || '[]'),
 
+  base: '',
+
   async loadSnacks() {
-    const base = location.pathname.includes('/okashi') ? '/okashi' : '';
-    const inSubdir = location.pathname.includes('/brands/') || location.pathname.includes('/articles/');
-    const prefix = inSubdir ? '..' : '.';
-    const res = await fetch(`${base}/data/snacks.json`);
+    this.base = location.pathname.includes('/okashi') ? '/okashi' : '';
+    const res = await fetch(`${this.base}/data/snacks.json`);
     const data = await res.json();
     this.snacks = data.snacks;
     return this.snacks;
@@ -44,7 +44,7 @@ const SA = {
     const texTag = `<span class="tag tag-texture">${s.texture}</span>`;
     const color = this.categoryColors[s.category] || '#888';
     const imgHtml = s.image
-      ? `<img src="${s.image}" alt="${s.name_en}" class="card-photo">`
+      ? `<img src="${this.base}/${s.image}" alt="${s.name_en}" class="card-photo" loading="lazy">`
       : `<div class="card-placeholder" style="background:${color}20;border-bottom:3px solid ${color}">
            <span style="font-size:2rem">${this.categoryEmoji(s.category)}</span>
            <span style="font-size:0.75rem;color:${color};font-weight:600">${s.name_en}</span>
@@ -61,7 +61,6 @@ const SA = {
           </div>
           ${showTried ? `<button class="tried-btn ${collected ? 'is-tried' : 'not-tried'}" data-id="${s.id}">${collected ? '✓ Tried!' : 'Mark as Tried'}</button>` : ''}
           ${s.amazon_us ? `<a href="${s.amazon_us}" target="_blank" rel="noopener" class="buy-btn">Buy on Amazon</a>` : ''}
-          ${s.availability === 'regional-limited' && !s.amazon_us ? `<span class="japan-only-badge">Japan Only</span>` : ''}
         </div>
       </div>`;
   },

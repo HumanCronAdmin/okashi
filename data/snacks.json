@@ -23,8 +23,7 @@
         "gift",
         "office-snack",
         "travel"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Japanese+KitKat+Matcha&tag=okashisnack-20"
+      ]
     },
     {
       "id": "kitkat-strawberry",
@@ -48,8 +47,7 @@
       "good_for": [
         "gift",
         "office-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Japanese+KitKat+Strawberry&tag=okashisnack-20"
+      ]
     },
     {
       "id": "pocky-chocolate",
@@ -75,7 +73,8 @@
         "office-snack",
         "travel"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Pocky+Chocolate+Japanese&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Pocky+Chocolate+Japanese&tag=okashisnack-20",
+      "image": "images/webp/IMG_4383.webp"
     },
     {
       "id": "pocky-matcha",
@@ -152,7 +151,8 @@
         "travel",
         "late-night"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Jagariko+Salad+Calbee&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Calbee+Jagarico+Salad&tag=okashisnack-20",
+      "image": "images/webp/IMG_4314.webp"
     },
     {
       "id": "jagariko-cheese",
@@ -176,8 +176,7 @@
       "good_for": [
         "office-snack",
         "late-night"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Jagariko+Cheese+Calbee&tag=okashisnack-20"
+      ]
     },
     {
       "id": "umaibo-corn-potage",
@@ -202,8 +201,7 @@
       "good_for": [
         "kids",
         "budget-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Umaibo+Corn+Potage&tag=okashisnack-20"
+      ]
     },
     {
       "id": "calbee-kataage-usushio",
@@ -227,8 +225,7 @@
       "good_for": [
         "late-night",
         "sharing"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Calbee+Kata+Age+Potato+Chips&tag=okashisnack-20"
+      ]
     },
     {
       "id": "happy-turn",
@@ -253,8 +250,7 @@
       "good_for": [
         "sharing",
         "office-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Happy+Turn+Rice+Cracker+Kameda&tag=okashisnack-20"
+      ]
     },
     {
       "id": "koala-no-march-chocolate",
@@ -280,7 +276,8 @@
         "sharing",
         "gift"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Koala+March+Chocolate+Lotte&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Koala+March+Chocolate+Lotte&tag=okashisnack-20",
+      "image": "images/webp/IMG_4353.webp"
     },
     {
       "id": "takenoko-no-sato",
@@ -304,8 +301,7 @@
       "good_for": [
         "sharing",
         "office-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Takenoko+no+Sato&tag=okashisnack-20"
+      ]
     },
     {
       "id": "kinoko-no-yama",
@@ -329,8 +325,7 @@
       "good_for": [
         "sharing",
         "office-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Kinoko+no+Yama&tag=okashisnack-20"
+      ]
     },
     {
       "id": "hi-chew-grape",
@@ -355,7 +350,8 @@
         "travel",
         "kids"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Hi+Chew+Grape+Japanese&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Hi+Chew+Grape&tag=okashisnack-20",
+      "image": "images/webp/IMG_4368.webp"
     },
     {
       "id": "hi-chew-strawberry",
@@ -381,7 +377,7 @@
         "travel",
         "kids"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Hi+Chew+Strawberry+Japanese&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Hi+Chew+Strawberry&tag=okashisnack-20"
     },
     {
       "id": "milky",
@@ -406,8 +402,7 @@
       "good_for": [
         "kids",
         "gift"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Fujiya+Milky+Candy+Japanese&tag=okashisnack-20"
+      ]
     },
     {
       "id": "meiji-chocolate-koka",
@@ -432,8 +427,7 @@
       "good_for": [
         "office-snack",
         "treat"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Milk+Chocolate+Bar+Japanese&tag=okashisnack-20"
+      ]
     },
     {
       "id": "toppo",
@@ -457,8 +451,7 @@
       "good_for": [
         "office-snack",
         "travel"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Lotte+Toppo+Chocolate&tag=okashisnack-20"
+      ]
     },
     {
       "id": "kaki-no-tane",
@@ -484,7 +477,7 @@
         "late-night",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Kameda+Kaki+no+Tane&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Kaki+no+Tane+rice+cracker&tag=okashisnack-20"
     },
     {
       "id": "country-maam-vanilla",
@@ -509,8 +502,7 @@
       "good_for": [
         "office-snack",
         "kids"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Country+Maam+Vanilla+Fujiya&tag=okashisnack-20"
+      ]
     },
     {
       "id": "pretz-salad",
@@ -586,7 +578,7 @@
         "office-snack",
         "treat"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Bourbon+Alfort+Chocolate+Biscuit&tag=okashisnack-20"
+      "image": "images/webp/IMG_4373.webp"
     },
     {
       "id": "calbee-shrimp-chips",
@@ -612,7 +604,7 @@
         "sharing",
         "kids"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Calbee+Shrimp+Chips+Kappa+Ebisen&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Calbee+Shrimp+Chips&tag=okashisnack-20"
     },
     {
       "id": "black-thunder",
@@ -638,7 +630,8 @@
         "budget-snack",
         "office-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Black+Thunder+Chocolate+Japanese&tag=okashisnack-20"
+      "amazon_us": "https://www.amazon.com/s?k=Black+Thunder+Chocolate+Japanese&tag=okashisnack-20",
+      "image": "images/webp/IMG_4379.webp"
     },
     {
       "id": "tokyo-banana",
@@ -663,8 +656,7 @@
       "good_for": [
         "gift",
         "travel"
-      ],
-      "amazon_us": ""
+      ]
     },
     {
       "id": "royce-nama-chocolate",
@@ -689,8 +681,7 @@
       "good_for": [
         "gift",
         "treat"
-      ],
-      "amazon_us": ""
+      ]
     },
     {
       "id": "shiroi-koibito",
@@ -714,8 +705,7 @@
       "good_for": [
         "gift",
         "travel"
-      ],
-      "amazon_us": ""
+      ]
     },
     {
       "id": "yatsuhashi-cinnamon",
@@ -738,8 +728,7 @@
       "good_for": [
         "gift",
         "travel"
-      ],
-      "amazon_us": ""
+      ]
     },
     {
       "id": "meiji-apollo",
@@ -764,7 +753,7 @@
         "kids",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Apollo+Strawberry+Chocolate&tag=okashisnack-20"
+      "image": "images/webp/IMG_4375.webp"
     },
     {
       "id": "calbee-jagabee",
@@ -788,8 +777,7 @@
       "good_for": [
         "office-snack",
         "travel"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Calbee+Jagabee&tag=okashisnack-20"
+      ]
     },
     {
       "id": "bourbon-petit-series",
@@ -813,8 +801,7 @@
       "good_for": [
         "office-snack",
         "budget-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Bourbon+Petit+Cookie+Japanese&tag=okashisnack-20"
+      ]
     },
     {
       "id": "meiji-kinoko-strawberry",
@@ -837,8 +824,7 @@
       "good_for": [
         "sharing",
         "kids"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Kinoko+Yama+Strawberry&tag=okashisnack-20"
+      ]
     },
     {
       "id": "cheeza-cheddar",
@@ -862,8 +848,7 @@
       "good_for": [
         "late-night",
         "sharing"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Glico+Cheeza+Cheddar+Cheese&tag=okashisnack-20"
+      ]
     },
     {
       "id": "kabukiage",
@@ -889,7 +874,7 @@
         "sharing",
         "office-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Kabukiage+Rice+Cracker+Amanoya&tag=okashisnack-20"
+      "image": "images/webp/IMG_4370.webp"
     },
     {
       "id": "funwari-meijin-kinako",
@@ -915,7 +900,7 @@
         "treat",
         "kids"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Funwari+Meijin+Kinako+Mochi&tag=okashisnack-20"
+      "image": "images/webp/IMG_4345.webp"
     },
     {
       "id": "meltykiss-fruity-strawberry",
@@ -940,7 +925,7 @@
         "gift",
         "treat"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Meltykiss+Strawberry&tag=okashisnack-20"
+      "image": "images/webp/IMG_4329.webp"
     },
     {
       "id": "pie-no-mi",
@@ -965,7 +950,7 @@
         "office-snack",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Lotte+Pie+no+Mi+Chocolate&tag=okashisnack-20"
+      "image": "images/webp/IMG_4330.webp"
     },
     {
       "id": "country-maam-koi-matcha",
@@ -990,7 +975,7 @@
         "office-snack",
         "gift"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Country+Maam+Matcha+Fujiya&tag=okashisnack-20"
+      "image": "images/webp/IMG_4390.webp"
     },
     {
       "id": "kappa-ebisen-sakura-ebi",
@@ -1016,7 +1001,7 @@
         "sharing",
         "late-night"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Kappa+Ebisen+Sakura+Ebi+Calbee&tag=okashisnack-20"
+      "image": "images/webp/IMG_4412.webp"
     },
     {
       "id": "chocoball-peanut",
@@ -1041,8 +1026,7 @@
       "good_for": [
         "kids",
         "budget-snack"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Morinaga+Chocoball+Peanut&tag=okashisnack-20"
+      ]
     },
     {
       "id": "hi-soft-caramel-milk",
@@ -1068,7 +1052,7 @@
         "treat",
         "office-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Morinaga+Hi+Soft+Caramel&tag=okashisnack-20"
+      "image": "images/webp/IMG_4387.webp"
     },
     {
       "id": "kitkat-koi-matcha",
@@ -1093,7 +1077,7 @@
         "gift",
         "treat"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=KitKat+Rich+Matcha+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4320.webp"
     },
     {
       "id": "kitkat-matcha-chocolat",
@@ -1119,7 +1103,7 @@
         "gift",
         "office-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=KitKat+Matcha+Chocolat+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4408.webp"
     },
     {
       "id": "bakauke-aonori",
@@ -1145,7 +1129,7 @@
         "sharing",
         "office-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Bakauke+Rice+Cracker+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4347.webp"
     },
     {
       "id": "bakauke-goma-age-shoyu",
@@ -1171,7 +1155,7 @@
         "sharing",
         "late-night"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Bakauke+Sesame+Soy+Sauce+Rice+Cracker&tag=okashisnack-20"
+      "image": "images/webp/IMG_4358.webp"
     },
     {
       "id": "don-tacos-beef-chili",
@@ -1198,7 +1182,7 @@
         "late-night",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Koikeya+Don+Tacos+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4339.webp"
     },
     {
       "id": "poteco-assari-umashio",
@@ -1223,7 +1207,7 @@
         "kids",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Tohato+Poteco+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4366.webp"
     },
     {
       "id": "tengu-pirikare",
@@ -1249,7 +1233,7 @@
         "late-night",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Tengu+Pirikare+Curry+Snack+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4341.webp"
     },
     {
       "id": "pretz-tomato",
@@ -1274,7 +1258,7 @@
         "office-snack",
         "sharing"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Glico+Pretz+Tomato&tag=okashisnack-20"
+      "image": "images/webp/IMG_4349.webp"
     },
     {
       "id": "meiji-almond-matcha",
@@ -1300,7 +1284,7 @@
         "office-snack",
         "treat"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Meiji+Almond+Chocolate+Matcha&tag=okashisnack-20"
+      "image": "images/webp/IMG_4393.webp"
     },
     {
       "id": "young-donut",
@@ -1325,7 +1309,7 @@
         "kids",
         "budget-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Miyata+Young+Donut+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4385.webp"
     },
     {
       "id": "black-thunder-koi-matcha",
@@ -1351,7 +1335,33 @@
         "budget-snack",
         "office-snack"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Black+Thunder+Matcha+Japanese&tag=okashisnack-20"
+      "image": "images/webp/IMG_4396.webp"
+    },
+    {
+      "id": "bourbon-lumonde",
+      "name_en": "Bourbon Lumonde",
+      "name_ja": "ブルボン ルマンド",
+      "maker": "Bourbon",
+      "category": "cookie",
+      "flavors": [
+        "vanilla",
+        "cocoa"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "availability": "convenience-store",
+      "seasonal": false,
+      "price_range": "budget",
+      "description": "Thin crepe cookie layers rolled into a delicate crispy stick. A classic Japanese convenience store snack since 1974.",
+      "pairs_with": [
+        "green-tea",
+        "black-coffee"
+      ],
+      "good_for": [
+        "tea-time",
+        "office-snack"
+      ],
+      "image": "images/webp/IMG_4356.webp"
     }
   ]
 }
