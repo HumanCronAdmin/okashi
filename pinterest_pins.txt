@@ -1,0 +1,35 @@
+Pinterest Pins — Okashi (Japanese Snacks)
+Board: Japanese Snacks
+==========================================
+
+--- PIN 1: KitKat Matcha ---
+
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4320.webp
+
+Title: real matcha KitKat from a Japanese convenience store
+
+Description: this is what matcha KitKat actually looks like in Japan. rich green tea coating, 61 kcal per piece. you can find these at any konbini for about 400 yen
+
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+
+--- PIN 2: Black Thunder Matcha ---
+
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4396.webp
+
+Title: Black Thunder matcha — best 100 yen chocolate bar in Japan
+
+Description: matcha version of Japan's most popular cheap chocolate bar. crunchy cookie base with thick matcha coating. costs about 30 cents at any convenience store
+
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+
+--- PIN 3: Jagariko ---
+
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4314.webp
+
+Title: Jagariko salad flavor — Japan's most addictive potato snack
+
+Description: crunchy potato sticks with herbs and vegetable bits. once you open the cup you cannot stop eating them. a staple in every konbini
+
+Link: https://humancronadmin.github.io/okashi/explore.html
