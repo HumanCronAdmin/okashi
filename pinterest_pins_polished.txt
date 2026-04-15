@@ -1,0 +1,74 @@
+Pinterest Pins - Batch 1 (10 pins)
+Account TinyFit (shared account, board separated)
+=============================================
+
+NEW BOARD TO CREATE: "Japanese Snacks"
+NEW BOARD TO CREATE: "Tips for living in Japan"
+
+=============================================
+OKASHI PINS (7 pins) - Board: Japanese snacks
+=============================================
+
+--- Pin 1
+Image C:◆Usersuser ◆Claude-Workspace ◆projects ◆okashi ◆images ◆webp ◆IMG_4320.webp
+Title: Authentic Matcha Kit Kat from Japanese Convenience Store
+Description: This is the real matcha Kit Kat from Japan. It is sold at any convenience store for about 400 yen.
+Link: https://humancronadmin.github.io/okashi/articles/matcha-snack-taste-test-family-review.html
+
+--- PIN 2
+Image C:￤Users ￤Claude-Workspace ￤projects ￤okashi ￤imageswebp ￤IMG_4396.webp
+Title:Black Thunder Matcha, Japan's best 100 yen chocolate
+Description:A matcha green tea version of Japan's most popular cheap chocolate bar. The crunchy cookie base is coated with rich matcha green tea.
+Link: https://humancronadmin.github.io/okashi/articles/matcha-snack-taste-test-family-review.html
+
+--- PIN 3
+Image C:￤Usersuser￤Claude-Workspace￤projects￤okashi￤imageswebp￤IMG_4314.webp
+Title: Jagarico Salad Flavor - Japan's most addictive potato snack
+Description: Crunchy potato sticks with herbs and vegetable mash, an addictive snack once you try it.
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+--- PIN 4
+Image C:◆Usersuser ◆Claude-Workspace ◆projects ◆okashi ◆images ◆webp ◆IMG_4408.webp
+Title:Kit Kat Matcha Chocolat - The Perfect Balance of Green Tea and Chocolate
+Description:The Matcha Chocolat version has a better balance of matcha and chocolate than any other Kit Kat.
+Link:https://humancronadmin.github.io/okashi/articles/matcha-snack-taste-test-family-review.html
+
+--- PIN 5
+Image C:◆Usersuser ◆Claude-Workspace ◆projects ◆okashi ◆images ◆webp ◆IMG_4353.webp
+Title:Koala March Chocolate - Japan's Cutest Candy
+Description:A small koala-shaped cookie filled with chocolate, each one with a different koala design.
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+--- PIN 6
+Image C:◆Usersuser ◆Claude-Workspace ◆projects ◆okashi ◆images ◆webp ◆IMG_4404.webp
+Title：Toppo Matcha - Matcha Cream Hidden in Pretzel Stick
+Description: Lotte's Pocky with matcha green tea cream on a pretzel stick.
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+--- PIN 7
+Image C:￤Usersuser￤Claude-Workspace￤projects￤okashi￤imageswebp￤IMG_4412.webp
+Title: Kappa Ebisen Sakura Ebi - Calbee's Pink Shrimp Chips
+Description: Made with 100% sakura shrimp. The light pink color comes from the actual shrimp, not the coloring.
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+=============================================
+JAPAN LIFE PINS (3 pins) - Board: Tips for living in Japan
+=============================================
+
+--- pin 8 ---
+Images: (use screenshots or OG images from the site)
+Title: How to separate garbage in Japan - a complete guide
+Description Japan has strict rules for separating garbage, and these rules vary from municipality to municipality. This free tool shows you exactly how to separate over 20 common items in your area.
+Link: https://humancronadmin.github.io/japan-disposal-guide/
+
+--- PIN 9
+Image: (use screenshot or site og image)
+Title: Japanese Tax Calculator for Foreign Nationals - Free Tool
+Description: Calculate Japanese income tax, inhabitant tax, and social insurance premiums in seconds.
+Link: https://humancronadmin.github.io/japan-tax-calculator/
+
+--- PIN 10
+Image: (use screenshot or site og image)
+Title Japan Size Converter - Clothing and Shoes
+DescriptionConvert US/EU sizes of clothes, shoes and rings to Japanese sizes.
+Link: https://humancronadmin.github.io/japan-size-converter/

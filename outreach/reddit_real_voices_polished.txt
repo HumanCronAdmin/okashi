@@ -1,0 +1,130 @@
+========================================
+Reddit Authentic Voices - Collected (2026-04-10)
+========================================
+All real posts and comments taken directly from the Reddit JSON API.
+Click on the url to see the original text.
+
+Work in the next session:
+1. Collect more voices from each brand (Pocky, Calbee, Kameda type are missing)
+2. Reflect the collected voices on the brand pages
+3. Record the URL, user name, and number of votes for each quote to ensure credibility.
+
+
+========================================
+Meiji (Meiji) - Mushroom no Yama vs Takenokonosato
+========================================
+Source: r/Hololive "Kinoko? (1213pts, 218 comments)
+URL: https://reddit.com/r/Hololive/comments/10qq51y/kinoko_takenoko/
+
+Voices recommending Kinoko no Yama
+[10pts] u/plasmarine0:
+"Kinako does the feat of being chocolate and biscuit apart. Most sweets are cookies coated with chocolate.
+(Kinoko no Yama has separate chocolate and cookie, which sets it apart from other chocolate confections.)
+
+[5 points] u/Yamigosaya:
+Mushroom Mountain or Death
+(Mushroom mountain or death?)
+
+[2pts] u/Hiu_Sharky:
+I ate both, but I liked the mushroom one better. I'd like to eat both, though.
+(I've eaten both, but honestly I like the mushrooms much better.)
+
+Voices recommending Takenokonosato
+[8 points] u/FearTHEReaper01:
+Takenokonosato has just the right amount of chocolate. So it is correct.
+（Takenokonosato has just the right amount of chocolate.)
+
+Voice to the controversy itself
+[6 points] u/SnabDedraterEdave:
+(The cruelest religious war to this day.) u/SnabDedraterEdave.
+(One of the cruelest religious wars to this day.)
+
+[3pts] u/redditfanfan00:
+"I like both." "I can't vote for either." "Both are delicious."
+(I like them both.)
+
+Reactions from overseas
+[10 points] u/Screamlord_Sam.
+"I've never had either of them, but if you're not sure, you should choose the mushrooms."
+(I've never had either, but if in doubt, you should pick the mushrooms)
+
+[8pts] u/fuzzymarth:
+"Are chocolomes and choconesses the same as mushrooms and bamboo shoots, or are the "foreign versions" inferior, as with many sweets?"
+(Are the foreign versions of chocolomes and chococones the same as the real mushrooms and bamboo shoots?)
+
+[3 points] u/Calico_fox:
+"I ate a bag of ChocoRooms that were sold at a Circle K near me and they were pretty good."
+(Sold at a Circle K near me, I had a bag of chocolome, it was pretty good) [3pts.
+
+
+========================================
+Morinaga (Morinaga Seika) - Hi-Chew
+========================================
+Source: r/candy "What is the Best Hi-Chew Flavor?" (135pts, 149 comments)
+URL: https://reddit.com/r/candy/comments/17w32x5/best_hichew_flavor/
+
+[48pts] u/I_DontNeedNoDoctor:
+"Grape... . tastes like fresh Concord grapes from my parents' garden in the 60s."
+(Grape... . tastes like the fresh Concord grapes I picked from my parents' grape trellis in the 60's).
+48upvote.An authentic voice with a direct connection to emotion and memory.
+
+[22pts] u/El-chucho373:
+'Ramune, rainbow sherbet, grape, in no particular order.'
+(Ramune, Rainbow Sherbet, Grape, in no particular order).
+
+[16pts] u/TheDarlizzle:
+Green apple or mango.
+(Green apple or mango)
+
+[10pts] u/mickcow:
+Grape for normal, lemon for sour.
+(usually grape, sour is lemon)
+
+--- [10pts] u/mickcow: "Usually Grape, Sour is Lemon
+Source: r/TheYardPodcast "High Chew is Just an LA Starburst" (0pts, 12 comments)
+URL: https://reddit.com/r/TheYardPodcast/comments/1okxiqq/hi_chew_are_just_la_starbursts/
+
+Submitter's claim.
+"A good hi-chu isn't as good as a good starburst. Nick is insane." (Even good Hi-Chews are not as good as good Starbursts.)
+(Even a good Hi-Chew can't beat a good Starburst. They're not more than just candy.)
+
+[17pts] u/N238:
+'Hi-Chews are god level. I get good flavors from international markets in Midwestern cities. Coke, Rum Nut, Dragon Fruit, Blue Raspberry... It's a Japanese Starburst, not an LA Starburst."
+(Haichu is a God-level candy. I buy the good stuff at the international markets in Midwestern cities. Coke, Ramune, Dragon Fruit, Blue Raspberry.... .not LA Starbursts, Japanese Starbursts).
+17upvote in rebuttal: "Japanese Starburst, not LA Starburst is a great word.
+
+[1pts] u/Dewey519:
+(The joke candy critique is) "There are many bad candy takes we can make fun of, but this is not one of them."
+(There are many joke candy critiques, but this isn't one of them *defends high choo).
+
+
+========================================
+Calbee (Calbee) - Jagabee / Jagarico
+========================================
+Source: r/traderjoes "Does anyone remember Spud Crunch or know of any doubles?" (64pts, 9 comments)
+URL: https://reddit.com/r/traderjoes/comments/rr9x3d/does_anyone_remember_spud_crunchies_and_know_a/
+
+[17pts] u/EwokNuggets:
+"Find a grocery store in Japan or Asia and get a Jagabee. It's the same thing."
+(Get your Jagabee at a Japanese grocery store or Asian supermarket.)
+Proof that Jagabee is perceived by Americans as an "alternative to Spud Crunchies".
+
+[7 points] u/khide_:
+"I think there was a thread offering a similar alternative when it was discontinued (calbeena.com/jagabee)."
+(I believe there was a thread offering similar alternatives when it was discontinued.)
+
+---
+Source: r/japan "Help finding Japanese snacks I once had?"(2pt, 5 comments)(2pts, 5 comments)
+URL: https://reddit.com/r/japan/comments/5gjeaa/help_finding_japanese_snack_i_once_had/
+
+Posted by.
+"I was often invited to the homes of Japanese people, where I was always treated to a light meal. They were like French fries, crunchy and slightly sweet."
+(I was invited to a lot of Japanese homes and they served snacks, but there was one I really liked.)
+Memories of Jagariko/Jagabee.
+
+[8pts] u/FourthBridge:
+Search for "Imokenpi. Imokenpi is a sweet potato base covered with sugar. Calbee Jagabee/Jagarico is made from regular potatoes and is generally savory."
+(Search for potato kenpi.)
+
+
+============================

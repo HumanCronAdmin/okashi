@@ -1,0 +1,13 @@
+# HN Draft
+> Gemini
+
+Show HN: Japanese Sweets Database: Search by Taste & Texture
+
+okashi` is a web tool designed to help users discover Japanese sweets. It provides a structured interface to search and filter snacks based on specific flavor profiles (e.g. sweet, savory, umami) and texture attributes (e.g. crunchy, chewy, soft). The primary use case is individuals, especially those outside of Japan, seeking new Japanese snacks to suit their tastes.
+
+Navigating the vast and diverse world of Japanese snacks can be difficult without prior knowledge or language skills. This project goes beyond the typical category search and tackles the difficulty of identifying snacks that fit an individual's taste and texture preferences. Its innovation lies in providing a data-driven approach to candy discovery, as opposed to anecdotal recommendations or visual guesswork. It also offers interactive features such as hierarchical list building and personality quizzes to draw users into the data.
+
+The application is a static site hosted on GitHub Pages and is built to be lightweight and easily accessible. The core functionality relies on a structured dataset of Japanese snacks categorized by detailed attributes. This allows for accurate filtering and comparison. The interactive elements are implemented completely client-side and do not require server-side processing for core functionality, resulting in a responsive user experience.
+
+The tool can be found at https://humancronadmin.github.io/okashi/.
+Feedback on data accuracy, feature suggestions, or general usability is welcome.

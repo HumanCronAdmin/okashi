@@ -1,0 +1,180 @@
+========================================
+Okashi Brand Page - Blueprint
+========================================
+Airiness: Happiness of sweets in daily life.
+Japanese translation: Japanese translation: Japanese translation: Japanese translation: Japanese translation: Japanese translation: English translation
+Not shown: chronology, company history, air information, specs enumeration
+
+
+========================================
+Common page structure
+========================================
+
+1. lead sentence (with a single word of that brand's "air")
+   → Not a history timeline, but the brand's pastries.
+     Describe where they are in daily life and what kind of fun they are.
+
+2. discovery ("Did you know?")
+   → "Oh, is this the same company as this?
+   → Surprising particulars and points of view of that brand
+   → Interesting facts that cannot be conveyed on the official website
+
+3. Products (as shown on the website)
+   → Each product comes with a one-word comment on the experience
+   → Write about the "sensation of eating" rather than the specifications
+
+4. Scene suggestions ("When you reach for it") → Match the confectionery with specific life situations
+   → Match specific life situations with the confectionery
+   → Make the scene come to mind just by reading it
+
+5. Related article links
+   → Go to articles in which the brand's products appear
+
+6. link to the official website (respectfully and unobtrusively)
+
+
+========================================
+1. Meiji
+========================================
+URL: /brands/meiji.html
+Products: Mushrooms no Yama, Takenokonosato, Meiji Milk Chocolate, Mushrooms no Yama Strawberry
+
+Lead statement
+Meiji is built on friendly competition.
+Kinokonoyama vs. Takenokonosato.
+Simple milk chocolate vs. playful apollo cones.
+Choose one or the other, or don't.
+If you grew up in Japan, Meiji is probably your first chocolate.
+If not, it will soon become your favorite.
+
+Discover section
+- Mushrooms vs. bamboo shoots is a national debate in Japan.
+  There's even been an official "general election" since 2001.
+  The same company makes both, but the fans really fight.
+- The name Apollo comes from the spacecraft.
+  That triangle is the tip of the rocket.
+- Meiji milk chocolate has tasted the same since 1926.
+  The recipe has not changed for 100 years, and it is still available at convenience stores for 100 yen.
+
+Products (comments on experience)
+- Mushrooms
+  "Remove the chocolate cap from the cracker shaft.
+   That is the correct way to eat it. No objections allowed."
+
+- Takenokonosato
+  'Smoother than mushrooms. Cookies and chocolate.
+   Melts. Team Takenoko says this is superior."
+
+- Meiji Milk Chocolate
+  No fancy stuff. Just clean, honest milk chocolate.
+   Somehow tasty for the price."
+
+- Apollo.
+  "A little strawberry chocolate cone that you can grab and eat.
+   Originally designed to look like a spaceship. Still enjoyable."
+
+- Mushroom Mountain Strawberry
+  "Seasonal. Pink mushrooms.
+   Tastes like spring even in the middle of winter."
+
+Scene suggestions.
+- 3pm desk slump -> Meiji Milk Chocolate. 1 bottle. Problem solved.
+- Movie debate → mushrooms vs. bamboo shoots. Let the room vote.
+- Present for the first time → Apollo. Cute, tasty, safe.
+- Convenience store run, no plan → Takenokonosato. Always dependable.
+
+
+========================================
+2. Ezaki Glico - Glico
+========================================
+URL: /brands/glico.html
+Products: Pocky(3 kinds), Pritz Salad, Cheeza
+
+Lead text
+Everyone knows Pocky.
+But Glico is a company that also makes Pretz.
+And Cheeza is a cracker that literally has more than 50% cheese in it.
+It has more than 50% cheese.
+Glico is not just a sweet company. Glico is not only sweet.
+It is "more than you expect".
+
+Discovery
+- Pocky is sold under the name "mikado" in Europe.
+  It is the same candy but with a different name.
+- Pritz is the older brother born before Pocky.
+  1963 Prits, 1966 Pocky.
+  The younger brother became more famous.
+- Cheeza is more than 50% cheese in its candy.
+  It was developed as a snack, so it goes with wine.
+  It's in the candy section, but it's practically cheese.
+
+Products (comments on experience)
+- Pocky Chocolate
+  'The beginning of it all. Dip end, hold end.
+   Simple concept, perfect execution.
+
+- Pocky Matcha
+  Bittersweet adult flavor. This is a Pocky.
+   Not as a snack, but a Pocky with actual matcha."
+
+- Pocky Strawberry.
+  The Sweet One. There are grains of real strawberries in the coating.
+   Tastes like strawberries dipped in cream."
+
+- Pretz Salad.
+  'The overlooked big brother of the Pocky. Herbal flavor,
+   Not sweet. Perfect with beer.
+   No one talks about it.
+
+- Cheeza Cheddar
+  These are not cheese-flavored crackers.
+   They happen to be cheese crackers.
+   50% cheese content. Read it again.
+
+Scene suggestion
+- November 11 (Pocky Day) -> Pocky chocolate. Naturally.
+- Wine Night → Cheeza, trust me on this one.
+- Driving snack → Pretz salad. Chocolate doesn't melt, it's savory, and you'll never get tired of it.
+- A gift that everyone will love → Pocky Matcha. It looks and tastes elegant.
+
+
+========================================
+3. Calbee
+========================================
+URL: /brands/calbee.html
+Products: Jagarico(2 kinds), Kata-Age Potato, Kappa Ebisen, Jagabee
+
+Lead statement
+Calbee is what happens when a company becomes obsessed with a single question.
+Calbee is what happens when a company becomes obsessed with one question: "How many different things can you do with potatoes?
+Calbee was born as a result of a company's obsession with one question: "How many different things can you do with a potato?
+Sticks in a cup. Thick-sliced hard chips. Shrimp-flavored potato chips.
+Whole-cut french fries in a box.
+The same ingredients, completely different experiences.
+That's Calbee.
+
+Discovery: Calbee's potato products all have different textures.
+- Calbee's potato products all have different textures.
+  Jagarico (crunchy), Kata-Age (crunchy), Jagabee (crunchy).
+  They are all potatoes, but they are all different experiences.
+- Kappa Ebisen has been sold since 1964.
+  The catchphrase "Can't stop, won't stop" has been around for 60 years.
+  It uses real shrimp, so you can smell the ocean the moment you open the bag.
+- Jagariko's cup shape is "eatable with one hand and won't stain your desk".
+  Jagariko is a friend of Japanese office workers, born from
+
+Product (comments on experience)
+- Jagarico Salad
+  Crunchy potato sticks, herbs, and carrot mash.
+   Just a little bit." When you open the cup, it suddenly becomes empty.
+
+- Jarariko Cheese
+  The same addictive crunchy texture, but with cheese.
+   Some people pour hot water over it to make instant mashed potatoes.
+   I don't judge."
+
+- Hard Fried Chips.
+  'Thick, hard fried, and aggressive.'
+   These chips fight back when you bite into them. That's the point.
+
+- Kappa Ebisen

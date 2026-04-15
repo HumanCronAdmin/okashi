@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://humancronadmin.github.io/okashi/about.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -37,32 +37,27 @@
   </url>
   <url>
     <loc>https://humancronadmin.github.io/okashi/collection.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://humancronadmin.github.io/okashi/explore.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://humancronadmin.github.io/okashi/index.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://humancronadmin.github.io/okashi/quiz.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://humancronadmin.github.io/okashi/tierlist.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://humancronadmin.github.io/okashi/articles/japanese-snacks-for-kids.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://humancronadmin.github.io/okashi/articles/japanese-snacks-for-office.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://humancronadmin.github.io/okashi/articles/japanese-snacks-under-200-yen.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://humancronadmin.github.io/okashi/articles/japanese-snacks-for-road-trip.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://humancronadmin.github.io/okashi/articles/japanese-snacks-late-night.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>

@@ -1,35 +1,74 @@
-Pinterest Pins — Okashi (Japanese Snacks)
-Board: Japanese Snacks
-==========================================
+Pinterest Pins — Batch 1 (10 pins)
+Account: TinyFit (shared account, board-separated)
+=============================================
 
---- PIN 1: KitKat Matcha ---
+NEW BOARD TO CREATE: "Japanese Snacks"
+NEW BOARD TO CREATE: "Japan Life Tips"
 
+=============================================
+OKASHI PINS (7 pins) — Board: Japanese Snacks
+=============================================
+
+--- PIN 1 ---
 Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4320.webp
-
 Title: real matcha KitKat from a Japanese convenience store
-
 Description: this is what matcha KitKat actually looks like in Japan. rich green tea coating, 61 kcal per piece. you can find these at any konbini for about 400 yen
+Link: https://humancronadmin.github.io/okashi/articles/matcha-snack-taste-test-family-review.html
 
-Link: https://humancronadmin.github.io/okashi/explore.html
-
-
---- PIN 2: Black Thunder Matcha ---
-
+--- PIN 2 ---
 Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4396.webp
-
 Title: Black Thunder matcha — best 100 yen chocolate bar in Japan
+Description: matcha version of Japan's most popular cheap chocolate bar. crunchy cookie base with thick matcha coating. our family rated this #1 out of 6 matcha snacks
+Link: https://humancronadmin.github.io/okashi/articles/matcha-snack-taste-test-family-review.html
 
-Description: matcha version of Japan's most popular cheap chocolate bar. crunchy cookie base with thick matcha coating. costs about 30 cents at any convenience store
-
-Link: https://humancronadmin.github.io/okashi/explore.html
-
-
---- PIN 3: Jagariko ---
-
+--- PIN 3 ---
 Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4314.webp
-
 Title: Jagariko salad flavor — Japan's most addictive potato snack
-
 Description: crunchy potato sticks with herbs and vegetable bits. once you open the cup you cannot stop eating them. a staple in every konbini
-
 Link: https://humancronadmin.github.io/okashi/explore.html
+
+--- PIN 4 ---
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4408.webp
+Title: KitKat matcha chocolat — matcha and chocolate in perfect balance
+Description: the matcha chocolat version balances green tea and chocolate better than any other KitKat. all 4 of us agreed this one hits different
+Link: https://humancronadmin.github.io/okashi/articles/matcha-snack-taste-test-family-review.html
+
+--- PIN 5 ---
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4353.webp
+Title: Koala's March chocolate — the cutest snack in Japan
+Description: tiny koala-shaped cookies filled with chocolate. each one has a different koala design. been a fan favorite in Japan since 1984
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+--- PIN 6 ---
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4404.webp
+Title: Toppo matcha — green tea cream hidden inside pretzel sticks
+Description: Lotte's answer to Pocky but with the cream on the inside. the matcha version has a subtle green tea flavor. you can see the green filling when you look at the cross section
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+--- PIN 7 ---
+Image: C:\Users\user\Claude-Workspace\projects\okashi\images\webp\IMG_4412.webp
+Title: Kappa Ebisen sakura shrimp — pink shrimp chips from Calbee
+Description: made with 100% sakura ebi (cherry blossom shrimp). light pink color comes from the actual shrimp not food coloring. crispy twisted sticks that taste like the ocean
+Link: https://humancronadmin.github.io/okashi/explore.html
+
+=============================================
+JAPAN LIFE PINS (3 pins) — Board: Japan Life Tips
+=============================================
+
+--- PIN 8 ---
+Image: (screenshot or use site OG image)
+Title: how to sort garbage in Japan — the complete guide
+Description: Japan has strict garbage rules and they change by city. this free tool shows you exactly how to sort 20+ common items for your area
+Link: https://humancronadmin.github.io/japan-disposal-guide/
+
+--- PIN 9 ---
+Image: (screenshot or use site OG image)
+Title: Japan tax calculator for foreigners — free tool
+Description: calculate your Japanese income tax, residence tax, and social insurance in seconds. built for expats and foreign workers in Japan
+Link: https://humancronadmin.github.io/japan-tax-calculator/
+
+--- PIN 10 ---
+Image: (screenshot or use site OG image)
+Title: Japanese size converter — clothes and shoes
+Description: Japanese sizes run small. convert your US/EU size to Japanese sizing for clothes, shoes, and rings. stop guessing and get the right fit
+Link: https://humancronadmin.github.io/japan-size-converter/
