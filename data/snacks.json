@@ -74,7 +74,8 @@
         "travel"
       ],
       "amazon_us": "https://www.amazon.com/s?k=Pocky+Chocolate+Japanese&tag=okashisnack-20",
-      "image": "images/webp/IMG_4383.webp"
+      "image": "images/webp/IMG_4383.webp",
+      "article": "pocky-chocolate"
     },
     {
       "id": "pocky-matcha",
@@ -152,7 +153,8 @@
         "late-night"
       ],
       "amazon_us": "https://www.amazon.com/s?k=Calbee+Jagarico+Salad&tag=okashisnack-20",
-      "image": "images/webp/IMG_4314.webp"
+      "image": "images/webp/IMG_4314.webp",
+      "article": "jagariko-salad"
     },
     {
       "id": "jagariko-cheese",

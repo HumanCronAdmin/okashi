@@ -115,7 +115,19 @@ img{max-width:100%;height:auto;display:block}
 .tried-btn.is-tried{background:var(--secondary);color:#fff}
 .buy-btn{display:block;width:100%;padding:8px;background:#FF9900;color:#fff;text-align:center;font-size:0.85rem;font-weight:600;text-decoration:none;min-height:44px;line-height:28px;transition:background 0.15s}
 .buy-btn:hover{background:#e68a00;text-decoration:none;color:#fff}
+.review-btn{display:block;width:100%;padding:8px;background:#4ECDC4;color:#fff;text-align:center;font-size:0.85rem;font-weight:600;text-decoration:none;min-height:44px;line-height:28px;transition:background 0.15s}
+.review-btn:hover{background:#3db8b0;text-decoration:none;color:#fff}
 .japan-only-badge{display:block;width:100%;padding:8px;background:#f0f0f0;color:#999;text-align:center;font-size:0.8rem;font-weight:600;border-radius:0 0 calc(var(--radius) - 1px) calc(var(--radius) - 1px)}
+
+/* GUIDES & REVIEWS */
+.guides-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:20px}
+.guide-card{display:flex;gap:14px;background:#fff;border-radius:var(--radius);border:1px solid var(--border);padding:16px;text-decoration:none;color:inherit;transition:transform 0.15s,box-shadow 0.15s;min-height:44px}
+.guide-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,0.08);text-decoration:none;color:inherit}
+.guide-emoji{font-size:2.2rem;flex-shrink:0}
+.guide-body{flex:1;min-width:0}
+.guide-type{display:inline-block;font-size:0.7rem;font-weight:700;text-transform:uppercase;color:#4ECDC4;letter-spacing:0.5px;margin-bottom:4px}
+.guide-title{font-weight:700;font-size:1rem;margin-bottom:4px;color:#222}
+.guide-desc{font-size:0.85rem;color:#666;line-height:1.4}
 
 /* FEATURE CARDS */
 .feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;margin-top:20px}

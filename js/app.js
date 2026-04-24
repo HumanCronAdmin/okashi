@@ -14,6 +14,26 @@ const SA = {
     return this.snacks;
   },
 
+  async loadGuides() {
+    if (!this.base) this.base = location.pathname.includes('/okashi') ? '/okashi' : '';
+    const res = await fetch(`${this.base}/data/guides.json`);
+    const data = await res.json();
+    return data.guides;
+  },
+
+  renderGuideCard(g) {
+    const typeLabel = {review:'Review', ranking:'Ranking', guide:'Guide'}[g.type] || 'Guide';
+    return `
+      <a href="${this.base}/articles/${g.slug}.html" class="guide-card">
+        <div class="guide-emoji">${g.emoji}</div>
+        <div class="guide-body">
+          <span class="guide-type">${typeLabel}</span>
+          <div class="guide-title">${g.title}</div>
+          <div class="guide-desc">${g.desc}</div>
+        </div>
+      </a>`;
+  },
+
   isCollected(id) {
     return this.collected.includes(id);
   },
@@ -60,6 +80,7 @@ const SA = {
             <div class="card-tags">${flavorTags}${texTag}</div>
           </div>
           ${showTried ? `<button class="tried-btn ${collected ? 'is-tried' : 'not-tried'}" data-id="${s.id}">${collected ? '✓ Tried!' : 'Mark as Tried'}</button>` : ''}
+          ${s.article ? `<a href="${this.base}/articles/${s.article}.html" class="review-btn">📖 Read review</a>` : ''}
           ${s.amazon_us ? `<a href="${s.amazon_us}" target="_blank" rel="noopener" class="buy-btn">Buy on Amazon</a>` : ''}
         </div>
       </div>`;
