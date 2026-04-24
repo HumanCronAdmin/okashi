@@ -1,3 +1,0 @@
-User Agent*.
-Allow/
-Site Map: https://humancronadmin.github.io/okashi/sitemap.xml
