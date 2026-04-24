@@ -152,7 +152,6 @@
         "travel",
         "late-night"
       ],
-      "amazon_us": "https://www.amazon.com/s?k=Calbee+Jagarico+Salad&tag=okashisnack-20",
       "image": "images/webp/IMG_4314.webp",
       "article": "jagariko-salad"
     },
@@ -529,8 +528,7 @@
       "good_for": [
         "office-snack",
         "sharing"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Glico+Pretz+Salad&tag=okashisnack-20"
+      ]
     },
     {
       "id": "kasugai-gummy-muscat",
@@ -554,8 +552,7 @@
       "good_for": [
         "travel",
         "kids"
-      ],
-      "amazon_us": "https://www.amazon.com/s?k=Kasugai+Muscat+Gummy&tag=okashisnack-20"
+      ]
     },
     {
       "id": "bourbon-alfort",
