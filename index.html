@@ -41,6 +41,18 @@
  </div>
 </section>
 
+<section class="section" style="background:#fff;padding-top:24px">
+ <div class="container">
+ <h2 class="section-title">Browse All Snacks</h2>
+ <p style="text-align:center;color:#666;margin-bottom:20px">Real photos. Real Japanese snacks. Tap any to see details.</p>
+ <div class="card-grid" id="popular-grid">
+</div>
+ <div style="text-align:center;margin-top:20px">
+ <a href="explore.html" class="btn btn-outline">Filter & Search →</a>
+ </div>
+ </div>
+</section>
+
 <section class="section">
  <div class="container">
  <h2 class="section-title">What Makes Okashi Different?</h2>
@@ -65,17 +77,6 @@
  <div class="feature-title">Build Your Collection</div>
  <div class="feature-desc">Track every Japanese snack you've tried. See your progress and discover what's next on your list.</div>
  </div>
- </div>
- </div>
-</section>
-
-<section class="section" style="background:#fff">
- <div class="container">
- <h2 class="section-title">Popular Snacks</h2>
- <div class="card-grid" id="popular-grid">
-</div>
- <div style="text-align:center;margin-top:20px">
- <a href="explore.html" class="btn btn-outline">See All Snacks →</a>
  </div>
  </div>
 </section>
@@ -153,9 +154,9 @@
 <script>
 document.getElementById('nav').innerHTML = renderNav('home');
 SA.loadSnacks().then(snacks => {
- const picks = ['kitkat-matcha','pocky-chocolate','jagariko-cheese','hi-chew-grape','black-thunder','royce-nama-chocolate'];
- const popular = picks.map(id => snacks.find(s => s.id === id)).filter(Boolean);
- document.getElementById('popular-grid').innerHTML = popular.map(s => SA.renderSnackCard(s, {showTried: false})).join('');
+ // Show all snacks, prioritize ones with most photos first
+ const sorted = [...snacks].sort((a,b) => (b.photo_count||0) - (a.photo_count||0));
+ document.getElementById('popular-grid').innerHTML = sorted.map(s => SA.renderSnackCard(s, {showTried: false})).join('');
 });
 SA.loadGuides().then(guides => {
  document.getElementById('guidesGrid').innerHTML = guides.map(g => SA.renderGuideCard(g)).join('');

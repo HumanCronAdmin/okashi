@@ -80,7 +80,7 @@ const SA = {
             <div class="card-tags">${flavorTags}${texTag}</div>
           </div>
           ${showTried ? `<button class="tried-btn ${collected ? 'is-tried' : 'not-tried'}" data-id="${s.id}">${collected ? '✓ Tried!' : 'Mark as Tried'}</button>` : ''}
-          ${s.article ? `<a href="${this.base}/articles/${s.article}.html" class="review-btn">📖 Read review</a>` : ''}
+          ${s.article ? `<a href="${this.base}/articles/${s.article}.html" class="review-btn">📖 Read review</a>` : `<span class="review-btn" style="opacity:0.5;cursor:default">Review coming soon</span>`}
           ${s.amazon_us ? `<a href="${s.amazon_us}" target="_blank" rel="noopener" class="buy-btn">Buy on Amazon</a>` : ''}
         </div>
       </div>`;
