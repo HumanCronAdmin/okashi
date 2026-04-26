@@ -144,7 +144,1925 @@
       "collected_at": "2026-04-12",
       "snack_id": "young-donut",
       "snack_name": "Young Donut"
+    },
+    "jagariko-salad": {
+      "real_taste": "Consumers describe the Salad flavor of Jagariko as a savory, slightly salty, and subtly herbaceous potato snack. The 'salad' aspect is often interpreted as a light, fresh, and slightly vegetal note, reminiscent of a mild salad dressing rather than distinct vegetable flavors.",
+      "real_texture": "The defining texture is its signature crisp, hollow, and crunchy stick shape, which provides a satisfying snap with every bite. It's consistently praised for its firm yet airy crunch.",
+      "common_praise": [
+        "Addictively crunchy and satisfying texture",
+        "Unique and refreshing savory flavor",
+        "Convenient and portable snack",
+        "Good balance of saltiness and subtle herb notes"
+      ],
+      "common_complaints": [
+        "Can be a bit dry for some palates",
+        "Flavor can be perceived as too subtle or not 'vegetable-y' enough"
+      ],
+      "unexpected_uses": "Some users enjoy crushing the Jagariko sticks and using them as a crunchy topping for salads or other dishes, similar to croutons.",
+      "popular_pairings": [
+        "Beer",
+        "Green tea",
+        "Milk",
+        "Other savory Japanese snacks"
+      ],
+      "vs_similar": "Compared to other potato stick snacks, Jagariko Salad flavor offers a lighter, less oily profile with a more pronounced, airy crunch. It's less intensely seasoned than some Western potato chips.",
+      "cultural_context": "Jagariko is a very popular and iconic Japanese snack, often associated with childhood nostalgia and readily available in convenience stores and supermarkets across Japan.",
+      "confidence": "high",
+      "collected_at": "2026-04-16",
+      "snack_id": "jagariko-salad",
+      "snack_name": "Jagariko Salad Flavor"
+    },
+    "bourbon-alfort": {
+      "real_taste": "Consumers consistently describe Alfort Mini Chocolate as having a pleasant, balanced chocolate flavor that isn't overly sweet. The biscuit base provides a mild, slightly malty or graham-cracker-like undertone that complements the chocolate well, creating a satisfying, classic taste.",
+      "real_texture": "The texture is a key highlight, with a distinct crispness from the biscuit that contrasts nicely with the smooth, melty chocolate coating.",
+      "common_praise": [
+        "Delicious and addictive",
+        "Perfect balance of chocolate and biscuit",
+        "Great for a quick snack or treat",
+        "Good value for the price",
+        "Enjoyable for both adults and children"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to some other chocolate biscuits, Alfort is often seen as having a more refined chocolate taste and a superior biscuit crispness.",
+      "cultural_context": "Alfort is a long-standing and very popular snack in Japan, often associated with childhood nostalgia and everyday enjoyment.",
+      "confidence": "high",
+      "collected_at": "2026-04-16",
+      "snack_id": "bourbon-alfort",
+      "snack_name": "Alfort Mini Chocolate"
+    },
+    "meiji-apollo": {
+      "real_taste": "Consumers generally describe Meiji Apollo as having a distinct, sweet strawberry flavor that is balanced by a creamy milk chocolate. The strawberry is often noted as being artificial but pleasant, not overwhelmingly tart or sour, and the overall taste is considered sweet and satisfying.",
+      "real_texture": "The texture is typically described as a smooth, melt-in-your-mouth chocolate with a slightly firmer, almost chalky feel to the strawberry portion. The combination is generally perceived as pleasant and not overly hard or crumbly.",
+      "common_praise": [
+        "Nostalgic childhood favorite",
+        "Perfect balance of strawberry and chocolate",
+        "Cute and appealing shape",
+        "Good for a quick sweet treat"
+      ],
+      "common_complaints": [
+        "Strawberry flavor can be perceived as artificial by some",
+        "Can be too sweet for those who prefer less sugary snacks"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other strawberry chocolates, Apollo is often seen as having a more distinct and less artificial strawberry flavor than some mass-produced options, while maintaining a similar creamy milk chocolate base.",
+      "cultural_context": "Meiji Apollo is a long-standing and iconic Japanese chocolate snack, evoking strong feelings of nostalgia for many who grew up with it.",
+      "confidence": "high",
+      "collected_at": "2026-04-16",
+      "snack_id": "meiji-apollo",
+      "snack_name": "Meiji Apollo Strawberry Chocolate"
+    },
+    "pocky-chocolate": {
+      "real_taste": "Consumers consistently describe Pocky Chocolate as having a balanced, not overly sweet, milk chocolate flavor that complements the biscuit stick well. Some note a subtle cocoa note in the chocolate coating.",
+      "real_texture": "The defining texture is the satisfying crispness of the biscuit stick, which provides a pleasant contrast to the smooth, thin layer of chocolate coating.",
+      "common_praise": [
+        "Classic, reliable chocolate flavor",
+        "Perfect balance of chocolate and biscuit",
+        "Satisfying crunch",
+        "Great for sharing or on-the-go",
+        "Nostalgic and comforting"
+      ],
+      "common_complaints": [
+        "Can be too sweet for some palates",
+        "Chocolate coating can melt in warm weather",
+        "Wish there was more chocolate on the stick"
+      ],
+      "unexpected_uses": "Some users enjoy dipping Pocky into coffee or hot chocolate for an extra flavor boost, or using them as edible stirrers.",
+      "popular_pairings": [
+        "Milk",
+        "Coffee",
+        "Tea",
+        "Ice cream"
+      ],
+      "vs_similar": "Compared to some other chocolate-covered biscuit sticks, Pocky Chocolate is often perceived as having a more refined, less sugary chocolate flavor and a thinner, crispier biscuit.",
+      "cultural_context": "Pocky is a widely recognized and beloved Japanese snack, often associated with childhood nostalgia and readily available in convenience stores and supermarkets across Japan and internationally.",
+      "confidence": "high",
+      "collected_at": "2026-04-16",
+      "snack_id": "pocky-chocolate",
+      "snack_name": "Pocky Chocolate"
+    },
+    "koala-no-march-chocolate": {
+      "real_taste": "Consumers generally describe the taste as a pleasant, mild milk chocolate filling encased in a lightly sweet, crisp biscuit. The chocolate is not overly rich or dark, making it appealing to a broad audience, with some noting a subtle sweetness that balances the cookie.",
+      "real_texture": "The texture is consistently praised for its satisfying crunch from the outer biscuit shell, which gives way to a smooth, creamy chocolate center.",
+      "common_praise": [
+        "Cute koala shapes are a big draw",
+        "Pleasant, not too sweet chocolate flavor",
+        "Satisfyingly crunchy biscuit",
+        "Good for sharing and as a light snack"
+      ],
+      "common_complaints": [
+        "Some wish for a more intense chocolate flavor",
+        "Occasional reports of broken cookies in packaging"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to other chocolate-filled biscuits, Koala's March is often seen as having a more delicate chocolate flavor and a lighter, crisper cookie shell.",
+      "cultural_context": "These cookies are a nostalgic childhood favorite for many in Japan and are popular as a fun, accessible snack for all ages.",
+      "confidence": "high",
+      "collected_at": "2026-04-21",
+      "snack_id": "koala-no-march-chocolate",
+      "snack_name": "Koala's March Chocolate"
+    },
+    "hi-chew-grape": {
+      "real_taste": "Consumers consistently describe the Hi-Chew Grape flavor as a vibrant, artificial grape that's intensely sweet and slightly tart, reminiscent of grape candy or soda. It's often noted for its strong, distinct grape essence that isn't necessarily a natural grape flavor but a very enjoyable candy interpretation.",
+      "real_texture": "The texture is universally praised for its unique chewiness, described as soft, pliable, and slightly taffy-like, with a satisfying resistance that doesn't become hard or sticky.",
+      "common_praise": [
+        "Intense and delicious grape flavor",
+        "Perfect chewy texture",
+        "Addictive and satisfying",
+        "Great for on-the-go snacking",
+        "Nostalgic childhood treat"
+      ],
+      "common_complaints": [
+        "Can be too sweet for some",
+        "Artificial flavor might not appeal to everyone"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Water",
+        "Soda",
+        "Tea"
+      ],
+      "vs_similar": "Compared to Starburst, Hi-Chew Grape is generally considered softer and less waxy, with a more pronounced and distinct artificial grape flavor that leans sweeter.",
+      "cultural_context": "Hi-Chew is a long-standing and iconic Japanese candy, often evoking strong feelings of nostalgia for those who grew up with it or discovered it during travels to Japan.",
+      "confidence": "high",
+      "collected_at": "2026-04-21",
+      "snack_id": "hi-chew-grape",
+      "snack_name": "Hi-Chew Grape"
+    },
+    "black-thunder": {
+      "real_taste": "Consumers describe Black Thunder as having a rich, slightly bitter dark chocolate flavor that isn't overly sweet. The cookie pieces add a satisfying, malty depth that complements the chocolate coating.",
+      "real_texture": "The defining texture is its satisfying crunch from the cocoa cookie pieces, contrasted with the smooth, slightly firm chocolate coating.",
+      "common_praise": [
+        "Incredibly addictive and satisfying crunch",
+        "Great balance of chocolate and cookie",
+        "Affordable and widely available",
+        "Perfect for a quick energy boost",
+        "Nostalgic childhood favorite"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some palates",
+        "Melts easily in warm weather"
+      ],
+      "unexpected_uses": "Some consumers enjoy crushing Black Thunder pieces and using them as a topping for ice cream, yogurt, or even incorporating them into baked goods like cookies or brownies.",
+      "popular_pairings": [
+        "Milk",
+        "Coffee",
+        "Tea",
+        "Ice cream"
+      ],
+      "vs_similar": "Compared to many Western chocolate bars, Black Thunder is often perceived as having a more pronounced cocoa flavor and a less cloying sweetness, with a distinct cookie crunch.",
+      "cultural_context": "Black Thunder is a beloved and iconic Japanese snack, often associated with childhood nostalgia and readily available in convenience stores and supermarkets across Japan.",
+      "confidence": "high",
+      "collected_at": "2026-04-22",
+      "snack_id": "black-thunder",
+      "snack_name": "Black Thunder"
+    },
+    "kinoko-no-yama": {
+      "real_taste": "Consumers generally describe Kinoko no Yama as having a pleasant, balanced sweetness with a distinct milk chocolate flavor that complements the mild, slightly buttery cookie base. Some note a subtle cocoa note in the chocolate, while others find it a classic, straightforward chocolate-cookie taste.",
+      "real_texture": "The snack is characterized by a crisp, slightly crumbly cookie stem and a smooth, melt-in-your-mouth chocolate mushroom cap. The contrast between the two textures is a frequently mentioned positive aspect.",
+      "common_praise": [
+        "Delicious and satisfying chocolate-cookie combination",
+        "Perfectly balanced sweetness",
+        "Enjoyable texture contrast between cookie and chocolate",
+        "Nostalgic and comforting snack"
+      ],
+      "common_complaints": [
+        "Can sometimes arrive broken or melted, especially during shipping",
+        "Some wish for a more intense chocolate flavor"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to similar chocolate-covered biscuits, Kinoko no Yama is often seen as having a more refined chocolate flavor and a distinct, playful shape that sets it apart.",
+      "cultural_context": "Kinoko no Yama is a beloved and iconic Japanese snack, often evoking childhood nostalgia for many consumers.",
+      "confidence": "high",
+      "collected_at": "2026-04-24",
+      "snack_id": "kinoko-no-yama",
+      "snack_name": "Kinoko no Yama"
+    },
+    "meiji-meltykiss-strawberry": {
+      "real_taste": "Consumers describe the taste as a pleasant, not overly artificial, strawberry flavor that complements the rich, milky chocolate. The sweetness is generally well-balanced, with some noting a subtle tartness from the strawberry.",
+      "real_texture": "The defining texture is its melt-in-your-mouth quality, often described as smooth, creamy, and almost velvety. It's a soft chocolate that dissolves easily.",
+      "common_praise": [
+        "Melts beautifully in the mouth",
+        "Great balance of strawberry and chocolate flavor",
+        "Not too sweet, just right",
+        "Perfect for a small treat"
+      ],
+      "common_complaints": [
+        "Can be a bit too soft and melt too quickly in warmer temperatures",
+        "Wish there was more strawberry flavor"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other strawberry chocolates, Meltykiss is often praised for its superior melt-in-your-mouth texture and more natural-tasting strawberry notes, avoiding the overly artificial candy-like flavor found in some alternatives.",
+      "cultural_context": "Meltykiss is a popular seasonal winter treat in Japan, known for its luxurious texture and association with colder weather.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-meltykiss-strawberry",
+      "snack_name": "Meiji Meltykiss Strawberry"
+    },
+    "meiji-apollo-strawberry-chocolate": {
+      "real_taste": "Consumers generally describe Meiji Apollo as having a distinct, sweet strawberry flavor that is balanced by a creamy milk chocolate. The strawberry component is often noted as being artificial but pleasant, not overly tart or chemical-tasting. The combination is sweet and satisfying for those who enjoy fruity chocolate.",
+      "real_texture": "The texture is a key characteristic, with a smooth, melt-in-your-mouth chocolate coating and a slightly firmer, almost chalky or powdery texture from the strawberry portion. The contrast is generally well-received.",
+      "common_praise": [
+        "Cute, iconic shape",
+        "Pleasant strawberry and chocolate flavor combination",
+        "Melts nicely in the mouth",
+        "Nostalgic childhood snack",
+        "Good for sharing or as a small treat"
+      ],
+      "common_complaints": [
+        "Strawberry flavor can be perceived as artificial by some",
+        "Can be a bit too sweet for some palates"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other strawberry chocolates, Apollo is often seen as having a more distinct and less subtle strawberry flavor. Its unique cone shape also sets it apart visually.",
+      "cultural_context": "Meiji Apollo is a long-standing and very popular snack in Japan, often associated with childhood memories and readily available in convenience stores and supermarkets.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-apollo-strawberry-chocolate",
+      "snack_name": "Meiji Apollo Strawberry Chocolate"
+    },
+    "meiji-almond-chocolate": {
+      "real_taste": "Consumers consistently describe the taste as a satisfying balance of creamy milk chocolate and a lightly roasted, nutty almond. The sweetness is generally well-received, not overly cloying, allowing the almond flavor to come through.",
+      "real_texture": "The texture is a key highlight, with the satisfying crunch of the whole almond contrasting nicely with the smooth, melt-in-your-mouth chocolate coating.",
+      "common_praise": [
+        "Perfect balance of chocolate and almond",
+        "High-quality chocolate taste",
+        "Satisfying crunch",
+        "Great for a quick treat",
+        "Classic and reliable flavor"
+      ],
+      "common_complaints": [
+        "Can be a bit pricey for the quantity",
+        "Chocolate can melt easily in warmer temperatures"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other chocolate-covered nuts, Meiji Almond Chocolate is often praised for its superior chocolate quality and the distinct, satisfying crunch of its whole almonds.",
+      "cultural_context": "This is a long-standing and popular snack in Japan, often associated with childhood nostalgia and readily available in convenience stores and supermarkets.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-almond-chocolate",
+      "snack_name": "Meiji Almond Chocolate"
+    },
+    "hi-soft": {
+      "real_taste": "Consumers often describe Hi-Soft as having a mild, milky chocolate flavor that isn't overly sweet. Some note a subtle caramel undertone, while others find it to be a straightforward, pleasant chocolate taste.",
+      "real_texture": "The defining characteristic is its soft, almost chewy texture, which some liken to a very dense fudge or a soft candy. It's not meant to be crunchy or melt-in-your-mouth like many Western chocolates.",
+      "common_praise": [
+        "Unique soft and chewy texture",
+        "Mild and not too sweet chocolate flavor",
+        "Good for those who prefer softer candies",
+        "Nostalgic for some consumers"
+      ],
+      "common_complaints": [
+        "Texture can be too soft or gummy for some",
+        "Flavor can be perceived as too plain or lacking depth"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to typical Western chocolate bars, Hi-Soft is significantly softer and chewier, lacking any crisp snap. Its flavor profile is generally less intense and more milky than dark or milk chocolates found elsewhere.",
+      "cultural_context": "Hi-Soft is a classic Japanese confectionery, often associated with childhood memories and a sense of comfort for many Japanese consumers.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "hi-soft",
+      "snack_name": "Hi-Soft"
+    },
+    "meiji-macadamia": {
+      "real_taste": "Consumers generally describe the taste as a pleasant balance of creamy milk chocolate and the rich, buttery flavor of the macadamia nut. The sweetness is typically considered moderate, not overly cloying, allowing the nut's natural taste to shine through.",
+      "real_texture": "The texture is a key highlight, with reviewers frequently mentioning the satisfying crunch of the macadamia nut encased in smooth, melt-in-your-mouth chocolate.",
+      "common_praise": [
+        "High-quality macadamia nuts",
+        "Smooth and creamy chocolate",
+        "Good balance of chocolate and nut flavor",
+        "Satisfying crunch"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other chocolate-covered nuts, Meiji Macadamia is often noted for its superior nut quality and a less artificial chocolate taste.",
+      "cultural_context": "Meiji is a well-established and trusted Japanese confectionery brand, and their chocolate-covered nuts evoke a sense of reliable quality and simple indulgence for many consumers.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-macadamia",
+      "snack_name": "Meiji Macadamia"
+    },
+    "pocky-matcha": {
+      "real_taste": "Consumers generally describe Pocky Matcha as having a pleasant, authentic matcha flavor that balances sweetness with a subtle, earthy bitterness. It's often noted as being less intensely sweet than milk chocolate Pocky, with the matcha notes coming through clearly without being artificial.",
+      "real_texture": "The texture is consistently praised for the satisfying crispness of the pretzel stick, which contrasts nicely with the smooth, slightly firm matcha chocolate coating.",
+      "common_praise": [
+        "Authentic and balanced matcha flavor",
+        "Pleasant bitterness that complements the sweetness",
+        "Satisfying crunch of the pretzel",
+        "Good quality chocolate coating"
+      ],
+      "common_complaints": [
+        "Some find the matcha flavor too subtle or not strong enough",
+        "Can be a bit dry for some palates"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other matcha-flavored chocolate snacks, Pocky Matcha is often seen as having a more refined and less sugary matcha profile, with the pretzel providing a distinct textural element.",
+      "cultural_context": "Pocky is a widely recognized and nostalgic Japanese snack, and the matcha flavor taps into the popularity of green tea as a beloved ingredient in Japanese confectionery.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "pocky-matcha",
+      "snack_name": "Pocky Matcha"
+    },
+    "cheese-almond": {
+      "real_taste": "Consumers often describe the taste as a savory, slightly sweet cheese flavor that complements the nutty almond. The cheese is typically described as mild and creamy, not overly sharp, with a subtle umami undertone that balances the sweetness of the almond coating.",
+      "real_texture": "The texture is a key highlight, with a satisfying crunch from the almond shell and a slightly chewy or creamy interior from the cheese filling. The combination offers a pleasant contrast in mouthfeel.",
+      "common_praise": [
+        "Addictive flavor combination",
+        "Perfect balance of sweet and savory",
+        "Satisfying crunch",
+        "Great for snacking anytime",
+        "High-quality ingredients"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some palates",
+        "Price can be high for the quantity"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Beer",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to other cheese-flavored snacks, it's generally less artificial tasting and offers a more natural sweetness from the almond. It's often seen as a more sophisticated or 'adult' snack than typical cheese puffs.",
+      "cultural_context": "These snacks are a popular convenience item in Japan, often found in convenience stores and supermarkets, and are enjoyed by a wide range of ages.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "cheese-almond",
+      "snack_name": "Cheese Almond"
+    },
+    "befco-pocky-style-crackers": {
+      "real_taste": "Consumers generally describe the taste as a pleasant, mild chocolate flavor that isn't overly sweet. Some note a subtle biscuit or cracker taste that complements the chocolate well, making it a balanced treat.",
+      "real_texture": "The texture is consistently praised for its satisfying crunch from the cracker stick, which contrasts nicely with the smooth, thin coating of chocolate.",
+      "common_praise": [
+        "Satisfying crunch",
+        "Not too sweet",
+        "Good balance of chocolate and cracker",
+        "Addictive"
+      ],
+      "common_complaints": [
+        "Can be a bit dry",
+        "Chocolate coating can melt easily in warm weather"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Coffee",
+        "Tea"
+      ],
+      "vs_similar": "Compared to some other chocolate-coated biscuit sticks, Befco's version is often seen as having a less intense chocolate flavor and a more pronounced cracker crunch.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "befco-pocky-style-crackers",
+      "snack_name": "Befco Pocky-style Crackers"
+    },
+    "garlic-cheese-almond-ranking-snack": {
+      "real_taste": "Consumers describe the taste as a savory and umami-rich experience, with a prominent garlic flavor that isn't overpowering. The cheese notes are often described as mild and complementary, creating a balanced, addictive snack.",
+      "real_texture": "The snack offers a satisfying crunch from the almonds, which are coated in a crisp, slightly chewy cheese and garlic seasoning.",
+      "common_praise": [
+        "Addictively savory and umami flavor",
+        "Perfect balance of garlic and cheese",
+        "Great crunch from the almonds",
+        "Good for snacking anytime"
+      ],
+      "common_complaints": [
+        "Can be a bit greasy for some",
+        "Some wish for a stronger cheese flavor"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Beer",
+        "Sake",
+        "Green tea"
+      ],
+      "vs_similar": "Compared to other garlic-flavored snacks, this one is often noted for its more refined and less sharp garlic profile. It's generally less sweet than many Western cheese crackers.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "garlic-cheese-almond-ranking-snack",
+      "snack_name": "Garlic Cheese Almond Ranking Snack"
+    },
+    "kanro-pure-premium-shine-muscat": {
+      "real_taste": "Consumers consistently praise the authentic and intensely sweet flavor of Shine Muscat grapes, often noting a refreshing, slightly tart balance that mimics the real fruit. The taste is described as a premium, natural grape essence rather than an artificial candy flavor.",
+      "real_texture": "The texture is a major highlight, with reviewers frequently mentioning a satisfyingly firm yet yielding chew that is not overly sticky. It's often described as having a pleasant 'snap' or 'burst' when bitten into.",
+      "common_praise": [
+        "Incredibly realistic Shine Muscat grape flavor",
+        "Premium, high-quality taste",
+        "Satisfyingly firm and chewy texture",
+        "Not overly artificial tasting",
+        "Luxurious treat"
+      ],
+      "common_complaints": [
+        "Can be expensive compared to other gummies",
+        "Availability can be limited outside of Japan"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Sparkling water"
+      ],
+      "vs_similar": "Compared to standard grape gummies, the Kanro Pure Premium Shine Muscat offers a significantly more nuanced and authentic fruit flavor, with a firmer, more premium chew.",
+      "cultural_context": "",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "kanro-pure-premium-shine-muscat",
+      "snack_name": "Kanro Pure Premium Shine Muscat"
+    },
+    "glico-tomato-pretz": {
+      "real_taste": "Consumers generally describe Glico Tomato Pretz as having a savory, slightly sweet tomato flavor, often reminiscent of tomato soup or ketchup. Some note a subtle umami depth, while others find the tomato taste to be artificial or too mild.",
+      "real_texture": "The texture is consistently described as a light, airy, and crispy biscuit stick, similar to a breadstick but more delicate.",
+      "common_praise": [
+        "Pleasant savory tomato flavor",
+        "Light and crispy texture",
+        "Good for snacking on the go",
+        "Addictive and easy to eat"
+      ],
+      "common_complaints": [
+        "Tomato flavor can be artificial or too weak for some",
+        "Can be a bit dry"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Beer",
+        "Tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to sweeter biscuit snacks, Tomato Pretz offers a savory alternative. Its flavor profile is distinct from other tomato-flavored snacks, often being less intensely seasoned than some Western counterparts.",
+      "cultural_context": "Pretz are a popular and long-standing snack in Japan, often enjoyed as a casual snack or with drinks.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "glico-tomato-pretz",
+      "snack_name": "Glico Tomato Pretz"
+    },
+    "strawberry-chocolate-mochi": {
+      "real_taste": "Consumers generally describe the taste as a pleasant balance of sweet milk chocolate and a subtle, slightly tart strawberry flavor. The strawberry is often noted as being more of a fruity essence than an intense berry punch, complementing the richness of the chocolate.",
+      "real_texture": "The mochi itself is consistently praised for its soft, chewy, and slightly sticky texture, which provides a satisfying mouthfeel. The chocolate coating is typically described as smooth and melting.",
+      "common_praise": [
+        "Deliciously chewy mochi",
+        "Good balance of chocolate and strawberry",
+        "Pleasant sweetness, not overpowering",
+        "Satisfying snack for a sweet craving"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some",
+        "Strawberry flavor can be subtle"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to Western chocolate-covered candies, this mochi offers a softer, chewier texture and a more delicate sweetness. The strawberry flavor is generally less artificial than in some mass-produced fruit-flavored chocolates.",
+      "cultural_context": "Mochi is a traditional Japanese rice cake, and its inclusion in modern snack formats like this reflects a popular fusion of traditional elements with contemporary flavors.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "strawberry-chocolate-mochi",
+      "snack_name": "Strawberry & Chocolate Mochi"
+    },
+    "calbee-jagarico-original-flavor": {
+      "real_taste": "Consumers describe the Original JagaRico as having a mild, savory potato flavor with a subtle saltiness. It's often noted as being less intensely seasoned than many Western potato chips, offering a more natural potato taste.",
+      "real_texture": "The defining characteristic is its unique, crunchy, yet slightly airy and hollow stick shape. It's described as a satisfying crispness that isn't greasy.",
+      "common_praise": [
+        "Addictive crunch",
+        "Simple, clean potato flavor",
+        "Convenient snack for on-the-go",
+        "Satisfyingly crisp",
+        "Not overly greasy"
+      ],
+      "common_complaints": [
+        "Can be a bit dry on their own",
+        "Some find the original flavor too plain"
+      ],
+      "unexpected_uses": "Some reviewers mention using them as edible stirrers for dips or even as a base for small, savory appetizers.",
+      "popular_pairings": [
+        "Green tea",
+        "Beer",
+        "Milk"
+      ],
+      "vs_similar": "Compared to typical potato chips, JagaRico offers a more uniform, stick-like shape and a less oily texture, with a more delicate potato flavor.",
+      "cultural_context": "JagaRico is a very popular and recognizable snack in Japan, often associated with childhood nostalgia and readily available in convenience stores and supermarkets.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "calbee-jagarico-original-flavor",
+      "snack_name": "Calbee JagaRico Original Flavor"
+    },
+    "calbee-jagarico-salad-flavor": {
+      "real_taste": "Consumers describe the Salad flavor of Jagarico as a savory, slightly salty, and herbaceous potato snack. The 'salad' aspect is often interpreted as a blend of onion, carrot, and parsley notes, creating a fresh, umami-rich profile that is distinct from typical potato chips.",
+      "real_texture": "The defining texture of Jagarico is its unique, crunchy, and hollow stick shape, which provides a satisfying snap with every bite. It's often described as being firmer and less greasy than traditional potato chips.",
+      "common_praise": [
+        "Unique and addictive savory flavor",
+        "Satisfyingly crunchy texture",
+        "Great for on-the-go snacking",
+        "Distinctive and refreshing taste profile"
+      ],
+      "common_complaints": [
+        "Can be a bit dry for some palates",
+        "Flavor can be polarizing for those expecting a more traditional chip"
+      ],
+      "unexpected_uses": "Some users enjoy dipping Jagarico sticks into various sauces or even using them as a crunchy topping for other dishes.",
+      "popular_pairings": [
+        "Beer",
+        "Green tea",
+        "Milk",
+        "Mayonnaise-based dips"
+      ],
+      "vs_similar": "Jagarico's texture is significantly crunchier and more rigid than most potato chips, and its flavor profile is more complex and herbaceous than standard salted varieties.",
+      "cultural_context": "Jagarico is a beloved and iconic snack in Japan, often associated with childhood nostalgia and a convenient, fun snack for students and adults alike.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "calbee-jagarico-salad-flavor",
+      "snack_name": "Calbee Jagarico Salad Flavor"
+    },
+    "bourbon-rumando-cocoa": {
+      "real_taste": "Consumers describe the Bourbon Rumando Cocoa as having a rich, slightly bitter cocoa flavor that isn't overly sweet. The 'rum' aspect is often noted as a subtle, sophisticated undertone rather than a strong alcoholic taste, contributing to a well-balanced chocolate experience.",
+      "real_texture": "The snack is consistently described as having a delicate, crispy wafer that offers a satisfying crunch. The chocolate coating is generally perceived as smooth and melts well.",
+      "common_praise": [
+        "Deliciously rich cocoa flavor",
+        "Pleasant, subtle rum undertone",
+        "Satisfyingly crispy wafer",
+        "Not too sweet, well-balanced taste",
+        "Good quality chocolate"
+      ],
+      "common_complaints": [
+        "Some find the rum flavor too subtle or non-existent",
+        "Can be a bit crumbly, leading to mess"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other chocolate-covered wafers, Rumando Cocoa is often praised for its more sophisticated and less sugary chocolate profile, with a distinct, albeit subtle, rum note that sets it apart.",
+      "cultural_context": "Bourbon is a well-established Japanese confectionery company, and Rumando has been a popular item for a considerable time, evoking a sense of nostalgic comfort for many Japanese consumers.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "bourbon-rumando-cocoa",
+      "snack_name": "Bourbon Rumando Cocoa"
+    },
+    "morinaga-chocoball-peanut": {
+      "real_taste": "Consumers describe the taste as a classic, satisfying combination of sweet milk chocolate and roasted peanuts. The chocolate coating is generally seen as smooth and not overly bitter, complementing the nutty flavor without being overpowering.",
+      "real_texture": "The texture is consistently praised for its satisfying crunch from the peanut center, encased in a smooth, slightly melty chocolate shell.",
+      "common_praise": [
+        "Classic, nostalgic flavor",
+        "Perfect balance of chocolate and peanut",
+        "Satisfying crunch",
+        "Addictive and easy to snack on"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some",
+        "Chocolate coating can melt easily in warm weather"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Coffee",
+        "Tea"
+      ],
+      "vs_similar": "Compared to other chocolate-covered peanuts, Chocoball Peanut is often seen as having a more refined chocolate coating and a more consistent peanut crunch.",
+      "cultural_context": "Morinaga Chocoball Peanut is a long-standing, popular snack in Japan, often associated with childhood nostalgia for many consumers.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "morinaga-chocoball-peanut",
+      "snack_name": "Morinaga Chocoball Peanut"
+    },
+    "alfort-mini-chocolate": {
+      "real_taste": "Consumers generally describe Alfort mini chocolate as having a pleasant, balanced milk chocolate flavor that isn't overly sweet. The biscuit base provides a subtle, slightly savory counterpoint to the chocolate, making it a well-rounded treat.",
+      "real_texture": "The texture is a key appeal, with a satisfying crunch from the biscuit that contrasts nicely with the smooth, melt-in-your-mouth chocolate coating.",
+      "common_praise": [
+        "Delicious and addictive",
+        "Perfectly balanced chocolate and biscuit",
+        "Great for a quick snack or on-the-go",
+        "Good value for the price",
+        "Enjoyable for both adults and children"
+      ],
+      "common_complaints": [
+        "Can be too small for some",
+        "Occasionally arrive slightly broken due to packaging"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to simpler chocolate biscuits, Alfort offers a more refined chocolate flavor and a distinct, slightly nutty biscuit base. It's generally less intensely sweet than some Western chocolate cookies.",
+      "cultural_context": "Alfort is a long-standing and popular snack in Japan, often associated with childhood nostalgia and everyday indulgence.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "alfort-mini-chocolate",
+      "snack_name": "Alfort mini chocolate"
+    },
+    "kitkat-strawberry": {
+      "real_taste": "Consumers often describe the taste as a pleasant, artificial strawberry flavor that is not overpowering. It's generally perceived as sweet, with a subtle tartness that balances the chocolate.",
+      "real_texture": "The texture is consistently described as the classic KitKat crunch, with the strawberry coating adding a slightly smoother, sometimes slightly chalky, layer.",
+      "common_praise": [
+        "Pleasant and not too artificial strawberry flavor",
+        "Good balance of sweet and slightly tart",
+        "Classic KitKat crunch is satisfying",
+        "Enjoyable as a treat or gift"
+      ],
+      "common_complaints": [
+        "Some find the strawberry flavor too artificial or candy-like",
+        "Can be overly sweet for some palates"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Tea (especially green tea)",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to other fruit-flavored KitKats, the strawberry version is often seen as a more classic and less intense fruit flavor, with a taste profile closer to strawberry candy than fresh fruit.",
+      "cultural_context": "While not as iconic as some other Japanese KitKat flavors, the strawberry variant is a popular and widely available option, often enjoyed as a sweet treat or souvenir.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "kitkat-strawberry",
+      "snack_name": "KitKat Strawberry"
+    },
+    "hakuto-peach-premium": {
+      "real_taste": "Consumers frequently describe the taste as a very authentic and sweet white peach flavor, often noting a delicate, almost floral aroma. The sweetness is generally well-balanced, avoiding being overly artificial or cloying, with some mentioning a subtle tartness that enhances the fruitiness.",
+      "real_texture": "The texture is consistently praised for being soft and chewy, with a pleasant yielding quality that isn't overly firm or sticky. It's often described as having a satisfying 'gummy' bite.",
+      "common_praise": [
+        "Authentic and natural white peach flavor",
+        "Pleasant, soft, and chewy texture",
+        "Not overly sweet, well-balanced taste",
+        "High-quality ingredients perceived"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Milk",
+        "Water"
+      ],
+      "vs_similar": "Compared to other fruit gummies, these are often noted for their more refined and less artificial peach flavor, and a softer, more yielding chew.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "hakuto-peach-premium",
+      "snack_name": "Hakuto Peach Premium"
+    },
+    "lemon-flavored-lemmon-lee-sweet-sour-fruit-gummy": {
+      "real_taste": "Consumers consistently describe the taste as a bright, zesty lemon flavor with a pronounced sweet and sour balance. The sourness is often noted as being quite sharp and refreshing, with a pleasant, not overpowering, sweetness that complements the citrus.",
+      "real_texture": "The texture is typically described as a classic gummy, offering a satisfying chew that is firm but not overly tough. Some mention a slight stickiness, which is common for this type of candy.",
+      "common_praise": [
+        "Intense and authentic lemon flavor",
+        "Perfect sweet and sour balance",
+        "Refreshing and invigorating taste",
+        "Addictive chewiness"
+      ],
+      "common_complaints": [
+        "Some find the sourness too intense for their preference",
+        "Occasionally described as slightly too sticky"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Sparkling water",
+        "Iced coffee"
+      ],
+      "vs_similar": "Compared to many Western lemon gummies, 'Lemmon lee' is often perceived as having a more natural and less artificial lemon taste, with a more pronounced sour kick.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "lemon-flavored-lemmon-lee-sweet-sour-fruit-gummy",
+      "snack_name": "Lemon-flavored 'Lemmon lee' Sweet & Sour Fruit Gummy"
+    },
+    "ranro-grape-sweet-sour-fruit-gummy": {
+      "real_taste": "Consumers describe the taste as a vibrant, authentic grape flavor that balances sweetness with a distinct sourness. The sourness is often highlighted as a refreshing counterpoint to the sweetness, making it less cloying than some other grape gummies.",
+      "real_texture": "The texture is consistently praised for being chewy and satisfying, with a pleasant firmness that doesn't become overly hard or sticky.",
+      "common_praise": [
+        "Authentic grape flavor",
+        "Perfect balance of sweet and sour",
+        "Satisfying chewy texture",
+        "Refreshing taste"
+      ],
+      "common_complaints": [
+        "Some find the sourness a bit too intense initially"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Ramune soda",
+        "Plain water"
+      ],
+      "vs_similar": "Compared to many Western grape gummies, Ranro Grape is noted for its more natural and less artificial grape flavor, and a more pronounced sour kick.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "ranro-grape-sweet-sour-fruit-gummy",
+      "snack_name": "Ranro Grape Sweet & Sour Fruit Gummy"
+    },
+    "fujiya-country-maam-rich-matcha": {
+      "real_taste": "Consumers describe the taste as a balanced, authentic matcha flavor that isn't overly sweet. Many note a pleasant bitterness from the matcha, complemented by a subtle sweetness that allows the tea notes to shine through. Some reviewers mention a slight milky undertone.",
+      "real_texture": "The texture is consistently described as soft, chewy, and almost cake-like, rather than crisp or crunchy. It has a moist interior that melts in the mouth.",
+      "common_praise": [
+        "Authentic and rich matcha flavor",
+        "Soft and chewy texture",
+        "Not too sweet, good balance",
+        "High quality ingredients"
+      ],
+      "common_complaints": [
+        "Some find the matcha flavor too subtle or not bitter enough",
+        "Can be perceived as slightly dry by a minority"
+      ],
+      "unexpected_uses": "Some users enjoy crumbling them over ice cream or using them as a base for mini cheesecakes.",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to more mass-produced matcha cookies, Country Ma'am Rich Matcha offers a more pronounced and less artificial matcha taste with a softer, chewier texture.",
+      "cultural_context": "Fujiya's Country Ma'am cookies are a beloved and nostalgic snack in Japan, known for their consistent soft-baked texture, and this matcha variant taps into the popular trend of matcha-flavored sweets.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "fujiya-country-maam-rich-matcha",
+      "snack_name": "Fujiya Country Ma'am Rich Matcha"
+    },
+    "kurimasa-honey-salt-potato-chips": {
+      "real_taste": "Consumers describe the Kurimasa Honey Salt Potato Chips as having a delicate sweetness from the honey, balanced by a subtle saltiness. The honey flavor is often noted as being natural and not overly artificial, creating a pleasant, mild sweetness that complements the potato.",
+      "real_texture": "The chips are generally praised for their satisfying crispness and a light, airy crunch that is typical of high-quality potato chips.",
+      "common_praise": [
+        "Deliciously balanced sweet and salty flavor",
+        "Natural honey taste, not too artificial",
+        "Perfect crispiness and crunch",
+        "Addictive and moreish"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Milk",
+        "Beer"
+      ],
+      "vs_similar": "Compared to standard salt and vinegar chips, these are significantly sweeter due to the honey, offering a more nuanced flavor profile. They are generally perceived as less intensely salty than many Western potato chip brands.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "kurimasa-honey-salt-potato-chips",
+      "snack_name": "Kurimasa Honey Salt Potato Chips"
+    },
+    "tohato-grand-beef-chili-taco": {
+      "real_taste": "Consumers describe the Tohato Grand Beef Chili Taco as having a savory, umami-rich beef flavor with a noticeable, but not overwhelming, chili spice. The taco seasoning is often mentioned, providing a zesty and slightly tangy profile that complements the beef.",
+      "real_texture": "The chips are generally praised for their satisfying crunch, with a thickness that holds up well to the seasoning.",
+      "common_praise": [
+        "Great beef and taco flavor combination",
+        "Satisfyingly crunchy texture",
+        "Good level of spice",
+        "Addictive and moreish"
+      ],
+      "common_complaints": [
+        "Can be a bit greasy for some",
+        "Flavor can be too intense for those sensitive to strong seasonings"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Beer",
+        "Soda",
+        "As a crunchy topping for salads or dips"
+      ],
+      "vs_similar": "Compared to other savory Japanese chips, the Grand Beef Chili Taco offers a more pronounced 'Western' taco flavor profile, often perceived as bolder than many milder Japanese snack options.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "tohato-grand-beef-chili-taco",
+      "snack_name": "Tohato Grand Beef Chili Taco"
+    },
+    "kanto-premium-white-peach-fruit-gummy": {
+      "real_taste": "Consumers describe the taste as a very authentic and sweet white peach flavor, often noting a delicate, natural sweetness rather than an artificial candy taste. Some mention a slight tartness that balances the sweetness, making it refreshing.",
+      "real_texture": "The texture is consistently described as soft, chewy, and yielding, with a pleasant juiciness that mimics real fruit. It's not overly firm or rubbery, providing a satisfying bite.",
+      "common_praise": [
+        "Authentic and natural white peach flavor",
+        "Pleasant, soft, and juicy texture",
+        "Not overly sweet, well-balanced flavor",
+        "High-quality ingredients perceived"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "Some users enjoy using them as a subtle flavor enhancer in cocktails or mocktails, or even as a topping for yogurt or ice cream.",
+      "popular_pairings": [
+        "Green tea",
+        "Sparkling water",
+        "Milk"
+      ],
+      "vs_similar": "Compared to many Western gummies, these are often perceived as having a more subtle and less intensely sugary flavor, with a softer, more 'real fruit' like chew.",
+      "cultural_context": "White peach is a highly prized and seasonal fruit in Japan, often associated with summer and a sense of delicate sweetness and refreshment.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "kanto-premium-white-peach-fruit-gummy",
+      "snack_name": "Kanto Premium White Peach Fruit Gummy"
+    },
+    "japanese-sweet-sour-grape-gummy": {
+      "real_taste": "Consumers describe the taste as a bright, refreshing burst of grape flavor, often with a noticeable sweet and tangy \"sour\" element that isn't overpowering. The sweetness is generally well-balanced, avoiding being cloying, and some note a subtle artificial grape note that is characteristic of many Japanese candies.",
+      "real_texture": "The texture is consistently praised for being delightfully chewy and firm, with a satisfying \"snap\" when bitten into. It's not overly sticky and maintains its integrity well.",
+      "common_praise": [
+        "Great balance of sweet and sour",
+        "Intense grape flavor",
+        "Perfect chewy texture",
+        "Addictive and satisfying"
+      ],
+      "common_complaints": [
+        "Some find the sour coating a bit too intense initially",
+        "Wish they came in larger bags"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Ramune soda",
+        "Other Japanese snacks"
+      ],
+      "vs_similar": "Compared to Western grape gummies, these are often perceived as having a more pronounced tartness and a less intensely sugary profile, with a firmer chew.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "japanese-sweet-sour-grape-gummy",
+      "snack_name": "Japanese Sweet & Sour Grape Gummy"
+    },
+    "calbee-sakura-ebi-senbei": {
+      "real_taste": "Consumers describe the taste as a delicate, savory seafood flavor, with the sakura ebi (tiny shrimp) providing a subtle umami and slightly sweet oceanic note. The seasoning is generally not overpowering, allowing the natural shrimp essence to shine through.",
+      "real_texture": "The texture is consistently described as light, airy, and very crispy, often compared to a delicate wafer or a very thin cracker that melts in the mouth.",
+      "common_praise": [
+        "Subtle and authentic shrimp flavor",
+        "Light and crispy texture",
+        "Not too salty or greasy",
+        "Enjoyable as a light snack"
+      ],
+      "common_complaints": [
+        "Some find the flavor too mild or wish for a stronger shrimp taste",
+        "Can be a bit fragile and break easily"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Sake",
+        "As a light accompaniment to meals"
+      ],
+      "vs_similar": "Compared to other shrimp-flavored crackers, Calbee Sakura Ebi Senbei is often noted for its more refined and less artificial seafood taste, and a lighter, airier crunch.",
+      "cultural_context": "Sakura ebi are a delicacy in Japan, often associated with spring and coastal regions, lending a sense of seasonality and regional authenticity to the snack.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "calbee-sakura-ebi-senbei",
+      "snack_name": "Calbee Sakura Ebi Senbei"
+    },
+    "pie-no-mi-chocolate-pie": {
+      "real_taste": "Consumers generally describe Pie no Mi Chocolate Pie as having a pleasant, mild chocolate flavor that isn't overly sweet. The chocolate filling is often noted as being smooth and creamy, complementing the pastry well.",
+      "real_texture": "The pie is characterized by its flaky, crisp pastry shell that offers a satisfying crunch. The contrast between the crunchy exterior and the soft chocolate filling is a frequently mentioned positive aspect.",
+      "common_praise": [
+        "Deliciously flaky and crispy pie crust",
+        "Good balance of chocolate and pastry",
+        "Not too sweet, enjoyable for many",
+        "Convenient and portable snack"
+      ],
+      "common_complaints": [
+        "Some find the chocolate flavor to be a bit too mild or artificial",
+        "Can be a bit crumbly, leading to mess"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Coffee",
+        "Tea"
+      ],
+      "vs_similar": "Compared to some Western chocolate pies, Pie no Mi is often perceived as less intensely sweet and with a lighter, crisper pastry.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "pie-no-mi-chocolate-pie",
+      "snack_name": "Pie no Mi Chocolate Pie"
+    },
+    "lotte-koalas-match-chocolate": {
+      "real_taste": "Consumers generally describe the taste as a mild, sweet milk chocolate that is not overly rich or complex. The chocolate is often noted as being creamy and pleasant, with a subtle sweetness that complements the biscuit shell.",
+      "real_texture": "The texture is a key appeal, with a satisfyingly crisp and slightly crumbly biscuit shell that gives way to a smooth, melt-in-your-mouth chocolate center.",
+      "common_praise": [
+        "Cute and fun koala shapes",
+        "Pleasant, mild chocolate flavor",
+        "Satisfyingly crunchy biscuit",
+        "Good for snacking on the go",
+        "Nostalgic treat"
+      ],
+      "common_complaints": [
+        "Chocolate can be a bit too sweet for some",
+        "Can be difficult to find outside of Asian markets"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to other chocolate-filled biscuits, Koala's March offers a more delicate chocolate flavor and a lighter, crisper biscuit shell.",
+      "cultural_context": "These snacks are often associated with childhood nostalgia for many consumers, particularly those who grew up with them or received them as gifts.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "lotte-koalas-match-chocolate",
+      "snack_name": "Lotte Koala's Match Chocolate"
+    },
+    "calbee-cheese-almond-snack-crackers": {
+      "real_taste": "Consumers frequently describe the taste as a savory, slightly salty cheese flavor that is not overpowering. The almond adds a subtle nutty undertone, creating a balanced and moreish profile that many find addictive.",
+      "real_texture": "The snack is consistently described as having a satisfyingly crisp and crunchy texture, with a light, airy cracker base that crumbles easily.",
+      "common_praise": [
+        "Addictive cheesy flavor",
+        "Perfectly crunchy texture",
+        "Great for snacking on the go",
+        "Good balance of cheese and almond"
+      ],
+      "common_complaints": [
+        "Can be a bit dry on their own",
+        "Some wish for a stronger cheese flavor"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Beer",
+        "Green tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to other cheese crackers, these are often noted for their more subtle, less artificial cheese taste and the added texture and flavor from the almonds.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "calbee-cheese-almond-snack-crackers",
+      "snack_name": "Calbee Cheese Almond Snack Crackers"
+    },
+    "kitkat-rich-cocoa-chocolate": {
+      "real_taste": "Consumers describe the Rich Cocoa Chocolate KitKat as having a deep, slightly bitter cocoa flavor that is less sweet than standard KitKats. The chocolate coating is noted to be richer and more intense, with a good balance that doesn't overpower the wafer.",
+      "real_texture": "The texture is consistently praised for its classic KitKat crisp wafer, which provides a satisfying crunch that contrasts well with the smooth, melt-in-your-mouth chocolate coating.",
+      "common_praise": [
+        "Rich, intense cocoa flavor",
+        "Less sweet than regular KitKats",
+        "Satisfying crunch of the wafer",
+        "Good quality chocolate"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Milk",
+        "Tea"
+      ],
+      "vs_similar": "Compared to standard milk chocolate KitKats, this version offers a more pronounced and less sugary cocoa taste, appealing to those who prefer darker chocolate profiles.",
+      "cultural_context": "While not as iconic as some of the more unique Japanese KitKat flavors, the Rich Cocoa variant is appreciated for offering a more sophisticated chocolate experience within the familiar KitKat format.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "kitkat-rich-cocoa-chocolate",
+      "snack_name": "KitKat Rich Cocoa Chocolate"
+    },
+    "meiji-green-tea-cookies": {
+      "real_taste": "Consumers generally describe the taste as a pleasant, not overly sweet matcha flavor that balances well with the chocolate. Some note a subtle bitterness from the green tea, which is appreciated by matcha enthusiasts, while others find it a mild, approachable green tea taste.",
+      "real_texture": "The cookies are consistently described as having a crisp, satisfying crunch that is not too hard. They are often noted as being delicate and easily breakable.",
+      "common_praise": [
+        "Authentic matcha flavor",
+        "Good balance of green tea and chocolate",
+        "Pleasant crisp texture",
+        "Not too sweet"
+      ],
+      "common_complaints": [
+        "Some find the matcha flavor too subtle",
+        "Can be a bit crumbly"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other matcha-flavored chocolates, these are often seen as having a more refined and less artificial green tea taste. They are generally less sweet than many Western chocolate biscuits.",
+      "cultural_context": "Meiji is a well-established Japanese confectionery company, and their products often evoke a sense of nostalgia for those familiar with Japanese snacks.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-green-tea-cookies",
+      "snack_name": "Meiji Green Tea Cookies"
+    },
+    "meiji-mothers-blend-tea": {
+      "real_taste": "Consumers describe the taste as a subtle, slightly bitter dark chocolate with a distinct, almost herbal or earthy undertone from the 'Mother's Blend' tea. It's not overly sweet, with some noting a mild astringency that balances the chocolate.",
+      "real_texture": "The texture is generally described as a standard, smooth, and melt-in-your-mouth chocolate bar.",
+      "common_praise": [
+        "Unique and sophisticated flavor profile",
+        "Not too sweet, good for dark chocolate lovers",
+        "Pleasant, subtle tea notes",
+        "Good quality chocolate"
+      ],
+      "common_complaints": [
+        "Tea flavor can be too subtle for some",
+        "Might be too bitter for those expecting milk chocolate"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Black coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to standard dark chocolate bars, it offers a more complex, less sweet profile with an added herbal dimension.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-mothers-blend-tea",
+      "snack_name": "Meiji Mother's Blend Tea"
+    },
+    "pure-premium-shine-mask-cut": {
+      "real_taste": "Consumers often describe the Pure Premium Shine Mask Cut as having a refreshing and slightly tart citrus flavor, with many identifying it as a blend of lemon and grapefruit. The sweetness is generally perceived as balanced, not overly sugary, and some note a subtle, pleasant bitterness that complements the citrus notes.",
+      "real_texture": "The texture is consistently praised for being firm and chewy, with a satisfying 'bite' that doesn't become overly hard or sticky. Reviewers often mention a pleasant resistance that makes them enjoyable to chew.",
+      "common_praise": [
+        "Refreshing citrus flavor",
+        "Pleasant firm and chewy texture",
+        "Not too sweet",
+        "Good balance of tartness and sweetness"
+      ],
+      "common_complaints": [
+        "Some find the flavor too subtle or wish for a stronger citrus punch."
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Water",
+        "Green tea",
+        "Iced coffee"
+      ],
+      "vs_similar": "Compared to many other fruit-flavored gummies, the Pure Premium Shine Mask Cut is often noted for its more sophisticated and less artificial citrus profile, with a firmer chew than softer, more gelatinous options.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "pure-premium-shine-mask-cut",
+      "snack_name": "Pure Premium Shine Mask Cut"
+    },
+    "meiji-gelatin-plum-powder-snack": {
+      "real_taste": "Consumers describe the taste as a distinct, slightly tart, and authentically sour plum flavor, often with a subtle sweetness that balances the tang. It's noted to be less intensely sweet than many Western gummies, leaning more towards a natural fruit essence.",
+      "real_texture": "The texture is generally described as firm and chewy, with a satisfyingly dense bite that doesn't stick excessively to the teeth. Some mention a slight powdery coating that dissolves quickly.",
+      "common_praise": [
+        "Authentic and refreshing plum flavor",
+        "Pleasant tartness, not overly sweet",
+        "Good chewy texture",
+        "Enjoyable as a palate cleanser"
+      ],
+      "common_complaints": [
+        "Some find the tartness too intense",
+        "The powdery coating can be a bit messy for some"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Sake"
+      ],
+      "vs_similar": "Compared to typical Western fruit gummies, these are significantly less sweet and offer a more pronounced sour and tart profile, reminiscent of actual pickled plums.",
+      "cultural_context": "Ume (plum) is a very popular flavor in Japan, often associated with traditional snacks and health benefits, evoking a sense of nostalgia for many.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-gelatin-plum-powder-snack",
+      "snack_name": "Meiji Gelatin Plum Powder Snack"
+    },
+    "meiji-wasabi-flavored-cookies": {
+      "real_taste": "Consumers describe the taste as a surprising but pleasant combination of sweet milk chocolate with a distinct, sharp, and lingering wasabi heat. The wasabi isn't overpowering but provides a noticeable kick that cuts through the sweetness, creating a unique flavor profile.",
+      "real_texture": "The cookies are generally described as having a crisp, light, and somewhat crumbly texture that complements the chocolate coating.",
+      "common_praise": [
+        "Unique and interesting flavor combination",
+        "Pleasant wasabi kick that isn't too spicy",
+        "Good quality chocolate",
+        "Addictive once you get used to the flavor"
+      ],
+      "common_complaints": [
+        "The wasabi flavor can be too intense for some palates",
+        "Can be an acquired taste"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Japanese beer",
+        "Sake"
+      ],
+      "vs_similar": "Compared to standard chocolate cookies, these offer a much more complex and stimulating flavor experience due to the wasabi. They are less sweet than many Western chocolate biscuits.",
+      "cultural_context": "Wasabi-flavored snacks are a popular novelty in Japan, often appealing to those who enjoy a spicy element in their treats.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-wasabi-flavored-cookies",
+      "snack_name": "Meiji Wasabi-flavored cookies"
+    },
+    "meiji-milk-ski-ki": {
+      "real_taste": "Consumers describe Meiji Milk Ski-Ki as having a mild, milky chocolate flavor that isn't overly sweet. The chocolate coating is often noted as being smooth and pleasant, with a subtle sweetness that complements the biscuit.",
+      "real_texture": "The snack offers a satisfying crunch from the biscuit base, which is then coated in a smooth, melt-in-your-mouth chocolate.",
+      "common_praise": [
+        "Pleasant, not too sweet milky chocolate flavor",
+        "Good balance of crunchy biscuit and smooth chocolate",
+        "Satisfying snack for a light craving",
+        "Nostalgic childhood treat for many"
+      ],
+      "common_complaints": [
+        "Some find the chocolate flavor a bit too subtle or plain",
+        "Can be a bit crumbly, leading to mess"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to more intensely flavored chocolate biscuits, Ski-Ki is generally perceived as milder and less sweet, offering a more delicate milk chocolate profile.",
+      "cultural_context": "Meiji Milk Ski-Ki is a well-loved, classic Japanese snack that evokes nostalgia for many consumers, often associated with childhood memories.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-milk-ski-ki",
+      "snack_name": "Meiji Milk Ski-Ki"
+    },
+    "lotte-chocolate-pie": {
+      "real_taste": "Consumers generally describe the Lotte Chocolate Pie as having a mild, sweet chocolate flavor that isn't overly rich. The cake component is often noted as being soft and slightly sweet, with a subtle cocoa note. Some find the chocolate coating to be a bit thin and less intense than expected.",
+      "real_texture": "The texture is consistently described as soft and cake-like, with a yielding, slightly chewy marshmallow filling. The thin chocolate coating provides a smooth, melt-in-your-mouth sensation.",
+      "common_praise": [
+        "Soft and fluffy cake",
+        "Pleasant, not too sweet flavor",
+        "Nostalgic childhood treat",
+        "Good for a light snack"
+      ],
+      "common_complaints": [
+        "Chocolate coating could be thicker or more intense",
+        "Can be a bit dry if not fresh"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Milk",
+        "Coffee",
+        "Tea"
+      ],
+      "vs_similar": "Compared to Western chocolate pies or snack cakes, the Lotte Chocolate Pie is generally perceived as less intensely sweet and with a softer, more delicate cake texture. It's often seen as a lighter, more subtle option.",
+      "cultural_context": "This snack holds a significant nostalgic value for many in Japan and other Asian countries, often associated with childhood memories and school lunches.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "lotte-chocolate-pie",
+      "snack_name": "Lotte Chocolate Pie"
+    },
+    "pai-no-mi": {
+      "real_taste": "Consumers generally describe Pai no Mi as having a pleasant, mild chocolate flavor that isn't overly sweet. Some note a subtle cocoa richness, while others find it a straightforward, enjoyable chocolate coating.",
+      "real_texture": "The snack is consistently praised for its satisfyingly crisp and airy cracker base, which provides a delightful crunch that contrasts well with the smooth chocolate.",
+      "common_praise": [
+        "Deliciously crunchy cracker",
+        "Perfect balance of chocolate and cracker",
+        "Not too sweet, very enjoyable",
+        "Great for a light snack"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to some other chocolate-covered biscuits, Pai no Mi is often seen as less intensely sweet and more focused on a balanced, airy crunch.",
+      "cultural_context": "Pai no Mi is a popular and long-standing snack in Japan, often associated with childhood nostalgia for many consumers.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "pai-no-mi",
+      "snack_name": "Pai no Mi"
+    },
+    "befco-rice-crackers": {
+      "real_taste": "Consumers generally describe Befco rice crackers as having a mild, savory soy sauce flavor that is not overpowering. Some note a subtle sweetness and a hint of umami, making them a versatile snack.",
+      "real_texture": "The texture is consistently praised for its satisfying crispness and lightness, offering a pleasant crunch without being too hard.",
+      "common_praise": [
+        "Satisfyingly crispy and light",
+        "Mild and pleasant soy sauce flavor",
+        "Good for snacking anytime",
+        "Addictive and easy to eat"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Sake",
+        "Beer"
+      ],
+      "vs_similar": "Compared to some sweeter rice crackers, Befco's are less sugary and more focused on a savory profile. They are generally seen as a more straightforward, less complex rice cracker.",
+      "cultural_context": "Befco rice crackers are a staple in Japanese convenience stores and households, often enjoyed as a simple, everyday snack.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "befco-rice-crackers",
+      "snack_name": "Befco rice crackers"
+    },
+    "kurimoto-honey-gold": {
+      "real_taste": "Consumers describe the Kurimoto Honey Gold as having a distinct, rich honey flavor that is not overly sweet, often with a subtle buttery undertone. Some note a slight caramelization that adds depth to the sweetness.",
+      "real_texture": "The texture is generally praised for being light and crispy, with a satisfying crunch that doesn't feel greasy. They are often described as delicate.",
+      "common_praise": [
+        "Delicious, natural honey flavor",
+        "Light and crispy texture",
+        "Not too sweet, well-balanced flavor",
+        "Addictive and satisfying snack"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other honey-flavored snacks, these are often noted for their more authentic and less artificial honey taste, and a less cloying sweetness.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "kurimoto-honey-gold",
+      "snack_name": "Kurimoto Honey Gold"
+    },
+    "orion-chips-original": {
+      "real_taste": "Consumers describe the Orion Chips Original as having a very mild, almost neutral savory flavor, often with a subtle hint of salt. Some note a slight sweetness, but it's generally not a strong or distinct taste, making it a versatile base.",
+      "real_texture": "The texture is consistently described as very light, airy, and crispy, almost like a delicate puff or cracker. They are not greasy and shatter easily when bitten.",
+      "common_praise": [
+        "Light and airy texture",
+        "Subtle, not overpowering flavor",
+        "Good for dipping",
+        "Satisfyingly crispy"
+      ],
+      "common_complaints": [
+        "Flavor is too bland for some",
+        "Can be fragile and break easily in packaging"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Dipping into various sauces (e.g., soy sauce, mayonnaise)",
+        "Eating with other Japanese snacks",
+        "As a base for small appetizers"
+      ],
+      "vs_similar": "Compared to Western potato chips, Orion Chips Original are significantly less oily and have a much more delicate, less intense flavor profile.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "orion-chips-original",
+      "snack_name": "Orion Chips Original"
+    },
+    "matcha-chocolate-bar": {
+      "real_taste": "Consumers generally describe the taste as a balanced blend of slightly bitter, earthy matcha and sweet, creamy milk chocolate. Some note a subtle astringency from the matcha that cuts through the sweetness, while others find it to be a mild, approachable matcha flavor.",
+      "real_texture": "The texture is typically described as smooth and creamy, with the chocolate melting pleasantly in the mouth. Some variations might include small crunchy bits, but the dominant texture is smooth.",
+      "common_praise": [
+        "Authentic matcha flavor that isn't overly sweet",
+        "Good balance between matcha and chocolate",
+        "Smooth and creamy texture",
+        "Pleasant, not artificial, matcha taste"
+      ],
+      "common_complaints": [
+        "Some find the matcha flavor too subtle or weak",
+        "Occasionally described as slightly waxy if not stored properly"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to Western matcha chocolates, this Japanese version often features a more pronounced, authentic matcha bitterness that is well-integrated with the sweetness, rather than being an overpowering or artificial flavor.",
+      "cultural_context": "Matcha-flavored sweets are a popular and widely enjoyed category in Japan, reflecting the country's deep appreciation for green tea.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "matcha-chocolate-bar",
+      "snack_name": "Matcha Chocolate Bar"
+    },
+    "calbee-crab-sticks": {
+      "real_taste": "Consumers generally describe the taste as a mild, savory seafood flavor, often with a subtle sweetness. The crab essence is present but not overpowering, leading some to note it's more of a general 'seafood' or 'umami' taste rather than intensely crab-like.",
+      "real_texture": "The texture is consistently described as light, airy, and crispy, with a satisfying crunch. Some find it melts in the mouth, while others appreciate its delicate crispness.",
+      "common_praise": [
+        "Pleasant, mild savory flavor",
+        "Light and crispy texture",
+        "Addictive and easy to snack on",
+        "Good for a light, not-too-sweet snack"
+      ],
+      "common_complaints": [
+        "Flavor can be too subtle for some",
+        "Can be a bit dry for some palates"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Japanese beer",
+        "As a light snack with lunch"
+      ],
+      "vs_similar": "Compared to other seafood-flavored snacks, these are generally less intensely flavored and less salty, offering a more delicate umami profile.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "calbee-crab-sticks",
+      "snack_name": "Calbee Crab Sticks"
+    },
+    "macadamia-chocolate-filled": {
+      "real_taste": "Consumers generally describe the taste as a pleasant balance of sweet milk chocolate and a rich, buttery macadamia nut. The chocolate is often noted as being smooth and not overly artificial, with the macadamia providing a satisfying nutty depth.",
+      "real_texture": "The texture is a key highlight, with a satisfying crispness from the macadamia nut contrasting with the smooth, melt-in-your-mouth chocolate coating.",
+      "common_praise": [
+        "Delicious combination of chocolate and macadamia",
+        "High-quality chocolate flavor",
+        "Satisfying crunch from the nut",
+        "Perfectly sweet, not too overpowering",
+        "Great for a quick treat"
+      ],
+      "common_complaints": [
+        "Can be a bit pricey for the quantity",
+        "Some wish for a darker chocolate option"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other chocolate-covered nuts, these are often praised for the quality of the macadamia itself and the smooth, well-balanced chocolate, avoiding the overly sweet or artificial taste some competitors have.",
+      "cultural_context": "",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "macadamia-chocolate-filled",
+      "snack_name": "Macadamia Chocolate Filled"
+    },
+    "meiji-chocolate-cookie": {
+      "real_taste": "Consumers generally describe the Meiji Chocolate Cookie as having a pleasant, not overly sweet milk chocolate flavor that complements the cookie base. Some note a subtle cocoa note in the cookie itself, while others find the chocolate coating to be the dominant flavor.",
+      "real_texture": "The texture is consistently described as a satisfyingly crisp and slightly crumbly cookie with a smooth, melt-in-your-mouth chocolate coating.",
+      "common_praise": [
+        "Delicious and addictive",
+        "Perfect balance of chocolate and cookie",
+        "Great for a quick sweet treat",
+        "Good quality chocolate for the price"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some palates",
+        "Sometimes arrives broken due to packaging"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to more intensely flavored chocolate cookies, the Meiji Chocolate Cookie offers a milder, more approachable chocolate taste. It's generally less rich than premium chocolate biscuits.",
+      "cultural_context": "Meiji is a well-established and trusted brand in Japan, and their chocolate snacks often evoke a sense of nostalgia for many consumers.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-chocolate-cookie",
+      "snack_name": "Meiji Chocolate Cookie"
+    },
+    "crackers-with-cheese-flavor": {
+      "real_taste": "Consumers generally describe the taste as a mild, slightly sweet cheese flavor that isn't overpowering. Some note a subtle umami undertone, while others find it a bit artificial or lacking in a strong cheese punch.",
+      "real_texture": "The texture is consistently described as light, airy, and crispy, often likened to a delicate puff or a very thin cracker.",
+      "common_praise": [
+        "Light and airy texture",
+        "Subtle, not too strong cheese flavor",
+        "Good for a light snack",
+        "Addictive crunch"
+      ],
+      "common_complaints": [
+        "Cheese flavor can be too mild or artificial for some",
+        "Can be a bit crumbly"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to Western cheese crackers, these are typically much lighter and less intensely flavored, with a more delicate crunch.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "crackers-with-cheese-flavor",
+      "snack_name": "Crackers with cheese flavor"
+    },
+    "premium-punch-shine-muscat": {
+      "real_taste": "Consumers consistently describe the taste as a very authentic and intensely sweet Shine Muscat grape flavor, often noting a refreshing, slightly tart finish that balances the sweetness. Many highlight the premium quality of the grape essence, distinguishing it from artificial grape flavors.",
+      "real_texture": "The texture is generally praised for being soft, chewy, and juicy, with a satisfying bite that doesn't become overly tough. Some mention a slight 'burst' sensation, mimicking the actual fruit.",
+      "common_praise": [
+        "Authentic and intense Shine Muscat grape flavor",
+        "High-quality ingredients/flavor profile",
+        "Pleasant chewy and juicy texture",
+        "Refreshing and not overly artificial"
+      ],
+      "common_complaints": [
+        "Can be quite expensive for a gummy snack",
+        "Some find the sweetness a bit too much for prolonged snacking"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Sparkling water",
+        "As a palate cleanser"
+      ],
+      "vs_similar": "Compared to standard grape gummies, these are significantly more sophisticated in flavor, offering a true-to-fruit taste rather than a generic candy grape. The texture is also noted as being juicier and less rubbery.",
+      "cultural_context": "Shine Muscat grapes are a highly prized and premium fruit in Japan, known for their exceptional sweetness and size, so these gummies aim to capture that luxury experience.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "premium-punch-shine-muscat",
+      "snack_name": "Premium Punch Shine Muscat"
+    },
+    "mitsuba-sweet-grapes": {
+      "real_taste": "Consumers often describe the taste as a mild, sweet grape flavor, not overly artificial. Some note a subtle tartness that balances the sweetness, making it refreshing rather than cloying. It's generally perceived as a pleasant, straightforward fruit flavor.",
+      "real_texture": "The texture is typically described as a soft, chewy gummy with a slight resistance. It's not overly sticky and has a satisfying chew that doesn't become tough.",
+      "common_praise": [
+        "Pleasant, not too sweet grape flavor",
+        "Good chewy texture",
+        "Refreshing and light",
+        "Enjoyable as a simple treat"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Other Japanese snacks"
+      ],
+      "vs_similar": "Compared to some Western fruit gummies, Mitsuba Sweet Grapes are generally less intensely sweet and have a more natural-tasting grape profile. The chewiness is comparable to other high-quality Japanese gummies.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "mitsuba-sweet-grapes",
+      "snack_name": "Mitsuba Sweet Grapes"
+    },
+    "putee-gummy-colors": {
+      "real_taste": "Consumers often describe the taste as a mild, fruity sweetness, with some noting a subtle artificial fruit flavor that isn't overpowering. The flavors are generally perceived as light and refreshing, rather than intensely sweet or sour.",
+      "real_texture": "The texture is consistently praised for being soft, chewy, and slightly jiggly, offering a satisfying mouthfeel without being overly sticky or tough.",
+      "common_praise": [
+        "Pleasant, mild fruity flavors",
+        "Soft and chewy texture",
+        "Visually appealing colors",
+        "Good for snacking on the go"
+      ],
+      "common_complaints": [
+        "Flavors can be a bit too subtle for some",
+        "Can be a bit pricey for the quantity"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Milk tea"
+      ],
+      "vs_similar": "Compared to many Western gummies, Putee Gummy Colors are less intensely sweet and have a softer, more yielding chew.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "putee-gummy-colors",
+      "snack_name": "Putee Gummy Colors"
+    },
+    "sweet-black-grapes": {
+      "real_taste": "Consumers consistently describe the taste as intensely sweet and bursting with a pure, concentrated grape flavor, often likened to a very high-quality grape juice or candy. There's a notable absence of artificiality, with the sweetness being natural and refreshing.",
+      "real_texture": "The texture is a key highlight, with reviewers frequently mentioning a satisfyingly firm yet yielding skin that gives way to a juicy, almost bursting interior. It's often described as a delightful pop with each bite.",
+      "common_praise": [
+        "Incredibly sweet and flavorful grape taste",
+        "Juicy and satisfying 'pop' texture",
+        "Feels like a premium, natural treat",
+        "Refreshing and not overly artificial"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "Some consumers enjoy freezing these grapes for a refreshing, sorbet-like treat.",
+      "popular_pairings": [
+        "Green tea",
+        "Sparkling water",
+        "Desserts"
+      ],
+      "vs_similar": "Compared to typical Western grape candies, these are significantly less artificial and more intensely flavored, offering a more natural sweetness and a distinct juicy burst rather than a chewy or hard candy texture.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "sweet-black-grapes",
+      "snack_name": "Sweet Black Grapes"
+    },
+    "meiji-plum-gummies": {
+      "real_taste": "Consumers describe the taste as a distinct, slightly tart, and authentic plum flavor, often reminiscent of umeboshi but with a balanced sweetness. Some note a subtle saltiness that enhances the fruitiness, making it less cloying than many Western gummies.",
+      "real_texture": "The texture is generally praised for being firm and chewy, offering a satisfying bite without being overly hard or sticky. It's often described as having a good 'snap' when bitten into.",
+      "common_praise": [
+        "Authentic and refreshing plum flavor",
+        "Pleasant chewy texture",
+        "Not overly sweet",
+        "Good balance of tart and sweet"
+      ],
+      "common_complaints": [
+        "Some find the tartness too intense",
+        "Availability can be limited outside of specialty stores"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Japanese soda"
+      ],
+      "vs_similar": "Compared to many Western fruit gummies, these are less intensely sweet and offer a more nuanced, tart fruit profile. They are generally chewier than softer, jelly-like candies.",
+      "cultural_context": "Ume (Japanese plum) is a very traditional and beloved flavor in Japan, often associated with health and home-style cooking, lending these gummies a sense of familiarity and comfort for many.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-plum-gummies",
+      "snack_name": "Meiji Plum Gummies"
+    },
+    "meiji-gelatin-citrus-flavor-snack": {
+      "real_taste": "Consumers describe the taste as a mild, refreshing citrus flavor, often leaning towards a subtle lemon or grapefruit. It's generally perceived as not overly sweet, with a pleasant tang that balances the sweetness.",
+      "real_texture": "The texture is consistently described as soft, chewy, and jelly-like, similar to a firm gummy or a very soft gelatin dessert. It has a satisfying 'give' when bitten into.",
+      "common_praise": [
+        "Refreshing citrus flavor",
+        "Pleasant, not too sweet",
+        "Soft and chewy texture",
+        "Good for a light snack"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to many Western gummy candies, it is less intensely sweet and has a more delicate, natural citrus profile. The texture is softer and less 'rubbery' than some gummies.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "meiji-gelatin-citrus-flavor-snack",
+      "snack_name": "Meiji Gelatin Citrus Flavor Snack"
+    },
+    "strawberry-flavored-japanese-candy": {
+      "real_taste": "Consumers generally describe the taste as a bright, artificial strawberry flavor, often compared to strawberry candy or soda rather than fresh fruit. Some find it intensely sweet with a slightly tart undertone, while others note a subtle creaminess that balances the fruitiness.",
+      "real_texture": "The texture is consistently described as soft, chewy, and slightly bouncy, with a pleasant yielding quality that isn't overly sticky.",
+      "common_praise": [
+        "Deliciously sweet and fruity strawberry flavor",
+        "Pleasant chewy texture",
+        "Addictive and easy to snack on",
+        "Great for satisfying sweet cravings"
+      ],
+      "common_complaints": [
+        "Flavor can be too artificial for some",
+        "Can be a bit too sweet for those who prefer less sugary treats"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Milk tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to Western strawberry gummies, this candy often has a more pronounced artificiality to its flavor and a slightly firmer, more resilient chew.",
+      "cultural_context": "These types of brightly flavored, chewy candies are a staple in Japanese convenience stores and are often associated with childhood nostalgia for many.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "strawberry-flavored-japanese-candy",
+      "snack_name": "Strawberry-flavored Japanese candy"
+    },
+    "japanese-apple-shaped-candy": {
+      "real_taste": "Consumers generally describe the taste as a mild, sweet, and slightly tart apple flavor, often reminiscent of green apples. Some note a subtle artificiality, while others find it a pleasant and refreshing fruitiness.",
+      "real_texture": "The texture is consistently described as a firm, chewy gummy. It's often compared to a very dense gummy bear or a slightly harder gummy worm.",
+      "common_praise": [
+        "Pleasant, not overly sweet apple flavor",
+        "Satisfyingly chewy texture",
+        "Cute and appealing apple shape",
+        "Good for a light snack or treat"
+      ],
+      "common_complaints": [
+        "Can be a bit too firm for some",
+        "Flavor can be perceived as slightly artificial by some"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water"
+      ],
+      "vs_similar": "Compared to many Western apple-flavored gummies, this snack is often perceived as less intensely sweet and with a more nuanced, less artificial apple taste.",
+      "cultural_context": "The apple shape is a common motif in Japanese confectionery, often associated with simple, wholesome treats.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "japanese-apple-shaped-candy",
+      "snack_name": "Japanese apple-shaped candy"
+    },
+    "hi-chew-lemon": {
+      "real_taste": "Consumers describe the Hi-Chew Lemon as a bright, zesty, and authentic lemon flavor, often noting a pleasant tartness that balances the sweetness. It's frequently praised for tasting like real lemon candy, not artificial.",
+      "real_texture": "The texture is consistently described as chewy and soft, with a slight resistance that gives it a satisfying chew. It's not sticky and melts smoothly in the mouth.",
+      "common_praise": [
+        "Authentic and refreshing lemon flavor",
+        "Perfect balance of sweet and tart",
+        "Satisfyingly chewy texture",
+        "Great for on-the-go snacking"
+      ],
+      "common_complaints": [
+        "Some find it a bit too sweet if they prefer less sugary candies",
+        "Can be difficult to find in some regions outside of specialty stores"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Water",
+        "Iced tea",
+        "Lemonade"
+      ],
+      "vs_similar": "Compared to other lemon candies, Hi-Chew Lemon is often noted for its more natural and less artificial citrus taste, and its distinctively soft, chewy texture which sets it apart from hard candies.",
+      "cultural_context": "Hi-Chew is a very popular and long-standing candy brand in Japan, often evoking nostalgic memories for many consumers.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "hi-chew-lemon",
+      "snack_name": "Hi-Chew Lemon"
+    },
+    "black-grapes-gummy": {
+      "real_taste": "Consumers often describe the taste as a surprisingly authentic and intense black grape flavor, reminiscent of fresh, ripe Concord grapes. It's noted for being sweet but not overly artificial, with a pleasant tartness that balances the sweetness.",
+      "real_texture": "The texture is consistently praised for being chewy and satisfying, with a good 'bite' that isn't too hard or too soft. It holds its shape well and doesn't become sticky.",
+      "common_praise": [
+        "Authentic and intense grape flavor",
+        "Pleasantly chewy texture",
+        "Not overly artificial tasting",
+        "Good balance of sweet and tart"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Milk tea"
+      ],
+      "vs_similar": "Compared to many Western grape gummies, these are often noted for a more natural and less saccharine grape profile, and a firmer, more satisfying chew.",
+      "cultural_context": "These gummies are popular as a convenient and flavorful treat, often enjoyed by children and adults alike as a small indulgence.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "black-grapes-gummy",
+      "snack_name": "Black Grapes Gummy"
+    },
+    "japanese-strawberry-gummies": {
+      "real_taste": "Consumers often describe the taste as a pleasant, mild strawberry flavor that isn't overly artificial. Some note a subtle sweetness that complements the strawberry, while others mention a slight tanginess that balances the overall profile.",
+      "real_texture": "The texture is generally praised for being soft and chewy, with a satisfying 'gummy' feel that melts in the mouth without being overly sticky.",
+      "common_praise": [
+        "Deliciously fruity strawberry flavor",
+        "Pleasant chewy texture",
+        "Not too sweet, well-balanced",
+        "Great for a quick snack"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Milk",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to Western strawberry gummies, these are often perceived as having a more natural and less intensely sweet strawberry flavor.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "japanese-strawberry-gummies",
+      "snack_name": "Japanese strawberry gummies"
+    },
+    "happods-winter-melon": {
+      "real_taste": "Consumers generally describe the taste as subtly sweet with a distinct, slightly floral or herbal note reminiscent of winter melon. Some find it refreshing and not overly sugary, while others note a mild, almost watery sweetness.",
+      "real_texture": "The texture is consistently described as a soft, chewy gummy, often compared to a firm jelly. It's not overly sticky and has a pleasant bite.",
+      "common_praise": [
+        "Refreshing and not too sweet",
+        "Unique and subtle winter melon flavor",
+        "Pleasant chewy texture",
+        "Good for a light snack"
+      ],
+      "common_complaints": [
+        "Flavor can be too mild for some",
+        "Some find the sweetness lacking"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water"
+      ],
+      "vs_similar": "Compared to more intensely flavored gummies, Happods Winter Melon offers a much more delicate sweetness and a less artificial fruit taste.",
+      "cultural_context": "Winter melon is a traditional ingredient in Asian desserts and beverages, often associated with cooling properties and a mild, natural sweetness.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "happods-winter-melon",
+      "snack_name": "Happods Winter Melon"
+    },
+    "cheese-almond-cheeks": {
+      "real_taste": "Consumers describe the taste as a pleasant balance of sweet milk chocolate and a mild, slightly salty cheese flavor. The almond adds a nutty depth, creating a savory-sweet profile that is often described as addictive.",
+      "real_texture": "The snack offers a satisfying crunch from the almond, complemented by the smooth, melt-in-your-mouth chocolate coating. Some note a slight powdery residue from the cheese flavoring.",
+      "common_praise": [
+        "Deliciously addictive sweet and savory combination",
+        "Perfectly balanced chocolate and cheese flavors",
+        "Great crunchy texture",
+        "Good for a quick snack or treat"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some who prefer more savory cheese notes",
+        "The cheese flavor can be subtle for those expecting a stronger cheese taste"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Coffee",
+        "Milk"
+      ],
+      "vs_similar": "Compared to standard chocolate-covered almonds, Cheese Almond Cheeks offer a unique savory twist from the cheese flavoring, making them less purely sweet.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "cheese-almond-cheeks",
+      "snack_name": "Cheese Almond Cheeks"
+    },
+    "lotte-almond-chocolate": {
+      "real_taste": "Consumers generally describe Lotte Almond Chocolate as having a balanced sweetness, with a pleasant milk chocolate flavor that doesn't overpower the nutty notes of the almond. The almond itself is often praised for its fresh, roasted taste and satisfying crunch.",
+      "real_texture": "The snack offers a satisfying contrast between the smooth, melt-in-your-mouth chocolate coating and the firm, crunchy almond at its center.",
+      "common_praise": [
+        "Classic, reliable taste",
+        "Good balance of chocolate and almond",
+        "High-quality almonds",
+        "Satisfying crunch"
+      ],
+      "common_complaints": [
+        "Can be a bit too sweet for some",
+        "Chocolate coating can melt easily in warm weather"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to some other chocolate-covered almonds, Lotte's version is often seen as having a more refined chocolate flavor and a consistently good almond quality.",
+      "cultural_context": "This is a very common and nostalgic snack in Japan, often found in convenience stores and supermarkets, and is a staple for many.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "lotte-almond-chocolate",
+      "snack_name": "Lotte Almond Chocolate"
+    },
+    "chup-chups-peach": {
+      "real_taste": "Consumers describe the taste as a mild, artificial peach flavor that is not overly sweet. Some note a subtle creamy or milky undertone that complements the fruitiness, while others find the peach flavor to be somewhat generic.",
+      "real_texture": "The texture is generally described as a soft, chewy candy, similar to a gummy or a very soft caramel. It's not hard or brittle, and melts slowly in the mouth.",
+      "common_praise": [
+        "Pleasant, not too sweet peach flavor",
+        "Enjoyable chewy texture",
+        "Good for a quick sweet treat",
+        "Nostalgic candy"
+      ],
+      "common_complaints": [
+        "Artificial peach flavor can be overpowering for some",
+        "Texture can be a bit too sticky"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Water",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to other fruit-flavored chewy candies, Chupa Chups Peach is often seen as having a less intense, more subtle fruit profile. It's less intensely sweet than some American gummy candies.",
+      "cultural_context": "Chupa Chups are a globally recognized candy brand, and this peach variant taps into the popular fruit flavors often found in Japanese confectionery.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "chup-chups-peach",
+      "snack_name": "Chup Chups Peach"
+    },
+    "hi-chew-chocolate": {
+      "real_taste": "Consumers describe the Hi-Chew Chocolate as having a mild, milky chocolate flavor that is not overly sweet. Some note a subtle cocoa richness, while others find it to be a pleasant, straightforward chocolate taste that is a departure from the fruity original Hi-Chews.",
+      "real_texture": "The texture is consistently described as chewy and soft, similar to the original Hi-Chew candies, with a smooth, melt-in-your-mouth quality that doesn't become hard or sticky.",
+      "common_praise": [
+        "Pleasant, mild chocolate flavor",
+        "Classic Hi-Chew chewiness",
+        "Good for those who prefer less sweet chocolates",
+        "A nice change from fruity Hi-Chews"
+      ],
+      "common_complaints": [
+        "Some wish for a more intense or richer chocolate taste",
+        "May be too sweet for some who expect a very dark chocolate"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to traditional chocolate bars, Hi-Chew Chocolate is significantly chewier and has a less intense cocoa flavor, leaning more towards a milk chocolate profile.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "hi-chew-chocolate",
+      "snack_name": "Hi-Chew Chocolate"
+    },
+    "tomato-pretzels": {
+      "real_taste": "Consumers generally describe the taste as a savory, slightly sweet tomato flavor, often compared to a mild tomato soup or ketchup. Some note a subtle umami undertone, while others find the tomato essence to be more artificial or less intense than expected.",
+      "real_texture": "The texture is consistently described as a light, airy, and crispy pretzel stick, similar to other Pretz varieties. They are not overly hard and offer a satisfying crunch.",
+      "common_praise": [
+        "Pleasant, mild tomato flavor",
+        "Light and crispy texture",
+        "Good for snacking on the go",
+        "Addictive and easy to eat"
+      ],
+      "common_complaints": [
+        "Flavor can be too subtle for some",
+        "Some find the tomato taste slightly artificial"
+      ],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Beer",
+        "Tea",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to Pocky, Pretz offers a savory, non-chocolate coated experience. The tomato flavor is less sweet and more akin to a savory cracker than a dessert.",
+      "cultural_context": "As part of Glico's Pretz line, these share a long history as a popular, accessible snack in Japan, often found in convenience stores and supermarkets.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "tomato-pretzels",
+      "snack_name": "Tomato Pretzels"
+    },
+    "lotte-ammond": {
+      "real_taste": "Consumers describe the Lotte Ammond as having a mild, sweet milk chocolate flavor that isn't overly rich. The almond itself is noted for its pleasant, roasted nuttiness, which complements the chocolate without overpowering it.",
+      "real_texture": "The snack offers a satisfying crunch from the whole almond, encased in a smooth, slightly firm chocolate shell. The combination provides a pleasant contrast between the crisp nut and the melting chocolate.",
+      "common_praise": [
+        "Classic, reliable taste",
+        "Good balance of chocolate and almond",
+        "Satisfying crunch",
+        "Not too sweet"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Coffee",
+        "Tea",
+        "Milk"
+      ],
+      "vs_similar": "Compared to other chocolate-covered almonds, Lotte Ammond is often seen as a more straightforward and less intensely flavored option, focusing on a balanced, everyday enjoyment.",
+      "cultural_context": "This is a widely available and popular everyday chocolate snack in Japan, often enjoyed as a simple treat or a small indulgence.",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "lotte-ammond",
+      "snack_name": "Lotte Ammond"
+    },
+    "pure-premium-strawberry": {
+      "real_taste": "Consumers describe the taste as a very authentic and intense strawberry flavor, often noting a natural sweetness rather than artificial. Some mention a slight tartness that balances the sweetness, making it refreshing.",
+      "real_texture": "The texture is consistently praised for being soft and chewy, with a pleasant, yielding bite that isn't overly tough or sticky.",
+      "common_praise": [
+        "Incredibly realistic strawberry flavor",
+        "Pleasant, soft chewiness",
+        "Not overly sweet, balanced flavor",
+        "High-quality ingredients evident"
+      ],
+      "common_complaints": [],
+      "unexpected_uses": "",
+      "popular_pairings": [
+        "Green tea",
+        "Milk",
+        "Coffee"
+      ],
+      "vs_similar": "Compared to many Western strawberry gummies, these are often noted for their more natural and less artificial tasting fruit flavor and a softer, more yielding texture.",
+      "cultural_context": "",
+      "confidence": "medium",
+      "collected_at": "2026-04-26",
+      "snack_id": "pure-premium-strawberry",
+      "snack_name": "Pure Premium Strawberry"
+    },
+    "doritos": {
+      "real_taste": "Consumers generally describe Doritos as having a strong, artificial cheese flavor, often with a noticeable saltiness. Specific flavors like Nacho Cheese are noted for their tangy, somewhat spicy profile, while Cool Ranch offers a more herbaceous and creamy, albeit still artificial, taste.",
+      "real_texture": "The texture is consistently described as very crunchy and brittle, with a tendency to leave a powdery residue on fingers.",
+      "common_praise": [
+        "Intense and satisfying flavor",
+        "Addictive crunch",
+        "Great for parties and snacking",
+        "Good value for the price"
+      ],
+      "common_complaints": [
+        "Artificial tasting cheese flavor",
+        "Can be too salty",
+        "Leaves a lot of powder/dust"
+      ],
+      "unexpected_uses": "Some consumers use crushed Doritos as a breading for chicken or fish, or as a topping for casseroles and salads to add flavor and crunch.",
+      "popular_pairings": [
+        "Salsa",
+        "Guacamole",
+        "Beer",
+        "Soda"
+      ],
+      "vs_similar": "Compared to other tortilla chips, Doritos are often seen as having a more pronounced and artificial seasoning. They are typically bolder in flavor than plain tortilla chips and less subtle than some artisanal varieties.",
+      "cultural_context": "While not deeply rooted in traditional Japanese snacks, Doritos have gained a significant following in Japan as a popular Western snack, often enjoyed for their bold, familiar flavors.",
+      "confidence": "high",
+      "collected_at": "2026-04-26",
+      "snack_id": "doritos",
+      "snack_name": "Doritos"
     }
   },
-  "last_updated": "2026-04-12 22:31"
+  "last_updated": "2026-04-26 17:53"
 }
