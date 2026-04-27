@@ -1,40 +1,53 @@
-/* Tierlist — Drag & Drop + Export */
+/* Tierlist — Drag & Drop (SortableJS) + Export
+   native HTML5 drag-drop は タッチ非対応 + Edge/Firefoxで img内包時に不安定 →
+   SortableJS (44KB・MIT・タッチ対応・cross-zone) に置き換え */
 document.getElementById('nav').innerHTML = renderNav('tierlist');
-
-let dragItem = null;
 
 function createTierItem(snack) {
   const el = document.createElement('div');
-  el.className = 'tier-item';
-  el.draggable = true;
+  el.className = 'tier-item notranslate';
+  el.setAttribute('translate', 'no');
+  el.lang = 'en';
   el.dataset.id = snack.id;
-  el.textContent = snack.name_en;
   el.title = snack.name_en;
-  el.addEventListener('dragstart', e => {
-    dragItem = el;
-    el.classList.add('dragging');
-    e.dataTransfer.effectAllowed = 'move';
-  });
-  el.addEventListener('dragend', () => {
-    el.classList.remove('dragging');
-    dragItem = null;
-  });
+  const img = snack.image || (snack.photos && snack.photos[0] && `images/webp/${snack.photos[0].img}.webp`);
+  if (img) {
+    const imgEl = document.createElement('img');
+    imgEl.src = (location.pathname.includes('/okashi') ? '/okashi/' : '') + img;
+    imgEl.alt = snack.name_en;
+    imgEl.loading = 'lazy';
+    imgEl.draggable = false;
+    el.appendChild(imgEl);
+  }
+  const label = document.createElement('span');
+  label.className = 'tier-item-name notranslate';
+  label.setAttribute('translate', 'no');
+  label.lang = 'en';
+  label.textContent = snack.name_en;
+  el.appendChild(label);
   return el;
-}
-
-function setupDropZone(zone) {
-  zone.addEventListener('dragover', e => { e.preventDefault(); e.dataTransfer.dropEffect = 'move'; });
-  zone.addEventListener('drop', e => {
-    e.preventDefault();
-    if (dragItem) zone.appendChild(dragItem);
-  });
 }
 
 SA.loadSnacks().then(snacks => {
   const pool = document.getElementById('pool');
   snacks.forEach(s => pool.appendChild(createTierItem(s)));
-  document.querySelectorAll('.tier-items').forEach(setupDropZone);
-  setupDropZone(pool);
+  // 画像系アイテムでHTML5 native dragが2回目以降動かないバグ (#1571,#2426) を回避
+  // fallback統一 + fallbackOnBody無効でゴースト複製を避けて軽量化
+  const opts = {
+    group: 'tier',
+    animation: 150,
+    ghostClass: 'dragging',
+    forceFallback: true,
+    fallbackTolerance: 4,
+    swapThreshold: 0.5,
+    emptyInsertThreshold: 20,
+    delay: 0,
+    preventOnFilter: true,
+  };
+  // 念のため dragstart を root レベルで prevent (Edge の native image drag 暴発防止)
+  document.addEventListener('dragstart', e => e.preventDefault());
+  document.querySelectorAll('.tier-items').forEach(z => Sortable.create(z, opts));
+  Sortable.create(pool, opts);
 });
 
 /* Export as PNG */
