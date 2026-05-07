@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="notranslate" translate="no">
 <head>
 <meta charset="UTF-8">
+<meta name="google" content="notranslate">
+<meta name="robots" content="notranslate">
 <script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "wa1jxs6bmh");</script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>My Snack Collection — Okashi</title>
@@ -28,25 +30,25 @@
 </div>
 
 <section class="section" style="padding-top:24px">
-  <div class="container">
-    <h1 style="font-size:1.5rem;font-weight:700;margin-bottom:16px;text-align:center">My Snack Collection</h1>
+ <div class="container">
+ <h1 style="font-size:1.5rem;font-weight:700;margin-bottom:16px;text-align:center">My Snack Collection</h1>
 
-    <div class="collection-stats" id="stats">
-      <div class="collection-count" id="count">0</div>
-      <div class="collection-total">snacks tried out of <span id="total">0</span></div>
-      <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width:0%">
+ <div class="collection-stats" id="stats">
+ <div class="collection-count" id="count">0</div>
+ <div class="collection-total">snacks tried out of <span id="total">0</span></div>
+ <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width:0%">
 </div></div>
-    </div>
+ </div>
 
-    <div style="text-align:center;margin-bottom:16px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
-      <button class="btn btn-sm" id="show-all" style="background:var(--text);color:#fff">All</button>
-      <button class="btn btn-sm btn-outline" id="show-tried">Tried</button>
-      <button class="btn btn-sm btn-outline" id="show-untried">Not Yet</button>
-    </div>
+ <div style="text-align:center;margin-bottom:16px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+ <button class="btn btn-sm" id="show-all" style="background:var(--text);color:#fff">All</button>
+ <button class="btn btn-sm btn-outline" id="show-tried">Tried</button>
+ <button class="btn btn-sm btn-outline" id="show-untried">Not Yet</button>
+ </div>
 
-    <div class="card-grid" id="collection-grid">
+ <div class="card-grid" id="collection-grid">
 </div>
-  </div>
+ </div>
 </section>
 
 <!-- ===== GA4 — auto-inserted by build agent ===== -->
@@ -57,31 +59,31 @@
 
 <!-- Newsletter -->
 <div style="text-align:center;padding:16px 12px 4px;font-size:0.82rem;color:#888;border-top:1px solid #e0e0e033;margin-top:12px;">
-  <p style="margin-bottom:8px;font-weight:600;">Get Snack Updates</p>
-  <form action="https://buttondown.com/api/emails/embed-subscribe/okashi" method="post" target="_blank" style="display:flex;gap:6px;justify-content:center;flex-wrap:wrap;max-width:360px;margin:0 auto;">
-    <input type="email" name="email" placeholder="your@email.com" required style="padding:6px 10px;border:1px solid #ccc;border-radius:4px;font-size:0.82rem;min-width:180px;min-height:44px;">
-    <button type="submit" style="padding:6px 14px;background:#FF6B6B;color:#fff;border:none;border-radius:4px;font-size:0.82rem;cursor:pointer;min-height:44px;">Subscribe</button>
-  </form>
-  <p style="margin-top:4px;font-size:0.7rem;color:#aaa;">New snack discoveries. No spam.</p>
+ <p style="margin-bottom:8px;font-weight:600;">Get Snack Updates</p>
+ <form action="https://buttondown.com/api/emails/embed-subscribe/okashi" method="post" target="_blank" style="display:flex;gap:6px;justify-content:center;flex-wrap:wrap;max-width:360px;margin:0 auto;">
+ <input type="email" name="email" placeholder="your@email.com" required style="padding:6px 10px;border:1px solid #ccc;border-radius:4px;font-size:0.82rem;min-width:180px;min-height:44px;">
+ <button type="submit" style="padding:6px 14px;background:#FF6B6B;color:#fff;border:none;border-radius:4px;font-size:0.82rem;cursor:pointer;min-height:44px;">Subscribe</button>
+ </form>
+ <p style="margin-top:4px;font-size:0.7rem;color:#aaa;">New snack discoveries. No spam.</p>
 </div>
 
 <!-- Share -->
 <div style="text-align:center;padding:12px 12px 4px;font-size:0.82rem;color:#888;">
-  <p style="margin-bottom:6px;">Share this tool</p>
-  <p>
-    <button onclick="if(navigator.share){navigator.share({title:document.title,url:location.href})}else{window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(document.title),'_blank')}" style="background:none;border:1px solid #ccc;border-radius:4px;padding:4px 12px;font-size:0.8rem;cursor:pointer;color:#888;margin:0 4px;min-height:32px;">Share</button>
-    <a href="https://twitter.com/intent/tweet?url=" onclick="this.href='https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(document.title)" target="_blank" rel="noopener" style="color:#1DA1F2;text-decoration:none;font-weight:600;margin:0 6px;font-size:0.82rem;">X</a>
-    <a href="https://reddit.com/submit?url=" onclick="this.href='https://reddit.com/submit?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)" target="_blank" rel="noopener" style="color:#FF4500;text-decoration:none;font-weight:600;margin:0 6px;font-size:0.82rem;">Reddit</a>
-  </p>
+ <p style="margin-bottom:6px;">Share this tool</p>
+ <p>
+ <button onclick="if(navigator.share){navigator.share({title:document.title,url:location.href})}else{window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(document.title),'_blank')}" style="background:none;border:1px solid #ccc;border-radius:4px;padding:4px 12px;font-size:0.8rem;cursor:pointer;color:#888;margin:0 4px;min-height:32px;">Share</button>
+ <a href="https://twitter.com/intent/tweet?url=" onclick="this.href='https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(document.title)" target="_blank" rel="noopener" style="color:#1DA1F2;text-decoration:none;font-weight:600;margin:0 6px;font-size:0.82rem;">X</a>
+ <a href="https://reddit.com/submit?url=" onclick="this.href='https://reddit.com/submit?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)" target="_blank" rel="noopener" style="color:#FF4500;text-decoration:none;font-weight:600;margin:0 6px;font-size:0.82rem;">Reddit</a>
+ </p>
 </div>
 
 <!-- Feedback -->
 <div style="text-align:center;margin-top:2rem;padding:16px 12px;font-size:0.9rem;">
-  <p style="color:#888;margin:0 0 8px;">Was this helpful?</p>
-  <div style="display:flex;gap:16px;justify-content:center;">
-    <button onclick="this.parentElement.innerHTML='<span style=color:#666>Thanks for your feedback!</span>'" style="background:none;border:1px solid #ddd;border-radius:8px;padding:8px 20px;font-size:1.2rem;cursor:pointer;min-height:44px;" aria-label="Helpful">👍</button>
-    <button onclick="this.parentElement.innerHTML='<span style=color:#666>Thanks! We'll improve.</span>'" style="background:none;border:1px solid #ddd;border-radius:8px;padding:8px 20px;font-size:1.2rem;cursor:pointer;min-height:44px;" aria-label="Not helpful">👎</button>
-  </div>
+ <p style="color:#888;margin:0 0 8px;">Was this helpful?</p>
+ <div style="display:flex;gap:16px;justify-content:center;">
+ <button onclick="this.parentElement.innerHTML='<span style=color:#666>Thanks for your feedback!</span>'" style="background:none;border:1px solid #ddd;border-radius:8px;padding:8px 20px;font-size:1.2rem;cursor:pointer;min-height:44px;" aria-label="Helpful">👍</button>
+ <button onclick="this.parentElement.innerHTML='<span style=color:#666>Thanks! We'll improve.</span>'" style="background:none;border:1px solid #ddd;border-radius:8px;padding:8px 20px;font-size:1.2rem;cursor:pointer;min-height:44px;" aria-label="Not helpful">👎</button>
+ </div>
 </div>
 
 <!-- ===== END STANDARD FOOTER ===== -->
@@ -92,38 +94,38 @@ document.getElementById('nav').innerHTML = renderNav('collection');
 let filterMode = 'all';
 
 function updateStats() {
-  const count = SA.getCollectedCount();
-  const total = SA.snacks.length;
-  const pct = total > 0 ? (count / total * 100).toFixed(0) : 0;
-  document.getElementById('count').textContent = count;
-  document.getElementById('total').textContent = total;
-  document.getElementById('progress-fill').style.width = pct + '%';
+ const count = SA.getCollectedCount();
+ const total = SA.snacks.length;
+ const pct = total > 0 ? (count / total * 100).toFixed(0) : 0;
+ document.getElementById('count').textContent = count;
+ document.getElementById('total').textContent = total;
+ document.getElementById('progress-fill').style.width = pct + '%';
 }
 
 function renderCollection() {
-  let snacks = SA.snacks;
-  if (filterMode === 'tried') snacks = snacks.filter(s => SA.isCollected(s.id));
-  else if (filterMode === 'untried') snacks = snacks.filter(s => !SA.isCollected(s.id));
+ let snacks = SA.snacks;
+ if (filterMode === 'tried') snacks = snacks.filter(s => SA.isCollected(s.id));
+ else if (filterMode === 'untried') snacks = snacks.filter(s => !SA.isCollected(s.id));
 
-  const grid = document.getElementById('collection-grid');
-  grid.innerHTML = snacks.map(s => SA.renderSnackCard(s)).join('');
-  SA.bindTriedButtons(grid);
-  updateStats();
+ const grid = document.getElementById('collection-grid');
+ grid.innerHTML = snacks.map(s => SA.renderSnackCard(s)).join('');
+ SA.bindTriedButtons(grid);
+ updateStats();
 }
 
 document.addEventListener('sa:collected-changed', () => { updateStats(); });
 
 ['all','tried','untried'].forEach(mode => {
-  document.getElementById('show-' + mode).addEventListener('click', () => {
-    filterMode = mode;
-    document.querySelectorAll('#show-all,#show-tried,#show-untried').forEach(b => {
-      b.className = 'btn btn-sm btn-outline';
-    });
-    document.getElementById('show-' + mode).className = 'btn btn-sm';
-    document.getElementById('show-' + mode).style.background = 'var(--text)';
-    document.getElementById('show-' + mode).style.color = '#fff';
-    renderCollection();
-  });
+ document.getElementById('show-' + mode).addEventListener('click', () => {
+ filterMode = mode;
+ document.querySelectorAll('#show-all,#show-tried,#show-untried').forEach(b => {
+ b.className = 'btn btn-sm btn-outline';
+ });
+ document.getElementById('show-' + mode).className = 'btn btn-sm';
+ document.getElementById('show-' + mode).style.background = 'var(--text)';
+ document.getElementById('show-' + mode).style.color = '#fff';
+ renderCollection();
+ });
 });
 
 SA.loadSnacks().then(() => renderCollection());

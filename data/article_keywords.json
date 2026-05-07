@@ -192,39 +192,6 @@
       "status": "completed"
     },
     {
-      "slug": "pocky-flavors-ranked",
-      "title": "All Pocky Flavors Ranked: Which One Is the Best?",
-      "keyword": "best pocky flavors ranked",
-      "filter_key": "flavors",
-      "filter_values": [
-        "chocolate",
-        "matcha",
-        "strawberry"
-      ],
-      "status": "pending"
-    },
-    {
-      "slug": "kinoko-vs-takenoko",
-      "title": "Kinoko no Yama vs Takenoko no Sato: The Ultimate Debate",
-      "keyword": "kinoko vs takenoko",
-      "filter_key": "category",
-      "filter_values": [
-        "cookie"
-      ],
-      "status": "pending"
-    },
-    {
-      "slug": "japanese-gummy-candy-guide",
-      "title": "Best Japanese Gummy Candy: Soft, Chewy, and Fruity",
-      "keyword": "japanese gummy candy",
-      "filter_key": "category",
-      "filter_values": [
-        "gummy",
-        "candy"
-      ],
-      "status": "pending"
-    },
-    {
       "slug": "japanese-snacks-with-green-tea",
       "title": "Japanese Snacks That Go Perfectly with Green Tea",
       "keyword": "japanese snacks with green tea",
@@ -419,6 +386,102 @@
       "filter_key": "flavors",
       "filter_values": [
         "umami"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best Japanese biscuits and cookies ranked",
+      "slug": "best-japanese-biscuits-cookies-ranked",
+      "filter_key": "type",
+      "filter_values": [
+        "biscuits",
+        "cookies"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "unique Japanese snack flavors to try in 2024",
+      "slug": "unique-japanese-snack-flavors-2024",
+      "filter_key": "flavors",
+      "filter_values": [
+        "unique",
+        "exotic"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best Japanese snacks for sharing and gifting",
+      "slug": "best-japanese-snacks-for-sharing-gifting",
+      "filter_key": "occasion",
+      "filter_values": [
+        "sharing",
+        "gifting"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "crunchy vs chewy Japanese snacks comparison",
+      "slug": "crunchy-vs-chewy-japanese-snacks-comparison",
+      "filter_key": "texture",
+      "filter_values": [
+        "crunchy",
+        "chewy"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best Japanese snacks with surprising ingredients",
+      "slug": "best-japanese-snacks-surprising-ingredients",
+      "filter_key": "ingredients",
+      "filter_values": [
+        "surprising",
+        "unexpected"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best Japanese snack brands to try in 2024",
+      "slug": "best-japanese-snack-brands-2024",
+      "filter_key": "brands",
+      "filter_values": [
+        "brands"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "where to buy authentic Japanese snacks in the US",
+      "slug": "where-to-buy-authentic-japanese-snacks-us",
+      "filter_key": "stores",
+      "filter_values": [
+        "stores"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "Japanese snack flavors inspired by anime and manga",
+      "slug": "japanese-snack-flavors-anime-manga",
+      "filter_key": "themes",
+      "filter_values": [
+        "themes"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "best Japanese snacks for vegetarians and vegans",
+      "slug": "best-japanese-snacks-vegetarians-vegans",
+      "filter_key": "dietary",
+      "filter_values": [
+        "vegetarian",
+        "vegan"
+      ],
+      "status": "pending"
+    },
+    {
+      "keyword": "Japanese snack packaging designs that are Instagram-worthy",
+      "slug": "japanese-snack-packaging-instagram-worthy",
+      "filter_key": "aesthetics",
+      "filter_values": [
+        "packaging"
       ],
       "status": "pending"
     }

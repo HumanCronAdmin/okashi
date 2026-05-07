@@ -1,663 +1,332 @@
 {
   "snacks": [
     {
-      "id": "kitkat-matcha",
-      "name_en": "KitKat Matcha",
+      "id": "black-thunder-rich-matcha",
+      "name_en": "Black Thunder Rich Matcha",
       "name_ja": "",
-      "maker": "Unknown",
+      "maker": "",
       "category": "chocolate",
       "flavors": [
-        "matcha",
-        "chocolate"
+        "matcha"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4317.webp",
-      "photo_count": 9
-    },
-    {
-      "id": "meiji-meltykiss-strawberry",
-      "name_en": "Meiji Meltykiss Strawberry",
-      "name_ja": "",
-      "maker": "Meiji",
-      "category": "chocolate",
-      "flavors": [
-        "strawberry",
-        "chocolate"
+      "image": "images/webp/IMG_4396.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_4396",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4381",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4398",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4400",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4402",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4399",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4382",
+          "rank": "rank4"
+        }
       ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4323.webp",
-      "photo_count": 5
+      "article": "black-thunder"
     },
     {
-      "id": "pocky-matcha",
-      "name_en": "Pocky Matcha",
+      "id": "jagariko-l-salad",
+      "name_en": "Jagariko L Salad",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "matcha",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4333.webp",
-      "photo_count": 4
-    },
-    {
-      "id": "calbee-jagarico-original-flavor",
-      "name_en": "Calbee JagaRico Original Flavor",
-      "name_ja": "",
-      "maker": "Calbee",
-      "category": "chips",
-      "flavors": [
-        "potato"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4300.webp",
-      "photo_count": 2
-    },
-    {
-      "id": "meiji-apollo",
-      "name_en": "Meiji Apollo",
-      "name_ja": "",
-      "maker": "Meiji",
-      "category": "chocolate",
-      "flavors": [
-        "strawberry",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4376.webp",
-      "photo_count": 2
-    },
-    {
-      "id": "meiji-apollo-strawberry-chocolate",
-      "name_en": "Meiji Apollo Strawberry Chocolate",
-      "name_ja": "",
-      "maker": "Meiji",
-      "category": "chocolate",
-      "flavors": [
-        "strawberry",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4378.webp",
-      "photo_count": 2
-    },
-    {
-      "id": "pocky-chocolate",
-      "name_en": "Pocky Chocolate",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4384.webp",
-      "photo_count": 2,
-      "article": "pocky-chocolate"
-    },
-    {
-      "id": "meiji-apollo-strawberry",
-      "name_en": "Meiji Apollo Strawberry",
-      "name_ja": "",
-      "maker": "Meiji",
-      "category": "chocolate",
-      "flavors": [
-        "strawberry",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4449.webp",
-      "photo_count": 2
-    },
-    {
-      "id": "meiji-strawberry-chocolate",
-      "name_en": "Meiji Strawberry Chocolate",
-      "name_ja": "",
-      "maker": "Meiji",
-      "category": "chocolate",
-      "flavors": [
-        "strawberry",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4452.webp",
-      "photo_count": 2
-    },
-    {
-      "id": "hi-soft",
-      "name_en": "Hi-Soft",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "candy",
-      "flavors": [
-        "caramel"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4459.webp",
-      "photo_count": 2
-    },
-    {
-      "id": "calbee-jagarico-l-salad",
-      "name_en": "Calbee Jagarico L Salad",
-      "name_ja": "",
-      "maker": "Calbee",
+      "maker": "",
       "category": "chips",
       "flavors": [
         "salad"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4301.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "calbee-jagarico-salad-flavor",
-      "name_en": "Calbee Jagarico Salad Flavor",
-      "name_ja": "",
-      "maker": "Calbee",
-      "category": "chips",
-      "flavors": [
-        "potato",
-        "salad"
+      "image": "images/webp/IMG_4314.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_4314",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4300",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4301",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4311",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4307",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4305",
+          "rank": "rank4"
+        }
       ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4303.webp",
-      "photo_count": 1
+      "article": "jagariko-salad"
     },
     {
-      "id": "calbee-potato-chips",
-      "name_en": "Calbee Potato Chips",
+      "id": "toppo-matcha",
+      "name_en": "Toppo Matcha",
       "name_ja": "",
-      "maker": "Calbee",
-      "category": "chips",
-      "flavors": [
-        "potato"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4304.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "lotte-chocolate-pie",
-      "name_en": "Lotte Chocolate Pie",
-      "name_ja": "",
-      "maker": "Lotte",
+      "maker": "",
       "category": "chocolate",
       "flavors": [
-        "chocolate"
+        "matcha"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4331.webp",
-      "photo_count": 1
+      "image": "images/webp/IMG_4405.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_4405",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4333",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4334",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4404",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4407",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4335",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "meltykiss-strawberry",
-      "name_en": "Meltykiss Strawberry",
+      "id": "country-maam-rich-matcha",
+      "name_en": "Country Ma'am Rich Matcha",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "strawberry",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4328.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "fujiya-country-maam-rich-matcha",
-      "name_en": "Fujiya Country Ma'am Rich Matcha",
-      "name_ja": "",
-      "maker": "Fujiya",
+      "maker": "",
       "category": "cookie",
       "flavors": [
         "matcha"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4336.webp",
-      "photo_count": 1
+      "image": "images/webp/IMG_4389.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_4389",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4336",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4338",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4392",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4390",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4337",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "doritos",
-      "name_en": "Doritos",
+      "id": "funwari-meijin-kinako-mochi",
+      "name_en": "Funwari Meijin Kinako Mochi",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
-      "flavors": [
-        "cheese"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4340.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "calbee-sakura-ebi-senbei",
-      "name_en": "Calbee Sakura Ebi Senbei",
-      "name_ja": "",
-      "maker": "Calbee",
-      "category": "chips",
-      "flavors": [
-        "original"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4343.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "pretz",
-      "name_en": "Pretz",
-      "name_ja": "",
-      "maker": "Pretz",
-      "category": "cookie",
-      "flavors": [
-        "original"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4352.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "koalas-march",
-      "name_en": "Koala's March",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4354.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "bourbon-rumando-cocoa",
-      "name_en": "Bourbon Rumando Cocoa",
-      "name_ja": "",
-      "maker": "Bourbon",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate",
-        "cocoa"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4355.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "bourbon-rumando",
-      "name_en": "Bourbon Rumando",
-      "name_ja": "",
-      "maker": "Bourbon",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4357.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "meiji-almond-chocolate-matcha",
-      "name_en": "Meiji Almond Chocolate Matcha",
-      "name_ja": "",
-      "maker": "Meiji",
-      "category": "chocolate",
-      "flavors": [
-        "matcha",
-        "chocolate",
-        "almond"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4361.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "kitkat-matcha-chocolate",
-      "name_en": "KitKat Matcha Chocolate",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "matcha",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4363.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "rings-for-smiles",
-      "name_en": "Rings for Smiles",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
-      "flavors": [
-        "original"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4367.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "hi-chew-grape",
-      "name_en": "Hi-Chew Grape",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "candy",
-      "flavors": [
-        "grape"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4369.webp",
-      "photo_count": 1,
-      "article": "hi-chew-grape"
-    },
-    {
-      "id": "black-thunder",
-      "name_en": "Black Thunder",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4380.webp",
-      "photo_count": 1,
-      "article": "black-thunder"
-    },
-    {
-      "id": "hi-soft-caramel",
-      "name_en": "Hi-SOFT Caramel",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "candy",
-      "flavors": [
-        "caramel"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4388.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "toppo-matcha",
-      "name_en": "Toppo Matcha",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "matcha",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4404.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "lotte-pocky-matcha",
-      "name_en": "Lotte Pocky Matcha",
-      "name_ja": "",
-      "maker": "Lotte",
-      "category": "chocolate",
-      "flavors": [
-        "matcha",
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4405.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "chocoball",
-      "name_en": "Chocoball",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4437.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "morinaga-chocoteck",
-      "name_en": "Morinaga Chocoteck",
-      "name_ja": "",
-      "maker": "Morinaga",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4438.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "morinaga-chocoball-peanut",
-      "name_en": "Morinaga Chocoball Peanut",
-      "name_ja": "",
-      "maker": "Morinaga",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate",
-        "peanut"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4439.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "bourbon-almand",
-      "name_en": "Bourbon Almand",
-      "name_ja": "",
-      "maker": "Bourbon",
-      "category": "chocolate",
-      "flavors": [
-        "original"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4440.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "pocky",
-      "name_en": "Pocky",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4455.webp",
-      "photo_count": 1,
-      "article": "pocky-chocolate"
-    },
-    {
-      "id": "pai-no-mi",
-      "name_en": "Pai no Mi",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4456.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "befco-okaage",
-      "name_en": "Befco Okaage",
-      "name_ja": "",
-      "maker": "Befco",
-      "category": "chips",
-      "flavors": [
-        "original"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4485.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "alfort-mini-chocolate",
-      "name_en": "Alfort mini chocolate",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
-      "flavors": [
-        "chocolate"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4446.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "morinaga-hi-soft-caramel",
-      "name_en": "Morinaga Hi-SOFT caramel",
-      "name_ja": "",
-      "maker": "Morinaga",
-      "category": "candy",
-      "flavors": [
-        "caramel"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4458.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "potetring",
-      "name_en": "Potetring",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
-      "flavors": [
-        "potato"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4480.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "potato-ring",
-      "name_en": "Potato Ring",
-      "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
-      "flavors": [
-        "potato"
-      ],
-      "texture": "unknown",
-      "sweetness": 3,
-      "image": "images/webp/IMG_4482.webp",
-      "photo_count": 1
-    },
-    {
-      "id": "befco-rice-crackers",
-      "name_en": "Befco rice crackers",
-      "name_ja": "",
-      "maker": "Befco",
+      "maker": "",
       "category": "rice-cracker",
       "flavors": [
         "original"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4486.webp",
-      "photo_count": 1
+      "image": "images/webp/IMG_4473.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_4473",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4345",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4478",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4479",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4476",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4346",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "bakauke",
-      "name_en": "Bakauke",
+      "id": "bakauke-sesame-soy-sauce",
+      "name_en": "Bakauke Sesame Soy Sauce",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
+      "maker": "",
+      "category": "rice-cracker",
       "flavors": [
-        "original"
+        "sesame"
       ],
       "texture": "unknown",
       "sweetness": 3,
       "image": "images/webp/IMG_4487.webp",
-      "photo_count": 1
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_4487",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4358",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4360",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4488",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4490",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4359",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "kurimasa-honey-salt-potato-chips",
-      "name_en": "Kurimasa Honey Salt Potato Chips",
+      "id": "kitkat-matcha",
+      "name_en": "KitKat Matcha",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
+      "maker": "",
+      "category": "chocolate",
       "flavors": [
-        "salt",
-        "potato",
-        "honey"
+        "matcha"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4493.webp",
-      "photo_count": 1
+      "image": "images/webp/IMG_4408.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_4408",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4363",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4365",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4411",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4409",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4364",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "kurimoto-honey-gold",
-      "name_en": "Kurimoto Honey Gold",
+      "id": "kappa-ebisen-sakura-ebi",
+      "name_en": "Kappa Ebisen Sakura Ebi",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chips",
+      "maker": "",
+      "category": "rice-cracker",
       "flavors": [
-        "potato",
-        "honey"
+        "sakura ebi"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4496.webp",
-      "photo_count": 1
+      "image": "images/webp/IMG_4412.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4412",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4343",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4415",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4413",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4344",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "glico-tomato-pretz",
-      "name_en": "Glico Tomato Pretz",
+      "id": "tomato-pretz",
+      "name_en": "Tomato Pretz",
       "name_ja": "",
-      "maker": "Glico",
+      "maker": "",
       "category": "cookie",
       "flavors": [
         "tomato"
@@ -665,51 +334,1265 @@
       "texture": "unknown",
       "sweetness": 3,
       "image": "images/webp/IMG_4497.webp",
-      "photo_count": 1
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4497",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4349",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4350",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4498",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4351",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "pretz-tomato",
-      "name_en": "Pretz Tomato",
+      "id": "lumonde",
+      "name_en": "Lumonde",
       "name_ja": "",
-      "maker": "Pretz",
-      "category": "cookie",
+      "maker": "",
+      "category": "chocolate",
       "flavors": [
-        "tomato"
+        "original"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4498.webp",
-      "photo_count": 1
+      "image": "images/webp/IMG_4440.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4440",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4356",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4444",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4441",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4357",
+          "rank": "rank4"
+        }
+      ]
     },
     {
-      "id": "koala-no-marchi-chocolate",
-      "name_en": "Koala no Marchi Chocolate",
+      "id": "poteko",
+      "name_en": "Poteko",
       "name_ja": "",
-      "maker": "Unknown",
+      "maker": "",
+      "category": "chips",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4480.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4480",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4366",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4482",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4481",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4367",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "hi-soft-caramel-milk",
+      "name_en": "Hi-Soft Caramel Milk",
+      "name_ja": "",
+      "maker": "",
+      "category": "candy",
+      "flavors": [
+        "caramel",
+        "milk"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4458.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4458",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4387",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4459",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4461",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4388",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "chiisana-choco-pie",
+      "name_en": "Chiisana Choco Pie",
+      "name_ja": "",
+      "maker": "",
       "category": "chocolate",
       "flavors": [
-        "chocolate"
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4548.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4548",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4547",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4552",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4553",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4550",
+          "rank": "rank3"
+        }
+      ]
+    },
+    {
+      "id": "chiisana-choco-pie-rich",
+      "name_en": "Chiisana Choco Pie Rich",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4555.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4555",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4554",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4557",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4559",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4558",
+          "rank": "rank3"
+        }
+      ]
+    },
+    {
+      "id": "pure-gummy-grape",
+      "name_en": "Pure Gummy Grape",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "grape"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4676.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4676",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4608",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4678",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4643",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4611",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kitkat-rich-matcha",
+      "name_en": "KitKat Rich Matcha",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "matcha"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4320.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4320",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4317",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4322",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4318",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "pai-no-mi",
+      "name_en": "Pai no Mi",
+      "name_ja": "",
+      "maker": "",
+      "category": "cookie",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4456.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4456",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4330",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4457",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4332",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "tengu-no-piri-curry",
+      "name_en": "Tengu no Piri Curry",
+      "name_ja": "",
+      "maker": "",
+      "category": "curry-snack",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4493.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4493",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4341",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4494",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4342",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "bakauke-aonori-soy-sauce",
+      "name_en": "Bakauke Aonori Soy Sauce",
+      "name_ja": "",
+      "maker": "",
+      "category": "rice-cracker",
+      "flavors": [
+        "aonori"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4486.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4486",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4347",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4491",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4348",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "koala-no-march",
+      "name_en": "Koala no March",
+      "name_ja": "",
+      "maker": "",
+      "category": "cookie",
+      "flavors": [
+        "original"
       ],
       "texture": "unknown",
       "sweetness": 3,
       "image": "images/webp/IMG_4501.webp",
-      "photo_count": 1,
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4501",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4353",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4504",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4354",
+          "rank": "rank4"
+        }
+      ],
       "article": "koala-no-march-chocolate"
     },
     {
-      "id": "koala-no-march-chocolate",
-      "name_en": "Koala no March Chocolate",
+      "id": "kabukiage",
+      "name_en": "Kabukiage",
       "name_ja": "",
-      "maker": "Unknown",
-      "category": "chocolate",
+      "maker": "",
+      "category": "rice-cracker",
       "flavors": [
-        "chocolate"
+        "original"
       ],
       "texture": "unknown",
       "sweetness": 3,
-      "image": "images/webp/IMG_4502.webp",
-      "photo_count": 1,
-      "article": "koala-no-march-chocolate"
+      "image": "images/webp/IMG_4483.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4483",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4370",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4492",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4372",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "black-thunder",
+      "name_en": "Black Thunder",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4435.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4435",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4379",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4433",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4380",
+          "rank": "rank4"
+        }
+      ],
+      "article": "black-thunder"
+    },
+    {
+      "id": "cheese-almond-garlic",
+      "name_en": "Cheese Almond Garlic",
+      "name_ja": "",
+      "maker": "",
+      "category": "snack",
+      "flavors": [
+        "cheese",
+        "almond",
+        "garlic"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4701.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4701",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4566",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4577",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4578",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kitkat-strawberry",
+      "name_en": "KitKat Strawberry",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "strawberry"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4681.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4681",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4579",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4682",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4580",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "pure-gummy-premium-hakuto-peach",
+      "name_en": "Pure Gummy Premium Hakuto Peach",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "peach"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4654.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4654",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4595",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4656",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4596",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kaju-gummy-special-tochiaika",
+      "name_en": "Kaju Gummy Special Tochiaika",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4665.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4665",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4597",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4667",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4598",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kaju-gummy-grape",
+      "name_en": "Kaju Gummy Grape",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "grape"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4660.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4660",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4606",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4664",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4607",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "pure-gummy-lemon",
+      "name_en": "Pure Gummy Lemon",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "lemon"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4657.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4657",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4612",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4658",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4613",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kaju-gummy-mikan",
+      "name_en": "Kaju Gummy Mikan",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "mikan"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4659.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4659",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4616",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4662",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4617",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "meiji-meltykiss-strawberry",
+      "name_en": "Meiji Meltykiss Strawberry",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "strawberry"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4327.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4327",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4323",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4325",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4328",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4324",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "don-tacos-beef-chili",
+      "name_en": "Don Tacos Beef Chili",
+      "name_ja": "",
+      "maker": "",
+      "category": "chips",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4505.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_4505",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4506",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4339",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4340",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "almond-chocolate-matcha",
+      "name_en": "Almond Chocolate Matcha",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "matcha",
+        "almond"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4393.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4393",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4394",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4362",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "alfort-mini-chocolate",
+      "name_en": "Alfort Mini Chocolate",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4446.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4446",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4447",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4374",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "chocoball-peanut",
+      "name_en": "Chocoball Peanut",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "peanut"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4437.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4437",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4439",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4438",
+          "rank": "rank3"
+        }
+      ]
+    },
+    {
+      "id": "apollo",
+      "name_en": "Apollo",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4452.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4452",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4451",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4453",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "lotte-macadamia",
+      "name_en": "Lotte Macadamia",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4712.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4712",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4567",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4569",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "takenoko-no-sato",
+      "name_en": "Takenoko no Sato",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4671.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4671",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4570",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4571",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "meltykiss-premium-chocolate",
+      "name_en": "Meltykiss Premium Chocolate",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4675.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4675",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4572",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4573",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "cheese-almond",
+      "name_en": "Cheese Almond",
+      "name_ja": "",
+      "maker": "",
+      "category": "snack",
+      "flavors": [
+        "cheese",
+        "almond"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4698.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4698",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4575",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4576",
+          "rank": "rank2"
+        }
+      ]
+    },
+    {
+      "id": "takenoko-no-sato-strawberry-chocolate",
+      "name_en": "Takenoko no Sato Strawberry Chocolate",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "strawberry"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4715.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4715",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4581",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4582",
+          "rank": "rank2"
+        }
+      ]
+    },
+    {
+      "id": "lotte-almond-chocolate",
+      "name_en": "Lotte Almond Chocolate",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "almond"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4711.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4711",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4583",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4584",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kitkat",
+      "name_en": "KitKat",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4683.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4683",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4588",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4684",
+          "rank": "rank3"
+        }
+      ]
+    },
+    {
+      "id": "meiji-almond-chocolate",
+      "name_en": "Meiji Almond Chocolate",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "almond"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4717.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4717",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4591",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4592",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "kinoko-no-yama",
+      "name_en": "Kinoko no Yama",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4714.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4714",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4593",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4594",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "pure-gummy-premium-shine-muscat",
+      "name_en": "Pure Gummy Premium Shine Muscat",
+      "name_ja": "",
+      "maker": "",
+      "category": "gummy",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4669.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4669",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4599",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4602",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "meiji-macadamia",
+      "name_en": "Meiji Macadamia",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4719.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4719",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4589",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4590",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "young-donuts",
+      "name_en": "Young Donuts",
+      "name_ja": "",
+      "maker": "",
+      "category": "cookie",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4385.webp",
+      "photo_count": 2,
+      "photos": [
+        {
+          "img": "IMG_4385",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4386",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "pocky-chocolate",
+      "name_en": "Pocky Chocolate",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4454.webp",
+      "photo_count": 2,
+      "photos": [
+        {
+          "img": "IMG_4454",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4455",
+          "rank": "rank3"
+        }
+      ],
+      "article": "pocky-chocolate"
+    },
+    {
+      "id": "kitkat-otona-no-amasa",
+      "name_en": "KitKat Otona no Amasa",
+      "name_ja": "",
+      "maker": "",
+      "category": "chocolate",
+      "flavors": [
+        "original"
+      ],
+      "texture": "unknown",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4685.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4685",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4585",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4586",
+          "rank": "rank4"
+        }
+      ]
     }
   ]
 }

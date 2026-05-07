@@ -541,7 +541,6 @@
         "japanese"
       ],
       "suitable_for": [
-        "pocky-flavors-ranked",
         "japanese-chocolate-snacks-ranked",
         "matcha-flavored-japanese-snacks"
       ],
@@ -1160,7 +1159,6 @@
         "confectionery"
       ],
       "suitable_for": [
-        "pocky-flavors-ranked",
         "japanese-chocolate-snacks-ranked"
       ],
       "tagged_at": "2026-04-25 02:31"
@@ -2594,6 +2592,3786 @@
         "unique-cookies"
       ],
       "tagged_at": "2026-04-26 09:48"
+    },
+    "IMG_4314": {
+      "description": "Japanese snack food on a white background",
+      "products": [
+        "Orion Chips Original"
+      ],
+      "scene": "staged",
+      "tags": [
+        "chips",
+        "japanese snack",
+        "orion chips"
+      ],
+      "suitable_for": [
+        "japanese-snacks",
+        "japanese-chips"
+      ],
+      "tagged_at": "2026-04-26 11:26"
+    },
+    "IMG_4320": {
+      "description": "Japanese matcha KitKat chocolate snacks on a white background",
+      "products": [
+        "KitKat Matcha"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "matcha",
+        "chocolate",
+        "kitkat",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "kitkat-flavors"
+      ],
+      "tagged_at": "2026-04-26 11:26"
+    },
+    "IMG_4329": {
+      "description": "Meiji Meltykiss strawberry chocolate cubes on a white surface",
+      "products": [
+        "Meiji Meltykiss Strawberry"
+      ],
+      "scene": "staged",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "meltykiss",
+        "meiji",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "meiji-meltykiss-review"
+      ],
+      "tagged_at": "2026-04-26 11:26"
+    },
+    "IMG_4330": {
+      "description": "A box of Japanese chocolate pie snack by Lotte",
+      "products": [
+        "Pie no Mi Chocolate Pie"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "pie",
+        "snack",
+        "lotte"
+      ],
+      "suitable_for": [
+        "japanese-snacks",
+        "chocolate-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:27"
+    },
+    "IMG_4339": {
+      "description": "A bag of Japanese tortilla chips on a white background.",
+      "products": [
+        "Tohato Grand Beef Chili Taco"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "tortilla-chips",
+        "beef",
+        "chili",
+        "taco",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-snack-review",
+        "tortilla-chips-review"
+      ],
+      "tagged_at": "2026-04-26 11:27"
+    },
+    "IMG_4341": {
+      "description": "A package of Japanese curry flavored snack sticks.",
+      "products": [
+        "Curree Curree"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "curry",
+        "snack",
+        "stick",
+        "japanese"
+      ],
+      "suitable_for": [
+        "japanese-snacks",
+        "curry-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:27"
+    },
+    "IMG_4345": {
+      "description": "A bag of Japanese rice crackers on a white background.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "rice-cracker",
+        "japanese-snack",
+        "orange-packaging"
+      ],
+      "suitable_for": [
+        "japanese-snacks",
+        "rice-cracker-review"
+      ],
+      "tagged_at": "2026-04-26 11:27"
+    },
+    "IMG_4347": {
+      "description": "Bag of Japanese potato snack chips called Sakurake in green tea flavor.",
+      "products": [
+        "Sakurake"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chips",
+        "potato",
+        "japanese-snacks",
+        "green-tea",
+        "savory",
+        "rice-shaped",
+        "konbini",
+        "snack"
+      ],
+      "suitable_for": [
+        "japanese-potato-chips-ranked",
+        "green-tea-flavored-snacks",
+        "unique-japanese-snack-products",
+        "konbini-snacks-guide",
+        "savory-japanese-chips"
+      ],
+      "tagged_at": "2026-04-26 11:56"
+    },
+    "IMG_4349": {
+      "description": "Box of Glico Tomato Pretzels snack with tomato and olive oil flavor in Japan.",
+      "products": [
+        "Tomato Pretzels"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "pretzel",
+        "tomato",
+        "olive-oil",
+        "salty",
+        "japanese-snack",
+        "glico",
+        "crunchy",
+        "savory",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-savory-snacks-ranked",
+        "glico-snacks-guide",
+        "unique-japanese-flavors",
+        "salty-snacks-from-japan",
+        "pretzel-snacks-around-the-world",
+        "olive-oil-flavored-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:56"
+    },
+    "IMG_4353": {
+      "description": "Lotte Koala's Match Chocolate snack pack featuring cartoon koala characters on packaging.",
+      "products": [
+        "Lotte Koala's Match Chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "koala",
+        "snack",
+        "japanese-snack",
+        "lotte",
+        "candy",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "koala-themed-japanese-candies",
+        "lotte-snacks-guide",
+        "unique-japanese-chocolate-products",
+        "kids-friendly-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 11:57"
+    },
+    "IMG_4356": {
+      "description": "Packaged Bourbon Lemond graham crackers with caramel sticks in a purple bag from Japan.",
+      "products": [
+        "Bourbon Lemond (Graham Crackers with Caramel)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "graham-cracker",
+        "caramel",
+        "japanese-snack",
+        "purple-packaging",
+        "borbon"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "unique-japanese-cookies",
+        "caramel-chocolate-snacks",
+        "borbon-brand-snacks",
+        "graham-crackers-from-japan"
+      ],
+      "tagged_at": "2026-04-26 11:57"
+    },
+    "IMG_4358": {
+      "description": "Bag of Befco Pocky-style snack crackers with goma (sesame) flavor in Japanese packaging.",
+      "products": [
+        "Befco Pocky-style Crackers (Goma-flavored)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "cookie",
+        "rice-cracker",
+        "goma",
+        "sesame",
+        "japanese-snack",
+        "pocky-style",
+        "chips",
+        "packaged-food",
+        "befco"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "unique-japanese-crackers",
+        "pocky-style-snacks-guide",
+        "sesame-flavored-snacks",
+        "befco-products-showcase",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:57"
+    },
+    "IMG_4366": {
+      "description": "Japanese Tohato Potico potato ring snack bag with cartoon character design.",
+      "products": [
+        "Potico"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "potato",
+        "chips",
+        "japanese-snack",
+        "tohato",
+        "cartoon-character",
+        "salty",
+        "ring-shape"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "potato-chips-japan",
+        "tohato-snacks-guide",
+        "salty-snacks-japanese-market",
+        "unique-japanese-snack-designs"
+      ],
+      "tagged_at": "2026-04-26 11:57"
+    },
+    "IMG_4368": {
+      "description": "A purple package of Hi-Chew grape flavored candy",
+      "products": [
+        "Hi-Chew Grape"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "grape",
+        "candy",
+        "hi-chew",
+        "gummy"
+      ],
+      "suitable_for": [
+        "japanese-candy-snacks",
+        "hi-chew-flavors"
+      ],
+      "tagged_at": "2026-04-26 11:57"
+    },
+    "IMG_4370": {
+      "description": "A package of Japanese snack food on a white background",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "japanese",
+        "packaged",
+        "fried"
+      ],
+      "suitable_for": [
+        "japanese-snacks",
+        "asian-foods"
+      ],
+      "tagged_at": "2026-04-26 11:57"
+    },
+    "IMG_4373": {
+      "description": "Japanese chocolate snack box Alfort mini chocolate",
+      "products": [
+        "Alfort mini chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "japanese snack",
+        "biscuit"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "alfort-mini-chocolate-review"
+      ],
+      "tagged_at": "2026-04-26 11:58"
+    },
+    "IMG_4375": {
+      "description": "Meiji Apollo chocolate snack box featuring strawberry and chocolate flavors with retro Japanese design.",
+      "products": [
+        "Meiji Apollo Strawberry Chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "candy",
+        "japanese-snack",
+        "retro-design",
+        "meiji"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "retro-japanese-candy-collection",
+        "strawberry-flavored-chocolate-snacks",
+        "meiji-snacks-guide",
+        "vintage-japanese-packaging"
+      ],
+      "tagged_at": "2026-04-26 11:58"
+    },
+    "IMG_4379": {
+      "description": "Japanese snack pack labeled 'Gekisaku Senzu Black Sesame with explosive flavor and lightning design.",
+      "products": [
+        "Gekisaku Senzu (Black Sesame)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "black-sesame",
+        "japanese-snack",
+        "candy",
+        "konbini",
+        "energy-boost",
+        "lightning-themed"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "unique-japanese-candies",
+        "black-sesame-flavored-snacks",
+        "konbini-snack-guide",
+        "explosive-flavor-snacks",
+        "japanese-chocolate-variations"
+      ],
+      "tagged_at": "2026-04-26 11:58"
+    },
+    "IMG_4383": {
+      "description": "Box of Pocky chocolate sticks snack with 2 packs in a red packaging.",
+      "products": [
+        "Pocky Chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "snack",
+        "cookie",
+        "pocky",
+        "japanese-snack",
+        "candy"
+      ],
+      "suitable_for": [
+        "pocky-chocolate-snacks",
+        "japanese-chocolate-snacks",
+        "popular-japanese-candies",
+        "pocky-flavors-guide",
+        "best-chocolate-stick-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:58"
+    },
+    "IMG_4385": {
+      "description": "Packaged Japanese yakgumbda mochi snacks made with cow milk in a clear plastic tray.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "japanese-snacks",
+        "mochi",
+        "dango",
+        "rice-cracker",
+        "sweet",
+        "cow-milk",
+        "packaged-food",
+        "traditional"
+      ],
+      "suitable_for": [
+        "japanese-sweet-snacks-ranked",
+        "traditional-japanese-mochi",
+        "unique-japanese-desserts",
+        "packaged-japanese-snacks",
+        "snacks-made-with-dairy"
+      ],
+      "tagged_at": "2026-04-26 11:58"
+    },
+    "IMG_4387": {
+      "description": "Morinaga Hi-Soft caramel milk flavor Japanese snack box with scenic photo insert.",
+      "products": [
+        "Hi-Soft (Caramel Milk flavor)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "caramel",
+        "milk",
+        "snack",
+        "japanese-snack",
+        "morinaga",
+        "travel-theme",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "morinaga-snacks-guide",
+        "travel-themed-japanese-candies",
+        "caramel-flavored-snacks-japan",
+        "unique-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 11:58"
+    },
+    "IMG_4390": {
+      "description": "A half-eaten bright green matcha-flavored Japanese cookie snack from a green packaging bag.",
+      "products": [
+        "Matcha Cookie (likely 'Rich Matcha' or similar matcha-flavored snack)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "matcha",
+        "cookie",
+        "japanese-snack",
+        "green-tea",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "matcha-snacks-ranked",
+        "japanese-matcha-cookies",
+        "popular-green-tea-snacks",
+        "unique-japanese-sweets",
+        "matcha-flavored-foods"
+      ],
+      "tagged_at": "2026-04-26 11:59"
+    },
+    "IMG_4393": {
+      "description": "Green almond-shaped matcha-flavored Meiji chocolates spilling from a package.",
+      "products": [
+        "Meiji Matcha Almond"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "matcha",
+        "almond",
+        "green-tea",
+        "japanese-snack",
+        "meiji",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-matcha-snacks-ranked",
+        "meiji-chocolate-products",
+        "green-tea-flavored-candies",
+        "unique-japanese-chocolates",
+        "almond-chocolate-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:59"
+    },
+    "IMG_4396": {
+      "description": "Green matcha-flavored chocolate bar partially removed from its packaging with Japanese text.",
+      "products": [
+        "Matcha Chocolate Bar (possibly Meiji 'Matcha Green Tea Chocolate')"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "matcha",
+        "green-tea",
+        "japanese-snack",
+        "bar",
+        "meiji"
+      ],
+      "suitable_for": [
+        "japanese-matcha-snacks-ranked",
+        "best-green-tea-chocolate-bars",
+        "meiji-snacks-guide",
+        "matcha-flavored-chocolate-explained",
+        "unboxing-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 11:59"
+    },
+    "IMG_4408": {
+      "description": "Japanese KitKat and matcha-flavored snacks displayed with calorie information and packaging.",
+      "products": [
+        "KitKat Matcha (Green Tea)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "matcha",
+        "green-tea",
+        "snack",
+        "kitkat",
+        "japanese-snack",
+        "packaging"
+      ],
+      "suitable_for": [
+        "japanese-matcha-snacks-ranked",
+        "matcha-flavored-chocolate-guide",
+        "popular-japanese-kitkat-varieties",
+        "low-calorie-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 11:59"
+    },
+    "IMG_4412": {
+      "description": "Pink crab-shaped rice crackers snack from Calbee in a themed packaging with crab illustration.",
+      "products": [
+        "Calbee Crab Sticks"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "rice-cracker",
+        "crab",
+        "snack",
+        "japanese",
+        "salty",
+        "themed",
+        "calbee",
+        "seafood"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "salty-snacks-guide",
+        "seafood-flavored-crackers",
+        "calbee-products-showcase",
+        "unique-snack-shapes",
+        "konbini-snack-finds"
+      ],
+      "tagged_at": "2026-04-26 11:59"
+    },
+    "IMG_4505": {
+      "description": "Bag of Japanese Koyanagi spicy chips with triangular chips scattered around it.",
+      "products": [
+        "Koyanagi Spicy Snacks (Kirinsee Grande)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chips",
+        "spicy",
+        "snacks",
+        "japanese",
+        "triangular",
+        "koyanagi",
+        "kirinsee",
+        "crunchy"
+      ],
+      "suitable_for": [
+        "japanese-spicy-snacks-ranked",
+        "best-japanese-chips",
+        "koyanagi-snacks-review",
+        "spicy-japanese-chips-guide",
+        "unboxing-japanese-snacks"
+      ],
+      "tagged_at": "2026-04-26 11:59"
+    },
+    "IMG_4506": {
+      "description": "Golden triangular Japanese-style seasoned potato chips scattered on a white surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "chips",
+        "potato",
+        "seasoned",
+        "snack",
+        "japanese-snack",
+        "crunchy"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "best-seasoned-chips",
+        "potato-chips-guide",
+        "japanese-crunchy-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:00"
+    },
+    "IMG_4507": {
+      "description": "Crispy triangular Japanese-style seasoned chips on a white plate.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chips",
+        "seasoned",
+        "snack",
+        "triangular",
+        "crispy",
+        "japanese-snack",
+        "savory"
+      ],
+      "suitable_for": [
+        "japanese-savory-snacks-ranked",
+        "best-seasoned-chips-guide",
+        "crispy-japanese-snacks",
+        "savory-snack-ideas"
+      ],
+      "tagged_at": "2026-04-26 12:00"
+    },
+    "IMG_4547": {
+      "description": "Pack of Lotteria Cho-Cho Pie chocolate-filled cookies snack in Japan.",
+      "products": [
+        "Cho-Cho Pie"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "snack",
+        "japanese",
+        "lotteria",
+        "filled-cookie",
+        "dessert"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-filled-cookie-snacks-japan",
+        "lotteria-snacks-guide",
+        "chocolate-cookie-snacks-for-gift",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:00"
+    },
+    "IMG_4548": {
+      "description": "Assorted Lotte Choco Pie chocolate snacks displayed with packaging on a white surface.",
+      "products": [
+        "Lotte Choco Pie"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "choco-pie",
+        "snack",
+        "japanese-snack",
+        "packaging",
+        "dessert"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "choco-pie-varieties",
+        "popular-japanese-dessert-snacks",
+        "lotte-snacks-guide",
+        "chocolate-cookie-snacks-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:00"
+    },
+    "IMG_4549": {
+      "description": "Assorted Japanese chocolate snacks including Choco Hi-Chew and other round chocolate cookies on packaging.",
+      "products": [
+        "Choco Hi-Chew"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "japanese-snacks",
+        "choco",
+        "packaging",
+        "round-snacks",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "choco-hi-chew-review",
+        "unique-japanese-candy-products",
+        "chocolate-cookies-from-japan",
+        "snacks-for-gift-giving"
+      ],
+      "tagged_at": "2026-04-26 12:00"
+    },
+    "IMG_4550": {
+      "description": "Two halves of a chocolate-coated Japanese cream-filled biscuit snack on a white surface.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cream-filled",
+        "biscuit",
+        "snack",
+        "japanese-sweets",
+        "dessert"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "creamy-japanese-desserts",
+        "unique-japanese-biscuits",
+        "chocolate-covered-snacks-guide"
+      ],
+      "tagged_at": "2026-04-26 12:01"
+    },
+    "IMG_4551": {
+      "description": "Two chocolate-coated layered Japanese snacks with creamy filling on display.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "creamy",
+        "snack",
+        "japanese-snack",
+        "layered"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-layered-snacks-japan",
+        "creamy-chocolate-snacks-guide",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:01"
+    },
+    "IMG_4552": {
+      "description": "Two stacked chocolate-covered Japanese cookies with glossy chocolate glaze on white surface.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "japanese-snack",
+        "glazed"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-glazed-cookies-japan",
+        "chocolate-covered-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:01"
+    },
+    "IMG_4553": {
+      "description": "Two round chocolate-covered Japanese cookies wrapped in clear plastic packaging.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "japanese-snack",
+        "round-snack",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "unique-japanese-sweets",
+        "chocolate-covered-cookies-guide",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:01"
+    },
+    "IMG_4554": {
+      "description": "Lotte Choco Pie chocolate snack wrapped in brown packaging with Japanese text.",
+      "products": [
+        "Choco Pie"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "japanese-snack",
+        "lotte",
+        "choco-pie",
+        "chocolate-bar",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "popular-japanese-sweets",
+        "lotte-snacks-guide",
+        "choco-pie-variations",
+        "best-chocolate-bars-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:01"
+    },
+    "IMG_4555": {
+      "description": "Two round chocolate snacks and packaging of Choco Pie, a popular Japanese chocolate-covered biscuit snack.",
+      "products": [
+        "Choco Pie"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "biscuit",
+        "snack",
+        "japanese",
+        "choco-pie",
+        "cookie",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "popular-japanese-biscuit-snacks",
+        "choco-pie-variations",
+        "sweet-japanese-convenience-store-snacks",
+        "chocolate-covered-biscuit-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:02"
+    },
+    "IMG_4556": {
+      "description": "Two round chocolate snacks and packaging of Japanese chocolate cookies named Choco Pie.",
+      "products": [
+        "Choco Pie"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "japanese-snack",
+        "choco-pie",
+        "packaging",
+        "round-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "popular-japanese-cookies",
+        "choco-pie-varieties",
+        "sweet-snacks-from-japan",
+        "round-chocolate-treats"
+      ],
+      "tagged_at": "2026-04-26 12:02"
+    },
+    "IMG_4557": {
+      "description": "Two halves of a chocolate-coated layered Japanese snack with creamy filling on display.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "layered-snack",
+        "creamy-filling",
+        "japanese-snack",
+        "baked"
+      ],
+      "suitable_for": [
+        "japanese-layered-snacks-ranked",
+        "chocolate-coated-snacks-guide",
+        "creamy-filled-japanese-treats",
+        "unique-japanese-bakery-products"
+      ],
+      "tagged_at": "2026-04-26 12:02"
+    },
+    "IMG_4558": {
+      "description": "Two halves of a layered Japanese chocolate cookie snack with creamy filling on display.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "layered",
+        "creamy-filling",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-layered-cookie-snacks",
+        "unique-japanese-desserts",
+        "chocolate-filled-cookie-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:02"
+    },
+    "IMG_4559": {
+      "description": "Japanese chocolate snacks with a cross-section view of a baked treat and two chocolate-covered cookies.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "baked-snack",
+        "japanese-snacks",
+        "chocolate-covered"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "chocolate-covered-cookies-ranked",
+        "unique-japanese-baked-snacks",
+        "sweet-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:02"
+    },
+    "IMG_4560": {
+      "description": "Two boxes of Lotte Choco Pie chocolate snacks in Japanese packaging with individual pouches visible.",
+      "products": [
+        "Lotte Choco Pie"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "snack",
+        "choco-pie",
+        "japanese-snack",
+        "individual-pouch",
+        "sweet",
+        "cookie",
+        "chocolate-filled"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "popular-japanese-sweets",
+        "lotte-snacks-guide",
+        "choco-pie-varieties",
+        "convenience-store-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:03"
+    },
+    "IMG_4561": {
+      "description": "Two halves of a layered chocolate and cream snack bar wrapped in shiny foil packaging.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cream",
+        "snack-bar",
+        "foil-wrapped",
+        "japanese-snack",
+        "dessert"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-layered-snacks-japan",
+        "chocolate-cream-snacks-guide",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:03"
+    },
+    "IMG_4562": {
+      "description": "Two halves of a layered Japanese chocolate snack with creamy filling in foil packaging.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "layered-snack",
+        "creamy-filling",
+        "japanese-snack",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-layered-cookie-snacks",
+        "creamy-chocolate-snacks-guide",
+        "japanese-gift-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:03"
+    },
+    "IMG_4563": {
+      "description": "Two traditional Japanese cookies with sesame seeds on a plain background.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "cookie",
+        "sesame",
+        "traditional-japanese",
+        "snack",
+        "baked-good"
+      ],
+      "suitable_for": [
+        "traditional-japanese-snacks",
+        "homemade-japanese-cookies",
+        "sesame-seed-snacks-ranked",
+        "japanese-baked-goods-guide"
+      ],
+      "tagged_at": "2026-04-26 12:03"
+    },
+    "IMG_4566": {
+      "description": "Japanese cheese almond and banana chips snack bag with promotional discount label.",
+      "products": [
+        "Calbee Cheese Almond Banana Chips"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chips",
+        "cheese",
+        "almond",
+        "banana",
+        "snack",
+        "japanese",
+        "calbee",
+        "promotion",
+        "savory"
+      ],
+      "suitable_for": [
+        "japanese-savory-snacks-ranked",
+        "cheese-flavored-chips-guide",
+        "popular-japanese-chips",
+        "snack-promotions-japan",
+        "calbee-products-showcase"
+      ],
+      "tagged_at": "2026-04-26 12:03"
+    },
+    "IMG_4567": {
+      "description": "Lotte Macadamia Chocolates snack box with macadamia nuts and chocolate pieces.",
+      "products": [
+        "Macadamia Chocolates"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "snack",
+        "candy",
+        "gold-packaging",
+        "japanese-snack",
+        "lotte"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "macadamia-flavored-snacks",
+        "lotte-snacks-guide",
+        "premium-japanese-candy",
+        "chocolate-snacks-with-nuts"
+      ],
+      "tagged_at": "2026-04-26 12:04"
+    },
+    "IMG_4568": {
+      "description": "Lotte Macadamia Chocolate Filled Japanese snack box with macadamia nuts and chocolate pieces.",
+      "products": [
+        "Macadamia Chocolate Filled (Lotte)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "snack",
+        "candy",
+        "japanese-snack",
+        "lotte",
+        "nut-filled"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-macadamia-snacks-in-japan",
+        "lotte-snacks-guide",
+        "chocolate-filled-candies-japan",
+        "unique-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:04"
+    },
+    "IMG_4569": {
+      "description": "Lotte Macadamia Chocolate snack box with Japanese packaging and ingredients information.",
+      "products": [
+        "Macadamia Chocolate (Lotte)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "snack",
+        "japanese",
+        "lotte",
+        "nutty"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "nutty-chocolate-snacks",
+        "lotte-snacks-collection",
+        "macadamia-flavored-products",
+        "popular-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:04"
+    },
+    "IMG_4570": {
+      "description": "Japanese snack box featuring chocolate-covered cookies shaped like acorns in a green and white package.",
+      "products": [
+        "Meiji Hacuta (Chocolate Acorn Cookies)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "snack",
+        "japanese",
+        "hacuta",
+        "meiji",
+        "candy",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "unique-japanese-sweets",
+        "meiji-snacks-guide",
+        "chocolate-covered-cookies",
+        "weird-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:04"
+    },
+    "IMG_4571": {
+      "description": "Japanese snack package featuring a cookie and chocolate product with cartoon character illustration.",
+      "products": [
+        "Meiji Chocolate Cookie (possibly 'Meiji Milk Cookie' or similar)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "japanese-snack",
+        "meiji",
+        "cartoon-character",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "meiji-chocolate-products",
+        "chocolate-cookie-snacks",
+        "japanese-packaged-sweets",
+        "konbini-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:04"
+    },
+    "IMG_4572": {
+      "description": "Japanese premium chocolate snack box with snowflake design and geometric chocolate pieces.",
+      "products": [
+        "Meiji SSKY (Sparkling Chocolate)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "premium",
+        "geometric",
+        "sparkling",
+        "japanese-snack",
+        "gift",
+        "luxury",
+        "snowflake-design"
+      ],
+      "suitable_for": [
+        "japanese-premium-chocolate-snacks",
+        "luxury-japanese-chocolate-gifts",
+        "unique-chocolate-shapes-ranked",
+        "holiday-chocolate-gifts-from-japan",
+        "meiji-snacks-guide"
+      ],
+      "tagged_at": "2026-04-26 12:05"
+    },
+    "IMG_4573": {
+      "description": "Japanese chocolate snack pack featuring a cake and macadamia nut design, Meiji brand MeltyKiss.",
+      "products": [
+        "MeltyKiss (Meiji)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cake",
+        "macadamia",
+        "snack",
+        "Meiji",
+        "MeltyKiss",
+        "sweet",
+        "dessert"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "best-chocolate-cake-snacks-japan",
+        "sweet-japanese-convenience-store-finds",
+        "macadamia-nut-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:05"
+    },
+    "IMG_4574": {
+      "description": "Japanese snack pack featuring cheese amand and crackers with almonds and cheese flavor.",
+      "products": [
+        "Cheese Amand (likely Calbee's product)",
+        "Crackers with cheese flavor"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cheese",
+        "almond",
+        "cracker",
+        "snack",
+        "japanese-snack",
+        "crunchy",
+        "savory",
+        "convenience-store",
+        "calbee"
+      ],
+      "suitable_for": [
+        "japanese-savory-snacks-ranked",
+        "cheese-flavored-snacks",
+        "japanese-convenience-store-snacks",
+        "crunchy-almond-snacks",
+        "calbee-products-guide"
+      ],
+      "tagged_at": "2026-04-26 12:05"
+    },
+    "IMG_4575": {
+      "description": "Japanese snack pack of Calbee Cheese Almond Flavor Snack Crackers with cheese and almond flavors.",
+      "products": [
+        "Calbee Cheese Almond Snack Crackers"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "cracker",
+        "cheese",
+        "almond",
+        "japanese-snack",
+        "salty",
+        "konbini",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-snack-brands-ranked",
+        "cheesy-snacks-from-japan",
+        "best-almond-flavored-snacks",
+        "salty-japanese-crackers-guide",
+        "konbini-snack-favorites"
+      ],
+      "tagged_at": "2026-04-26 12:05"
+    },
+    "IMG_4576": {
+      "description": "Bag of Japanese cheese almond snack crackers with U.S. extra large almonds, packaged in clear plastic.",
+      "products": [
+        "Cheese Almond (Japanese snack cracker)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "cracker",
+        "cheese",
+        "almond",
+        "japanese-snack",
+        "rice-cracker",
+        "savory",
+        "nutty"
+      ],
+      "suitable_for": [
+        "japanese-savory-snacks-ranked",
+        "cheese-flavored-snacks",
+        "popular-japanese-crackers",
+        "almond-snacks-guide",
+        "snacks-from-japan",
+        "konbini-snack-ideas"
+      ],
+      "tagged_at": "2026-04-26 12:05"
+    },
+    "IMG_4577": {
+      "description": "Japanese cheese almond snack chips in a bag with 93% less oil claim and almond images.",
+      "products": [
+        "Cheese Almond (Calbee Snack)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chips",
+        "snack",
+        "cheese",
+        "almond",
+        "japanese-snack",
+        "low-oil",
+        "calbee",
+        "crunchy"
+      ],
+      "suitable_for": [
+        "japanese-snack-brands-ranked",
+        "low-oil-japanese-snacks",
+        "cheesy-snacks-from-japan",
+        "popular-japanese-chips",
+        "healthy-japanese-snack-options"
+      ],
+      "tagged_at": "2026-04-26 12:06"
+    },
+    "IMG_4578": {
+      "description": "Japanese cheese almond flavor snack chips in a resealable bag with ranking and flavor images.",
+      "products": [
+        "Garlic Cheese Almond Ranking Snack (likely a regional or brand-specific snack mix)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "chips",
+        "cheese",
+        "almond",
+        "garlic",
+        "japanese",
+        "seasoning",
+        "ranking",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-snack-chips-ranked",
+        "cheese-almond-flavored-snacks",
+        "japanese-seasoning-snacks",
+        "regional-japanese-snack-products",
+        "packaged-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:06"
+    },
+    "IMG_4579": {
+      "description": "KitKat strawberry flavor snack packet with images of strawberries on the packaging.",
+      "products": [
+        "KitKat Strawberry"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "snack",
+        "kitkat",
+        "japanese-snack",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "strawberry-flavored-snacks",
+        "kitkat-flavors-around-the-world",
+        "popular-japanese-sweets",
+        "convenience-store-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:06"
+    },
+    "IMG_4580": {
+      "description": "Japanese KitKat strawberry flavor snack pack with origami crane and recycling instructions.",
+      "products": [
+        "KitKat Strawberry"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "kitkat",
+        "snack",
+        "japanese",
+        "origami",
+        "recycling"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "kitkat-flavors-ranked",
+        "strawberry-snacks-japan",
+        "sustainable-packaging-snacks",
+        "unique-japanese-product-design"
+      ],
+      "tagged_at": "2026-04-26 12:06"
+    },
+    "IMG_4581": {
+      "description": "Japanese snack box featuring chocolate and jelly treats with fruit illustrations.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "jelly",
+        "fruit-flavored",
+        "snack-box",
+        "strawberry",
+        "mochi",
+        "candy",
+        "japanese-sweets",
+        "meiji"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "fruit-flavored-candies",
+        "meiji-sweets-guide",
+        "chocolate-and-jelly-treats",
+        "strawberry-themed-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:06"
+    },
+    "IMG_4582": {
+      "description": "Japanese chocolate snack package with mochi and chocolate pieces, labeled in Japanese.",
+      "products": [
+        "Mochi Chocolate Snack (Meiji brand)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "mochi",
+        "japanese-snack",
+        "meiji",
+        "sweet",
+        "candy",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "unique-japanese-candy",
+        "chocolate-mochi-combos",
+        "japanese-gift-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:07"
+    },
+    "IMG_4583": {
+      "description": "Lotte Almond Chocolate snack box with Japanese and English text, featuring almonds and chocolate pieces.",
+      "products": [
+        "Almond Chocolate (Lotte)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "snack",
+        "japanese-snack",
+        "lotte",
+        "candy",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-almond-snacks-japan",
+        "lotte-snacks-guide",
+        "premium-japanese-candy",
+        "gourmet-chocolate-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:07"
+    },
+    "IMG_4584": {
+      "description": "Lotte brand Japanese chocolate snack with almonds and hazelnuts packaging.",
+      "products": [
+        "Lotte Ammond (Hazelnut & Almond Chocolate)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "hazelnut",
+        "snack",
+        "roasted",
+        "nut-chocolate",
+        "japanese-snack",
+        "lotte"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-almond-chocolate-snacks",
+        "lotte-snacks-guide",
+        "nutty-chocolate-treats-japan",
+        "roasted-hazelnut-chocolate-products"
+      ],
+      "tagged_at": "2026-04-26 12:07"
+    },
+    "IMG_4585": {
+      "description": "Partially eaten Japanese KitKat chocolate snack in red packaging with white and red Coca-Cola branding.",
+      "products": [
+        "KitKat"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "kitkat",
+        "japanese-snack",
+        "coca-cola-collaboration",
+        "cookie",
+        "partially-eaten"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "kitkat-flavors-ranked",
+        "limited-edition-japanese-snacks",
+        "coca-cola-collaboration-snacks",
+        "best-japanese-cookie-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:07"
+    },
+    "IMG_4586": {
+      "description": "Packaged Japanese KitKat chocolate snack with origami crane design and nutritional information in Japanese.",
+      "products": [
+        "KitKat 'Otome no Kitto' (likely a limited edition or seasonal flavor)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "kitkat",
+        "origami",
+        "japanese-snack",
+        "limited-edition",
+        "nutritional-info",
+        "packaging"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "limited-edition-kitkat-flavors",
+        "unique-japanese-packaging-designs",
+        "chocolate-snacks-with-origami",
+        "japanese-sweet-treats"
+      ],
+      "tagged_at": "2026-04-26 12:07"
+    },
+    "IMG_4587": {
+      "description": "Nestle KitKat chocolate bar snack pack in Japanese packaging with a crown design.",
+      "products": [
+        "KitKat"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "kitkat",
+        "snack",
+        "japanese",
+        "crown",
+        "chocolate-bar",
+        "nestle"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "kitkat-flavors-around-the-world",
+        "popular-japanese-sweets",
+        "chocolate-snacks-from-nestle",
+        "unique-chocolate-packaging"
+      ],
+      "tagged_at": "2026-04-26 12:08"
+    },
+    "IMG_4588": {
+      "description": "Japanese KitKat chocolate snack pack with rich cocoa flavor in a red and yellow package.",
+      "products": [
+        "KitKat Rich Cocoa Chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "snack",
+        "kitkat",
+        "rich-cocoa",
+        "japanese-snack",
+        "convenience-store"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-kitkat-flavors",
+        "rich-cocoa-snacks-guide",
+        "konbini-snacks-collection",
+        "chocolate-cookie-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:08"
+    },
+    "IMG_4589": {
+      "description": "Box of Meiji Macadamia chocolate snacks called Macadamia, featuring macadamia nuts in chocolate.",
+      "products": [
+        "Meiji Macadamia"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "snack",
+        "meiji",
+        "japanese-snack",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "best-macadamia-chocolate-snacks",
+        "popular-japanese-candy",
+        "chocolate-snacks-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:08"
+    },
+    "IMG_4590": {
+      "description": "Meiji Macadamia chocolate snack packaging with nutritional and ingredient information in Japanese.",
+      "products": [
+        "Meiji Macadamia Chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "snack",
+        "japanese-snack",
+        "meiji",
+        "nutritional-info",
+        "packaging"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "macadamia-chocolate-snacks",
+        "meiji-snacks-guide",
+        "healthy-japanese-snacks",
+        "chocolate-with-nuts-ranked"
+      ],
+      "tagged_at": "2026-04-26 12:08"
+    },
+    "IMG_4591": {
+      "description": "Japanese novelty chocolate snack with almonds in a red-themed packaging labeled 'Meiji'.",
+      "products": [
+        "Meiji Almond Chocolate (possibly 'Almond Joy' or similar Meiji brand novelty chocolate)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "novelty",
+        "japanese-snack",
+        "meiji",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "novelty-chocolate-japan",
+        "best-almond-chocolate-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:09"
+    },
+    "IMG_4592": {
+      "description": "Japanese almond-flavored snack package with images of different food items and QR code for information.",
+      "products": [
+        "Meiji Almond (Almond-flavored snack)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "almond",
+        "snack",
+        "japanese",
+        "meiji",
+        "qr-code",
+        "food-packaging",
+        "konbini",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-almond-snacks",
+        "meiji-snacks-review",
+        "japanese-convenience-store-snacks",
+        "almond-flavored-candies-ranked",
+        "japanese-food-packaging-design"
+      ],
+      "tagged_at": "2026-04-26 12:09"
+    },
+    "IMG_4593": {
+      "description": "Meiji 50th anniversary limited edition matcha green tea cookies box with chocolate heart shapes.",
+      "products": [
+        "Meiji Green Tea (Matcha) Cookies",
+        "Meiji Mother's Blend Tea"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "matcha",
+        "green-tea",
+        "cookies",
+        "heart-shapes",
+        "50th-anniversary",
+        "meiji",
+        "gift",
+        "japanese-snacks"
+      ],
+      "suitable_for": [
+        "japanese-green-tea-snacks",
+        "limited-edition-japanese-sweets",
+        "matcha-flavored-cookies-ranked",
+        "japanese-gift-snacks",
+        "meiji-snacks-collection",
+        "anniversary-edition-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:09"
+    },
+    "IMG_4594": {
+      "description": "Japanese chocolate snack box with cartoon character and nutritional information in Japanese.",
+      "products": [
+        "Meiji Milk Chocolate (possibly 'Hello Purochin' or similar Meiji chocolate snack)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "snack",
+        "cartoon",
+        "japanese",
+        "meiji",
+        "milk",
+        "candy",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "meiji-snacks",
+        "cartoon-character-packaged-snacks",
+        "japanese-milk-chocolate-products",
+        "convenience-store-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:09"
+    },
+    "IMG_4595": {
+      "description": "Japanese Hakuto Peach Premium sweet and sour fruit gummy snack in a red package.",
+      "products": [
+        "Hakuto Peach Premium"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "fruit-gummy",
+        "japanese-snacks",
+        "peach",
+        "sweet-sour",
+        "candy",
+        "gummy",
+        "premium"
+      ],
+      "suitable_for": [
+        "japanese-fruit-gummies-ranked",
+        "sweet-sour-snacks-japan",
+        "unique-japanese-candy",
+        "peach-flavored-snacks",
+        "premium-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:09"
+    },
+    "IMG_4596": {
+      "description": "Pure Premium Japanese snack pack with strawberry flavor, individually sealed and packaged.",
+      "products": [
+        "Pure Premium Strawberry"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "strawberry",
+        "premium",
+        "japanese-snack",
+        "individually-packaged",
+        "candy",
+        "gummy"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "strawberry-flavored-japanese-candies",
+        "premium-japanese-sweets",
+        "individually-packaged-snacks-japan",
+        "gummy-candy-japanese-market"
+      ],
+      "tagged_at": "2026-04-26 12:10"
+    },
+    "IMG_4597": {
+      "description": "Packaged Japanese strawberry-flavored mochi jelly snack in red foil wrapper with gold accents.",
+      "products": [
+        "Mochi Jelly (Strawberry flavor)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "strawberry",
+        "jelly",
+        "mochi",
+        "japanese-snack",
+        "gummy",
+        "candy",
+        "sweet",
+        "red-wrapper",
+        "gold-accent"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "mochi-candy-guide",
+        "gummy-sweets-ranked",
+        "red-packaged-japanese-candy",
+        "strawberry-flavored-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:10"
+    },
+    "IMG_4598": {
+      "description": "Japanese snack package with special gift strawberry flavor and QR code for product information.",
+      "products": [
+        "Meiji Special Gift Strawberry (likely a type of chocolate or confectionery)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "gift",
+        "QR-code",
+        "japanese-snack",
+        "special-edition",
+        "meiji"
+      ],
+      "suitable_for": [
+        "japanese-gift-snacks",
+        "strawberry-flavored-chocolate-ranked",
+        "meiji-snacks-collection",
+        "limited-edition-japanese-candy",
+        "qr-code-japanese-products"
+      ],
+      "tagged_at": "2026-04-26 12:10"
+    },
+    "IMG_4599": {
+      "description": "Kanro Pure Premium Shine Muscat sparkling green grape soda gummy snack in a green package.",
+      "products": [
+        "Kanro Pure Premium Shine Muscat"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "candy",
+        "sparkling",
+        "fruit-flavored",
+        "green-grape",
+        "sweet-sour",
+        "japanese-snack",
+        "soda-gummy"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies-ranked",
+        "sparkling-snacks-japan",
+        "unique-japanese-candy-flavors",
+        "sweet-sour-snacks-guide",
+        "kanro-snacks-collection",
+        "fruit-flavored-japanese-candies"
+      ],
+      "tagged_at": "2026-04-26 12:10"
+    },
+    "IMG_4601": {
+      "description": "Kanro Pure Premium Shine Muscat sweet and sour fruit soda gummy snack in green grape flavor packaging.",
+      "products": [
+        "Kanro Pure Premium Shine Muscat"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "fruit-flavored",
+        "soda",
+        "sparkling",
+        "green-grape",
+        "japanese-snack",
+        "candy",
+        "sweet-sour"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies-ranked",
+        "unique-japanese-snacks",
+        "sparkling-snacks-from-japan",
+        "sweet-sour-candy-flavors",
+        "kanro-snacks-review",
+        "green-grape-flavored-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:10"
+    },
+    "IMG_4602": {
+      "description": "Pure Premium Shine Mask Cut gummy snack package with fruit juice flavor in Japanese packaging.",
+      "products": [
+        "Pure Premium Shine Mask Cut"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "fruit-juice",
+        "candy",
+        "fruit-flavored",
+        "mask-cut",
+        "premium",
+        "snack",
+        "japanese-snack",
+        "fruit-gum"
+      ],
+      "suitable_for": [
+        "japanese-gummy-snacks",
+        "fruit-flavored-candies-ranked",
+        "premium-japanese-snacks",
+        "unique-shape-gummies",
+        "healthy-snack-options-japan",
+        "fruit-juice-gum-products"
+      ],
+      "tagged_at": "2026-04-26 12:11"
+    },
+    "IMG_4603": {
+      "description": "Japanese sweet and sour green grape-flavored soda gummy snack package from Kanro Premium Punch line.",
+      "products": [
+        "Premium Punch Shine Muscat (Green Grape)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "japanese-snacks",
+        "gummy",
+        "soda-flavored",
+        "fruit-flavored",
+        "green-grape",
+        "sweet-sour",
+        "premium-punch",
+        "kanro",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "sweet-sour-snacks-ranked",
+        "unique-japanese-flavors",
+        "premium-japanese-candy",
+        "green-grape-flavored-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:11"
+    },
+    "IMG_4604": {
+      "description": "Premium Japanese Hakuto Peach sweet and sour fruit gummy snack in a red pouch.",
+      "products": [
+        "Hakuto Peach Premium"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "fruit-flavored",
+        "japanese-snack",
+        "sweet-sour",
+        "peach",
+        "candy",
+        "premium"
+      ],
+      "suitable_for": [
+        "japanese-gummy-snacks-ranked",
+        "sweet-sour-candy-guide",
+        "best-japanese-fruit-flavored-snacks",
+        "premium-japanese-candy-collection",
+        "unique-japanese-sweets-to-try"
+      ],
+      "tagged_at": "2026-04-26 12:11"
+    },
+    "IMG_4605": {
+      "description": "Packaged Japanese Pufu rice crackers snack with flavor and nutritional information in Japanese.",
+      "products": [
+        "Pufu Rice Crackers"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "snack",
+        "rice-cracker",
+        "japanese-snack",
+        "pufu",
+        "savory",
+        "konbini",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-savory-snacks",
+        "popular-japanese-rice-crackers",
+        "konbini-snack-guide",
+        "pufu-flavors-explained",
+        "japanese-packaged-food"
+      ],
+      "tagged_at": "2026-04-26 12:11"
+    },
+    "IMG_4606": {
+      "description": "Packaged Japanese purple sweet grapes snack called 'Mitsuba Sweet' with 100 pieces per pack.",
+      "products": [
+        "Mitsuba Sweet Grapes"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "grapes",
+        "snack",
+        "fruit",
+        "japanese-snack",
+        "sweet",
+        "packaged-food",
+        "mitsuba"
+      ],
+      "suitable_for": [
+        "japanese-fruit-snacks",
+        "sweet-grape-snacks",
+        "mitsuba-products",
+        "healthy-snacks-japan",
+        "konbini-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:11"
+    },
+    "IMG_4607": {
+      "description": "Japanese plum powder snack pack with collagen and vitamin C, made by Meiji.",
+      "products": [
+        "Meiji Gelatin Plum Powder Snack (Rin-Go Sericin)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "japanese-snack",
+        "plum",
+        "powder-snack",
+        "collagen",
+        "vitamin-c",
+        "health-food",
+        "meiji",
+        "gummy-texture",
+        "functional-food",
+        "sericin"
+      ],
+      "suitable_for": [
+        "japanese-health-snacks-ranked",
+        "plum-flavored-snacks-guide",
+        "meiji-snacks-collection",
+        "collagen-rich-japanese-foods",
+        "unique-japanese-powder-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:12"
+    },
+    "IMG_4608": {
+      "description": "Pack of Japanese grape-flavored sweet and sour fruit gummy candy in a colorful packaging.",
+      "products": [
+        "Hi-Chew Grape"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "fruit",
+        "grape",
+        "sweet",
+        "sour",
+        "candy",
+        "japanese-snack",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "sweet-and-sour-snacks",
+        "grape-flavored-candy",
+        "japanese-fruit-gummies-ranked",
+        "unique-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:12"
+    },
+    "IMG_4609": {
+      "description": "Pack of Ranro sweet and sour grape-flavored fruit gummy candy in Japan.",
+      "products": [
+        "Ranro Grape Sweet & Sour Fruit Gummy"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "fruit",
+        "grape",
+        "sweet-sour",
+        "candy",
+        "japanese-snack",
+        "ranro",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "sweet-sour-snacks-ranked",
+        "ranro-products",
+        "grape-flavored-candies",
+        "japanese-fruit-gummies"
+      ],
+      "tagged_at": "2026-04-26 12:12"
+    },
+    "IMG_4611": {
+      "description": "Pack of Purrin Pure Gummy 15 Colors Japanese jelly snacks with allergen and nutrition information.",
+      "products": [
+        "Purrin Pure Gummy 15 Colors"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "jelly",
+        "snack",
+        "candy",
+        "japanese-snack",
+        "fruit-flavored",
+        "children-snack",
+        "allergen-info",
+        "nutrition-facts"
+      ],
+      "suitable_for": [
+        "japanese-gummy-snacks",
+        "kids-snacks-japan",
+        "fruit-flavored-candies-ranked",
+        "japanese-candy-collection",
+        "snacks-with-nutrition-info",
+        "allergen-friendly-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:12"
+    },
+    "IMG_4612": {
+      "description": "Lemon-flavored sweet and sour gummy snack package from Japan with cartoonish design and lemon slice graphic.",
+      "products": [
+        "Lemon-flavored 'Lemmon lee' Sweet & Sour Fruit Gummy"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "lemon",
+        "sour",
+        "sweet",
+        "fruit",
+        "candy",
+        "japanese-snack",
+        "cartoonish-design"
+      ],
+      "suitable_for": [
+        "japanese-sour-candy-ranked",
+        "lemon-flavored-snacks-guide",
+        "unique-japanese-gummies",
+        "sweet-and-sour-candy-collection",
+        "kids-friendly-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:12"
+    },
+    "IMG_4613": {
+      "description": "Packaged Japanese gummy candy with 15 flavors, labeled as Putee Gummy Colors.",
+      "products": [
+        "Putee Gummy Colors"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "candy",
+        "japanese-snack",
+        "fruit-flavored",
+        "vitamin-c",
+        "collagen",
+        "packaged-snack"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies-ranked",
+        "healthy-snacks-japan",
+        "vitamin-enriched-candies",
+        "kids-snacks-japanese-market",
+        "collagen-supplement-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:13"
+    },
+    "IMG_4614": {
+      "description": "Pack of Japanese frozen grapes labeled as 'Sweet Black Grapes 1000' with fresh appearance.",
+      "products": [
+        "Sweet Black Grapes (possibly 'Meiji' brand frozen grapes)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "grapes",
+        "frozen",
+        "fruit",
+        "japanese-snack",
+        "meiji",
+        "healthy-snack",
+        "convenience-store"
+      ],
+      "suitable_for": [
+        "japanese-frozen-fruits",
+        "healthy-snacks-in-japan",
+        "meiji-brand-products",
+        "convenience-store-findings",
+        "frozen-grapes-guide"
+      ],
+      "tagged_at": "2026-04-26 12:13"
+    },
+    "IMG_4615": {
+      "description": "Packaged Japanese plum-flavored gummy snack with collagen and vitamin C from Meiji.",
+      "products": [
+        "Meiji Plum Gummies (possibly 'Ringo Collagen' series)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "plum",
+        "fruit-flavored",
+        "collagen",
+        "vitamin-C",
+        "japanese-snack",
+        "health-focused",
+        "meiji"
+      ],
+      "suitable_for": [
+        "japanese-health-gummies-ranked",
+        "fruit-flavored-snacks-japan",
+        "collagen-supplements-in-snacks",
+        "meiji-snacks-collection",
+        "plum-flavored-candy-guide"
+      ],
+      "tagged_at": "2026-04-26 12:13"
+    },
+    "IMG_4616": {
+      "description": "Japanese snack pack featuring yuzu citrus fruit flavor with 100% juice content.",
+      "products": [
+        "Yuzu-flavored candy (Meiji brand)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "yuzu",
+        "citrus",
+        "candy",
+        "snack",
+        "fruit-flavored",
+        "japanese-snack",
+        "meiji",
+        "100-percent-juice"
+      ],
+      "suitable_for": [
+        "japanese-fruit-flavored-snacks",
+        "yuzu-snacks-ranked",
+        "unique-japanese-candies",
+        "meiji-snacks-collection",
+        "citrus-flavored-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:13"
+    },
+    "IMG_4617": {
+      "description": "Japanese collagen snack pack from Meiji with citrus flavor and added vitamin E, displayed on a flat surface.",
+      "products": [
+        "Meiji Gelatin Citrus Flavor Snack (リンゴ・ゼラチン)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "collagen",
+        "citrus",
+        "flavor",
+        "snack",
+        "vitamin",
+        "vitamin-E",
+        "meiji",
+        "japanese-snack",
+        "health-food",
+        "fruit-flavored"
+      ],
+      "suitable_for": [
+        "japanese-health-snacks-ranked",
+        "collagen-snacks-japan",
+        "citrus-flavored-japanese-products",
+        "meiji-snacks-review",
+        "vitamin-enriched-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:13"
+    },
+    "IMG_4618": {
+      "description": "Two Meiji chocolate snacks boxes themed as mushrooms from a fantasy forest, celebrating an anniversary.",
+      "products": [
+        "Meiji Chocolate Snack 'Shiitake no Oo-sama' (King of Shiitake Mushroom)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "snack",
+        "mushroom-themed",
+        "japanese-snack",
+        "meiji",
+        "fantasy",
+        "anniversary",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "unique-japanese-snack-themes",
+        "meiji-snacks-collection",
+        "anniversary-edition-snacks-japan",
+        "fun-mushroom-themed-candies"
+      ],
+      "tagged_at": "2026-04-26 12:14"
+    },
+    "IMG_4619": {
+      "description": "Two boxes of Meiji chocolate-coated biscuit snacks with green tea and strawberry flavors displayed side by side.",
+      "products": [
+        "Meiji Chocolate Biscuit (Green Tea Flavor)",
+        "Meiji Chocolate Biscuit (Strawberry Flavor)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "biscuit",
+        "green-tea",
+        "strawberry",
+        "snack",
+        "japanese",
+        "meiji",
+        "gift",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "green-tea-flavored-snacks",
+        "strawberry-snacks-japan",
+        "best-japanese-biscuit-snacks",
+        "chocolate-coated-biscuits-review"
+      ],
+      "tagged_at": "2026-04-26 12:14"
+    },
+    "IMG_4620": {
+      "description": "Four boxes of Japanese almond and macadamia nut chocolates from Lotte and Meiji brands displayed together.",
+      "products": [
+        "Almond Chocolate (Lotte)",
+        "Macadamia Chocolate (Lotte)",
+        "Almond Chocolate (Meiji)",
+        "Macadamia Chocolate (Meiji)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "macadamia",
+        "nut",
+        "Lotte",
+        "Meiji",
+        "Japanese-snacks",
+        "gourmet",
+        "chocolates"
+      ],
+      "suitable_for": [
+        "japanese-nut-chocolates-ranked",
+        "lotte-chocolate-varieties",
+        "meiji-chocolate-products",
+        "gourmet-chocolate-snacks-japan",
+        "best-almond-chocolates",
+        "best-macadamia-chocolates"
+      ],
+      "tagged_at": "2026-04-26 12:14"
+    },
+    "IMG_4621": {
+      "description": "Two Lotte brand Japanese chocolate snacks: Almond Chocolate and Macadamia Chocolate bars displayed side by side.",
+      "products": [
+        "Almond Chocolate (Lotte)",
+        "Macadamia Chocolate (Lotte)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "macadamia",
+        "snack",
+        "japanese",
+        "lotte",
+        "nutty"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-bars-ranked",
+        "nutty-chocolate-snacks",
+        "lotte-snacks-guide",
+        "best-chocolate-almond-macadamia",
+        "japanese-sweet-treats"
+      ],
+      "tagged_at": "2026-04-26 12:14"
+    },
+    "IMG_4622": {
+      "description": "Two boxes of Meiji almond and macadamia nut chocolates displayed side by side.",
+      "products": [
+        "Meiji Almond Chocolate",
+        "Meiji Macadamia Chocolate"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "macadamia",
+        "nut",
+        "japanese-snack",
+        "meiji"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-nut-chocolates-japan",
+        "meiji-snacks-guide",
+        "chocolate-with-nuts",
+        "japanese-gift-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:14"
+    },
+    "IMG_4623": {
+      "description": "Two boxes of Japanese macadamia nut chocolate snacks from Lotte and Meiji brands displayed together.",
+      "products": [
+        "Lotte Macadamia Chocolate",
+        "Meiji Macadamia"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "nut",
+        "snack",
+        "Lotte",
+        "Meiji",
+        "Japanese",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-macadamia-chocolate-bars",
+        "lotte-snacks-guide",
+        "meiji-snacks-guide",
+        "nutty-chocolate-treats",
+        "gourmet-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:15"
+    },
+    "IMG_4624": {
+      "description": "Two boxes of Almond Chocolate snacks from Meiji and Lotte brands displayed side by side.",
+      "products": [
+        "Almond (Meiji), Almond Chocolate 2 (Lotte)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "snack",
+        "japanese-snacks",
+        "meiji",
+        "lotte",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "almond-flavored-snacks-guide",
+        "meiji-snacks-collection",
+        "lotte-snacks-highlights",
+        "popular-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:15"
+    },
+    "IMG_4641": {
+      "description": "Purple glittery Japanese candy resembling grapes in packaging and loose form.",
+      "products": [
+        "Hi-Chew (Grapes flavor)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "candy",
+        "glittery",
+        "grapes",
+        "japanese-snack",
+        "hi-chew",
+        "sweet",
+        "packaged",
+        "individual"
+      ],
+      "suitable_for": [
+        "japanese-candy-guide",
+        "glittery-snacks-ranked",
+        "unique-japanese-sweets",
+        "hi-chew-flavors",
+        "kawaii-candy-collection"
+      ],
+      "tagged_at": "2026-04-26 12:15"
+    },
+    "IMG_4642": {
+      "description": "Three round dusted Japanese strawberry-flavored candy snacks on white surface.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "strawberry",
+        "candy",
+        "dusted-sugar",
+        "japanese-snack",
+        "round-sweets"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "unique-japanese-candies",
+        "sweet-dusted-sugar-snacks",
+        "japanese-dessert-candy"
+      ],
+      "tagged_at": "2026-04-26 12:15"
+    },
+    "IMG_4643": {
+      "description": "Powdered sugar-coated Japanese strawberry-flavored candy balls next to a purple packaging bag.",
+      "products": [
+        "Strawberry-flavored Japanese candy (possibly 'Strawberry Pocky' or similar powdered candy balls)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "strawberry",
+        "candy",
+        "powdered-sugar",
+        "japanese-snack",
+        "gummy-like",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "powdered-sugar-candies-ranked",
+        "unique-japanese-candy-guide",
+        "strawberry-flavored-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:16"
+    },
+    "IMG_4654": {
+      "description": "Japanese Kanto Premium White Peach Fruit Gummy candy in heart shapes next to packaging.",
+      "products": [
+        "Kanto Premium White Peach Fruit Gummy"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "fruit-flavored",
+        "candy",
+        "japanese-snack",
+        "heart-shape",
+        "peach",
+        "premium",
+        "kanto"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies-ranked",
+        "fruit-flavored-snacks-japan",
+        "premium-japanese-candy-guide",
+        "unique-japanese-sweets",
+        "peach-flavored-candy-collection"
+      ],
+      "tagged_at": "2026-04-26 12:16"
+    },
+    "IMG_4655": {
+      "description": "Sugar-coated Japanese strawberry-shaped candy snacks dusted with powdered sugar on white surface.",
+      "products": [],
+      "scene": "staged",
+      "tags": [
+        "candy",
+        "strawberry",
+        "sugar-coated",
+        "japanese-snack",
+        "gummy",
+        "powdered-sugar",
+        "fruit-shaped"
+      ],
+      "suitable_for": [
+        "japanese-candy-snacks-ranked",
+        "unique-japanese-sweets",
+        "fruit-shaped-candies-guide",
+        "sugar-coated-snacks-collection"
+      ],
+      "tagged_at": "2026-04-26 12:16"
+    },
+    "IMG_4656": {
+      "description": "Sugar-coated Japanese apple-shaped candy snacks next to a packaged apple.",
+      "products": [
+        "Japanese apple-shaped candy (possibly 'Ringo Ame' or similar)"
+      ],
+      "scene": "staged",
+      "tags": [
+        "candy",
+        "apple-shaped",
+        "sugar-coated",
+        "japanese-sweets",
+        "fruit-flavored",
+        "konbini-snack",
+        "gummy"
+      ],
+      "suitable_for": [
+        "japanese-candy-guide",
+        "unique-snacks-from-japan",
+        "sweet-apple-flavored-candies",
+        "konbini-snack-ideas",
+        "sugar-coated-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:16"
+    },
+    "IMG_4657": {
+      "description": "Japanese lemon-flavored jelly candies in packaging with a lemon slice and two pieces shown.",
+      "products": [
+        "Hi-Chew Lemon",
+        "Lemon Jelly Candy"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "jelly",
+        "lemon",
+        "candy",
+        "japanese-snacks",
+        "fruit-flavored",
+        "gummy",
+        "sour",
+        "packaging"
+      ],
+      "suitable_for": [
+        "japanese-lemon-snacks",
+        "sour-candy-guide",
+        "popular-japanese-gummies",
+        "unboxing-japanese-candy",
+        "fruit-flavored-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:16"
+    },
+    "IMG_4658": {
+      "description": "Two lemon-flavored Japanese fruit gummies with lemon slices and packaging in background.",
+      "products": [
+        "Lemon Pery (or similar lemon-flavored fruit gummy candy)"
+      ],
+      "scene": "staged",
+      "tags": [
+        "lemon",
+        "fruit",
+        "gummy",
+        "candy",
+        "japanese-snacks",
+        "sour",
+        "sugar-coated"
+      ],
+      "suitable_for": [
+        "japanese-fruit-gummies-ranked",
+        "sour-lemon-candies-guide",
+        "unique-japanese-snacks-to-try",
+        "lemon-flavored-sweets-collection"
+      ],
+      "tagged_at": "2026-04-26 12:17"
+    },
+    "IMG_4659": {
+      "description": "Japanese candy bag labeled Oishii Mikan with sliced dried mandarin oranges beside it.",
+      "products": [
+        "Oishii Mikan (dried mandarin orange candy)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "candy",
+        "dried-fruit",
+        "mandarin-orange",
+        "japanese-snack",
+        "gift",
+        "fruit-snack"
+      ],
+      "suitable_for": [
+        "japanese-dried-fruit-snacks",
+        "unique-japanese-candies",
+        "oishii-mikan-review",
+        "traditional-japanese-gifts",
+        "healthy-snacks-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:17"
+    },
+    "IMG_4660": {
+      "description": "Packaged and loose black gummy Japanese snacks resembling grapes or black plum mochi.",
+      "products": [
+        "Black Grapes Gummy (possibly 'Black Plum Mochi' or similar Japanese gummy snack)"
+      ],
+      "scene": "staged",
+      "tags": [
+        "gummy",
+        "black-plum",
+        "mochi",
+        "japanese-snack",
+        "candy",
+        "fruit-shaped",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-black-snacks-ranked",
+        "unique-gummy-candies",
+        "weird-japanese-candy-guide",
+        "black-plum-flavored-sweets",
+        "kawaii-food-photography"
+      ],
+      "tagged_at": "2026-04-26 12:17"
+    },
+    "IMG_4661": {
+      "description": "Three dark red gummy snacks shaped like clusters resembling black grapes or berries on a white surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "gummy",
+        "candy",
+        "fruit-shaped",
+        "dark-red",
+        "cluster-snack"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "unusual-snacks-ranked",
+        "weird-japanese-candy",
+        "dark-chocolate-flavored-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:17"
+    },
+    "IMG_4662": {
+      "description": "Three orange-colored gummy lemon slices resembling Japanese candy snacks on a light surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "gummy",
+        "lemon-flavored",
+        "candy",
+        "japanese-snack",
+        "fruit-shaped"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "lemon-flavored-snacks",
+        "unique-japanese-candy-shapes",
+        "fruit-shaped-gummies-ranked"
+      ],
+      "tagged_at": "2026-04-26 12:17"
+    },
+    "IMG_4663": {
+      "description": "Three orange gummy candies shaped like mandarin orange slices on a light surface.",
+      "products": [],
+      "scene": "staged",
+      "tags": [
+        "gummy",
+        "candy",
+        "mandarin-orange",
+        "fruit-flavored",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "fruit-flavored-snacks-ranked",
+        "unique-japanese-candy-shapes",
+        "sweet-treats-for-kids"
+      ],
+      "tagged_at": "2026-04-26 12:18"
+    },
+    "IMG_4664": {
+      "description": "Three dark-colored grape-shaped Japanese gummy candies on a flat surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "gummy",
+        "candy",
+        "grape-flavored",
+        "japanese-snacks",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-candy-guide",
+        "unique-japanese-sweets",
+        "gummy-candies-ranked",
+        "sweet-snacks-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:18"
+    },
+    "IMG_4665": {
+      "description": "Red strawberry-shaped Japanese gummy candies in packaging with individual chewy pieces shown.",
+      "products": [
+        "Japanese strawberry gummies",
+        "Strawberry candy (traditional red envelope style)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "candy",
+        "gummy",
+        "strawberry",
+        "traditional",
+        "red-envelope",
+        "Japanese-sweets",
+        "chewy"
+      ],
+      "suitable_for": [
+        "traditional-japanese-candies",
+        "strawberry-flavored-snacks-ranked",
+        "japanese-red-envelope-sweets",
+        "chewy-gummy-candies-guide",
+        "unique-japanese-candy-experience"
+      ],
+      "tagged_at": "2026-04-26 12:18"
+    },
+    "IMG_4667": {
+      "description": "Three dried persimmons or kaki fruits arranged on a white surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "dried-fruit",
+        "persimmon",
+        "kaki",
+        "snack",
+        "traditional",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-traditional-snacks",
+        "healthy-japanese-snacks",
+        "dried-fruit-guide",
+        "persimmon-benefits"
+      ],
+      "tagged_at": "2026-04-26 12:18"
+    },
+    "IMG_4668": {
+      "description": "Three red-hued round Japanese mochi or rice crackers with filling visible.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "mochi",
+        "rice-cracker",
+        "red-bean",
+        "japanese-snack",
+        "traditional-sweet",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-traditional-sweets",
+        "mochi-varieties-ranked",
+        "red-bean-filled-snacks",
+        "unique-japanese-candies",
+        "konnichiwa-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:18"
+    },
+    "IMG_4669": {
+      "description": "Japanese candy snack Happods Winter Melon in packaging with some pieces outside.",
+      "products": [
+        "Happods Winter Melon"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "candy",
+        "japanese-snacks",
+        "winter-melon",
+        "happods",
+        "gummy",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-candy-snacks-ranked",
+        "unique-japanese-sweets",
+        "winter-melon-candy-guide",
+        "happods-product-showcase",
+        "unboxing-japanese-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:18"
+    },
+    "IMG_4670": {
+      "description": "Green lime-flavored Japanese candy called 'Shine Muscat' in a pack with some pieces outside.",
+      "products": [
+        "Shine Muscat"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "candy",
+        "sour",
+        "lime",
+        "green-grape",
+        "japanese-snacks",
+        "gummy",
+        "soda-gummy",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-sour-candies-ranked",
+        "best-japanese-gummy-candies",
+        "unique-japanese-flavored-snacks",
+        "lime-flavored-candy-guide",
+        "sweet-and-sour-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:19"
+    },
+    "IMG_4671": {
+      "description": "Japanese snack package and cookies resembling wasabi-flavored treats with green bamboo packaging.",
+      "products": [
+        "Meiji Wasabi-flavored cookies (likely 'Wasabi Peppor' or similar)"
+      ],
+      "scene": "staged",
+      "tags": [
+        "chocolate",
+        "wasabi",
+        "cookie",
+        "japanese-snack",
+        "green-packaging",
+        "meiji",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "unique-flavored-cookies",
+        "wasabi-food-guide",
+        "meiji-snacks-collection",
+        "unusual-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:19"
+    },
+    "IMG_4672": {
+      "description": "Pack of Meiji Milk Ski-Ki premium chocolate squares with three pieces outside the box.",
+      "products": [
+        "Meiji Milk Ski-Ki"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "premium",
+        "ski-ki",
+        "meiji",
+        "milk",
+        "gift",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-premium-chocolate-snacks",
+        "meiji-snacks-reviewed",
+        "luxury-chocolate-squares-ranked",
+        "best-japanese-chocolate-gifts",
+        "unboxing-japanese-confectionery"
+      ],
+      "tagged_at": "2026-04-26 12:19"
+    },
+    "IMG_4673": {
+      "description": "Meiji MeltyKiss premium chocolate squares in packaging with snowflake design and gold accents.",
+      "products": [
+        "Meiji MeltyKiss"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "premium",
+        "gift",
+        "snowflake",
+        "gold-foil",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-brands-ranked",
+        "premium-chocolate-snacks-japan",
+        "luxury-japanese-chocolates",
+        "giftable-japanese-sweets",
+        "winter-chocolate-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:19"
+    },
+    "IMG_4674": {
+      "description": "Meiji MeltyKiss premium chocolate squares in festive packaging with foil wrapper.",
+      "products": [
+        "Meiji MeltyKiss"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "premium",
+        "squares",
+        "gift",
+        "festive",
+        "gold-foil"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "premium-chocolate-gifts-japan",
+        "festive-chocolate-snacks",
+        "meiji-snacks-guide",
+        "luxury-chocolate-experience"
+      ],
+      "tagged_at": "2026-04-26 12:20"
+    },
+    "IMG_4675": {
+      "description": "Meiji MeltyKiss premium chocolate squares in festive packaging with four pieces outside.",
+      "products": [
+        "Meiji MeltyKiss"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "gift",
+        "premium",
+        "squares",
+        "festive",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "premium-chocolate-gifts-from-japan",
+        "festive-chocolate-boxes",
+        "meiji-snacks-guide",
+        "luxury-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:20"
+    },
+    "IMG_4676": {
+      "description": "Sweet and sour grape-flavored gummy snacks in a colorful Japanese packaging with three shiny candies outside.",
+      "products": [
+        "Japanese Sweet & Sour Grape Gummy"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "gummy",
+        "candy",
+        "grape",
+        "sweet-and-sour",
+        "Japanese-snack",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-candy-guide",
+        "sweet-and-sour-gummies-ranked",
+        "unique-japanese-snacks",
+        "grape-flavored-candies",
+        "kids-friendly-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:20"
+    },
+    "IMG_4677": {
+      "description": "Three round Japanese strawberry-flavored candy snacks with white sugar crystals on white surface.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "strawberry",
+        "candy",
+        "sugar-crystal",
+        "japanese-snack",
+        "gummy-texture",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "unique-japanese-candies",
+        "sweet-sugar-crystal-snacks",
+        "japanese-gift-candy",
+        "unusual-japanese-candy"
+      ],
+      "tagged_at": "2026-04-26 12:20"
+    },
+    "IMG_4678": {
+      "description": "Three dusted strawberry-flavored Japanese gummy snacks next to a colorful candy wrapper.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "strawberry",
+        "gummy",
+        "candy",
+        "japanese-snacks",
+        "dusting",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "unique-japanese-candies",
+        "gummy-snacks-from-japan",
+        "sweet-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:20"
+    },
+    "IMG_4679": {
+      "description": "Four colorful Japanese sugar-coated candy snacks displayed on a flat surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "candy",
+        "sugar-coated",
+        "japanese-snacks",
+        "gummy",
+        "colorful",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-candy-snacks",
+        "colorful-sweets-ranked",
+        "sugar-coated-candies-guide",
+        "unique-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:21"
+    },
+    "IMG_4680": {
+      "description": "Three Japanese gummy candies in orange, dark red, and deep purple colors on a white surface.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "gummy",
+        "candy",
+        "japanese-snacks",
+        "fruit-flavored",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-gummy-candies",
+        "unique-japanese-sweets",
+        "colorful-candy-snacks",
+        "asian-gummi-bears-variations"
+      ],
+      "tagged_at": "2026-04-26 12:21"
+    },
+    "IMG_4681": {
+      "description": "Assorted Japanese snacks including KitKat, strawberry-flavored treats, and strawberry candy in packaging.",
+      "products": [
+        "KitKat Strawberry",
+        "Strawberry Pocky",
+        "Strawberry KitKat Wafer (possibly 'Cupno' or similar strawberry-flavored snack)",
+        "Strawberry KitKat (individual bar, possibly 'Strawberry KitKat' or 'Strawberry KitKat Wafer Bar')"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "candy",
+        "wafer",
+        "kitkat",
+        "pocky",
+        "japanese-snacks",
+        "gummy",
+        "konbini"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "strawberry-flavored-chocolate",
+        "kitkat-varieties",
+        "best-japanese-sweets",
+        "konbini-snacks-guide",
+        "chocolate-snacks-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:21"
+    },
+    "IMG_4682": {
+      "description": "Two stacked KitKat chocolate bars with embossed branding on a light surface.",
+      "products": [
+        "KitKat"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "kitkat",
+        "snack",
+        "japanese"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-brands",
+        "popular-japanese-snacks",
+        "kitkat-flavors-ranked",
+        "chocolate-snacks-for-travel"
+      ],
+      "tagged_at": "2026-04-26 12:21"
+    },
+    "IMG_4683": {
+      "description": "Assorted Japanese chocolate snacks in packaging with some bars partially eaten and chocolate stains visible.",
+      "products": [
+        "Pocky (Chocolate flavor)",
+        "Meiji Chocolate (Milk Chocolate bar)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "pocky",
+        "cookie",
+        "japanese-snacks",
+        "meiji",
+        "gift",
+        "unboxing"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "pocky-varieties-guide",
+        "meiji-chocolate-products",
+        "best-japanese-snacks-for-gifts",
+        "unboxing-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:21"
+    },
+    "IMG_4684": {
+      "description": "Dark chocolate bar with Egyptian hieroglyphics-style design and a wrapped cylindrical chocolate snack.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "gift",
+        "dark-chocolate",
+        "artistic-design",
+        "cylindrical-snack"
+      ],
+      "suitable_for": [
+        "unique-japanese-chocolate-snacks",
+        "artistic-chocolate-gifts",
+        "dark-chocolate-products-ranked",
+        "japanese-chocolate-packaging"
+      ],
+      "tagged_at": "2026-04-26 12:22"
+    },
+    "IMG_4685": {
+      "description": "Assorted Japanese snacks including Coca-Cola themed chocolate treats and other chocolate bars in packaging.",
+      "products": [
+        "Coca-Cola Chocolate (Japan)",
+        "Coca-Cola Themed Chocolate Snacks"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "coca-cola",
+        "themed-snack",
+        "japanese-snack",
+        "packaged",
+        "cookie",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "themed-snacks-from-japan",
+        "coca-cola-merchandise-snacks",
+        "unique-japanese-gift-foods",
+        "best-chocolate-bars-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:22"
+    },
+    "IMG_4686": {
+      "description": "Assorted Japanese chocolate snacks and cookies in packaging with Japanese text and Coca-Cola branding.",
+      "products": [
+        "Coca-Cola The Coffee Chocolate",
+        "Coca-Cola The Coffee (possibly layered snack)",
+        "Coca-Cola The Coffee (chocolate bar)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "coffee",
+        "snack",
+        "cookie",
+        "japanese",
+        "coca-cola",
+        "packaging",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "coca-cola-collaboration-snacks",
+        "unique-japanese-coffee-flavored-treats",
+        "best-japanese-chocolate-bars"
+      ],
+      "tagged_at": "2026-04-26 12:22"
+    },
+    "IMG_4687": {
+      "description": "Two chocolate bars and a red wrapper snack likely from a Japanese konbini store.",
+      "products": [
+        "Meiji Milk Chocolate (likely)",
+        "Morinaga Chocolate (likely)",
+        "Unidentifiable red-packaged snack"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "japanese-snacks",
+        "konbini",
+        "chocolate-bar",
+        "red-wrapper-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-bars-ranked",
+        "konbini-snacks-guide",
+        "meiji-chocolate-products",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:22"
+    },
+    "IMG_4688": {
+      "description": "Two dark chocolate bars with embossed Japanese characters, possibly traditional or premium Japanese chocolate snacks.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "japanese",
+        "embossed",
+        "traditional",
+        "snack",
+        "dark-chocolate"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "traditional-japanese-chocolate",
+        "premium-chocolate-bars-ranked",
+        "japanese-food-culture"
+      ],
+      "tagged_at": "2026-04-26 12:22"
+    },
+    "IMG_4689": {
+      "description": "Assorted Japanese chocolate bars and snack packs displayed on a flat surface.",
+      "products": [
+        "Meiji Milk Chocolate",
+        "Morinaga Chocolate (possibly Hi-Chew)",
+        "Lotte Choco Pie (red pack)",
+        "Glico Pino (green pack)"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "japanese-snacks",
+        "meiji",
+        "morinaga",
+        "lotte",
+        "glico",
+        "choco-pie",
+        "milk-chocolate",
+        "packed-snacks"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-bars-ranked",
+        "popular-japanese-snacks",
+        "meiji-chocolate-products",
+        "lotte-snacks-guide",
+        "glico-snacks-collection",
+        "japanese-convenience-store-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:23"
+    },
+    "IMG_4690": {
+      "description": "Two broken Japanese white chocolate bars with cookie filling on a flat surface.",
+      "products": [
+        "KitKat White (Japanese Cookie & Cream)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "cookie",
+        "white-chocolate",
+        "japanese-snack",
+        "kitkat",
+        "cookie-filling"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-white-chocolate-bars",
+        "kitkat-varieties-around-the-world",
+        "cookie-filled-snacks-guide"
+      ],
+      "tagged_at": "2026-04-26 12:23"
+    },
+    "IMG_4691": {
+      "description": "Two crossed dark chocolate bars with intricate designs, possibly Japanese premium chocolate.",
+      "products": [],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "premium",
+        "dark-chocolate",
+        "japanese-snack",
+        "gift"
+      ],
+      "suitable_for": [
+        "japanese-premium-chocolate-guide",
+        "luxury-chocolate-snacks",
+        "best-dark-chocolate-bars-ranked",
+        "gourmet-chocolate-gifts"
+      ],
+      "tagged_at": "2026-04-26 12:23"
+    },
+    "IMG_4692": {
+      "description": "Three Japanese chocolate snacks arranged in an X shape on a flat surface.",
+      "products": [
+        "Pocky (Strawberry Flavor)",
+        "Meiji Milk Chocolate",
+        "Meiji Dark Chocolate"
+      ],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "pocky",
+        "meiji",
+        "strawberry",
+        "dark-chocolate",
+        "milk-chocolate",
+        "japanese-snacks"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "pocky-varieties-guide",
+        "meiji-chocolate-products",
+        "best-japanese-chocolate-bars"
+      ],
+      "tagged_at": "2026-04-26 12:23"
+    },
+    "IMG_4698": {
+      "description": "Japanese Cheese Almond snack package and samples with almond and cheese filling, celebrating 40th anniversary.",
+      "products": [
+        "Cheese Almond (Meiji brand)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "cheese",
+        "almond",
+        "cookie",
+        "japanese-snack",
+        "40th-anniversary",
+        "meiji",
+        "salt-free",
+        "award-winning",
+        "pastry"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "cheese-snacks-in-japan",
+        "meiji-snacks-collection",
+        "japanese-anniversary-edition-snacks",
+        "best-japanese-cookies",
+        "salt-free-japanese-treats"
+      ],
+      "tagged_at": "2026-04-26 12:23"
+    },
+    "IMG_4699": {
+      "description": "Japanese Cheese Almond Cheeks snack bag with almond-filled pastries and cheese pieces.",
+      "products": [
+        "Cheese Almond Cheeks (by Lotte)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "almond",
+        "cheese",
+        "cookie",
+        "japanese-snack",
+        "lotte",
+        "gift",
+        "konbini"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "cheesy-japanese-snacks",
+        "almond-snacks-japan",
+        "lotte-snacks-guide",
+        "unique-japanese-candy",
+        "konbini-snack-finds"
+      ],
+      "tagged_at": "2026-04-26 12:24"
+    },
+    "IMG_4701": {
+      "description": "Japanese Cheese Almond Garlic Snack Pack with 14 pieces and 93% positive feedback for pairing with alcohol.",
+      "products": [
+        "Garlic Cheese Almond Snacks"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "snack",
+        "garlic",
+        "cheese",
+        "almond",
+        "japanese",
+        "cookie",
+        "cracker",
+        "gift",
+        "alcohol-pairing"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "garlic-snacks-guide",
+        "cheese-snacks-japan",
+        "snacks-to-pair-with-alcohol",
+        "unique-japanese-flavors",
+        "travel-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:24"
+    },
+    "IMG_4702": {
+      "description": "Japanese Cheese Almond Garlic chips snack package with 40th anniversary branding and individual pieces shown.",
+      "products": [
+        "Garlic Cheese Almond (Japanese snack)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "snack",
+        "chips",
+        "cheese",
+        "almond",
+        "garlic",
+        "japanese-snack",
+        "40th-anniversary",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-snacks-ranked",
+        "cheesy-snacks-around-the-world",
+        "garlic-flavored-snacks-guide",
+        "japanese-anniversary-edition-snacks",
+        "best-savory-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:24"
+    },
+    "IMG_4711": {
+      "description": "Lotte Almond Chocolate snack box with two almonds and chocolate truffles displayed on packaging.",
+      "products": [
+        "Lotte Almond Chocolate"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "snack",
+        "truffle",
+        "japanese-snack",
+        "lotte"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-almond-chocolate-snacks",
+        "lotte-snacks-guide",
+        "japanese-truffle-chocolate-products",
+        "convenience-store-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:24"
+    },
+    "IMG_4712": {
+      "description": "Lotte Chup Chups chocolate candies with peach filling in a box with some pieces scattered around.",
+      "products": [
+        "Chup Chups Peach"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "candy",
+        "peach",
+        "chup-chups",
+        "lotte",
+        "sweet",
+        "fruit-filled"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-candies",
+        "chup-chups-flavors-ranked",
+        "lotte-snacks-japan",
+        "fruit-filled-chocolate-candies",
+        "sweet-japanese-imports"
+      ],
+      "tagged_at": "2026-04-26 12:24"
+    },
+    "IMG_4713": {
+      "description": "Japanese chocolate-coated snack sticks in packaging with individual pieces scattered around.",
+      "products": [
+        "Hi-Chew Chocolate (Meiji)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "snack",
+        "chocolate-coated",
+        "candy",
+        "japanese-snack",
+        "meiji",
+        "hi-chew"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "chocolate-coated-snacks-guide",
+        "meiji-snacks-collection",
+        "unique-japanese-candy",
+        "best-chocolate-snacks-in-japan"
+      ],
+      "tagged_at": "2026-04-26 12:25"
+    },
+    "IMG_4714": {
+      "description": "Assorted chocolate-covered snacks in packaging with Japanese text, resembling mochi or similar treats.",
+      "products": [
+        "Mochi (possibly Meiji brand)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "mochi",
+        "japanese-snacks",
+        "candy",
+        "sweet",
+        "packaged"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "mochi-varieties-guide",
+        "popular-japanese-candies",
+        "meiji-snacks-collection"
+      ],
+      "tagged_at": "2026-04-26 12:25"
+    },
+    "IMG_4715": {
+      "description": "Japanese strawberry and chocolate-flavored snacks in packaging with scattered pieces on a surface.",
+      "products": [],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "candy",
+        "snack",
+        "japanese-sweets",
+        "mushroom-shaped",
+        "fruit-flavored",
+        "chocolate-coated",
+        "packaged-snacks"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "strawberry-flavored-candies",
+        "unique-japanese-sweets",
+        "chocolate-coated-snacks-ranked",
+        "fun-shaped-candies"
+      ],
+      "tagged_at": "2026-04-26 12:25"
+    },
+    "IMG_4716": {
+      "description": "Japanese strawberry and chocolate-flavored snacks in packaging with individual pieces scattered around.",
+      "products": [
+        "Strawberry & Chocolate Mochi (likely 'Strawberry Mochi' or similar mochi snack)"
+      ],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "strawberry",
+        "mochi",
+        "japanese-snacks",
+        "candy",
+        "unboxing",
+        "sweet",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-strawberry-snacks",
+        "chocolate-mochi-snacks",
+        "unique-japanese-candies",
+        "sweet-mochi-varieties",
+        "unboxing-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:25"
+    },
+    "IMG_4717": {
+      "description": "Meiji almond and chocolate coated confectionary snack package with candies displayed on top.",
+      "products": [
+        "Meiji Almond Chocolate (Conowa)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "almond",
+        "candy",
+        "japanese-snack",
+        "meiji",
+        "confectionery"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "almond-chocolate-candies",
+        "vintage-japanese-candy",
+        "confectionery-snacks-japan"
+      ],
+      "tagged_at": "2026-04-26 12:25"
+    },
+    "IMG_4718": {
+      "description": "Meiji Almond Chocolate bar packaging with chocolate-covered almonds and chocolate pieces on a surface.",
+      "products": [
+        "Meiji Almond Chocolate"
+      ],
+      "scene": "staged",
+      "tags": [
+        "chocolate",
+        "almond",
+        "chocolate-covered",
+        "japanese-snack",
+        "meiji",
+        "candy",
+        "sweet"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "meiji-snacks-guide",
+        "chocolate-covered-almonds-japan",
+        "best-japanese-chocolate-bars"
+      ],
+      "tagged_at": "2026-04-26 12:26"
+    },
+    "IMG_4719": {
+      "description": "Box of Meiji Macadamia chocolates with three round chocolate balls on a white surface.",
+      "products": [
+        "Meiji Macadamia"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "snack",
+        "japanese",
+        "meiji",
+        "candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "best-macadamia-chocolates",
+        "meiji-snacks-guide",
+        "premium-japanese-candy",
+        "chocolate-snacks-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:26"
+    },
+    "IMG_4720": {
+      "description": "Box of Meiji Macadamia chocolate truffles with four round chocolate balls on a flat surface.",
+      "products": [
+        "Meiji Macadamia Chocolate Truffles"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "macadamia",
+        "truffles",
+        "gift",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "luxury-japanese-chocolate-gifts",
+        "meiji-snacks-guide",
+        "chocolate-truffles-from-japan",
+        "premium-snacks-for-gifting"
+      ],
+      "tagged_at": "2026-04-26 12:26"
+    },
+    "IMG_4721": {
+      "description": "Japanese snack pack with brown chocolate-coated biscuit pieces and green leaf-shaped candy.",
+      "products": [],
+      "scene": "unboxing",
+      "tags": [
+        "chocolate",
+        "biscuit",
+        "candy",
+        "leaf-shaped",
+        "japanese-snack",
+        "coated",
+        "gift-pack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "unique-japanese-candies",
+        "chocolate-coated-biscuits-ranked",
+        "japanese-gift-snacks",
+        "unusual-snack-packaging"
+      ],
+      "tagged_at": "2026-04-26 12:26"
+    },
+    "IMG_4722": {
+      "description": "Japanese snack package and pieces of brownish mochi-like treats with green bamboo packaging design.",
+      "products": [],
+      "scene": "unboxing",
+      "tags": [
+        "japanese-snack",
+        "bamboo",
+        "mochi",
+        "traditional",
+        "candy",
+        "sweet",
+        "packaged-food"
+      ],
+      "suitable_for": [
+        "japanese-traditional-sweets",
+        "unusual-japanese-candies",
+        "snacks-with-bamboo-packaging",
+        "unique-asian-snacks"
+      ],
+      "tagged_at": "2026-04-26 12:26"
+    },
+    "IMG_4723": {
+      "description": "Four polished oval-shaped Japanese chocolate snacks displayed on paper.",
+      "products": [],
+      "scene": "multi-product",
+      "tags": [
+        "chocolate",
+        "oval-snacks",
+        "japanese-sweets",
+        "polished-candy"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "uncommon-japanese-candies",
+        "oval-shaped-japanese-sweets"
+      ],
+      "tagged_at": "2026-04-26 12:27"
+    },
+    "IMG_4724": {
+      "description": "Four polished oval-shaped Japanese chocolate snacks displayed on paper with handwritten notes.",
+      "products": [],
+      "scene": "staged",
+      "tags": [
+        "chocolate",
+        "oval-snacks",
+        "japanese-candy",
+        "polished-stones"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks",
+        "unique-japanese-candies",
+        "chocolate-collection"
+      ],
+      "tagged_at": "2026-04-26 12:27"
+    },
+    "IMG_E4455": {
+      "description": "Two brown chocolate-coated snacks with wooden sticks next to a red packaging box.",
+      "products": [
+        "Pocky (likely a chocolate flavor)"
+      ],
+      "scene": "single-product",
+      "tags": [
+        "chocolate",
+        "snack",
+        "pocky",
+        "wooden-stick",
+        "gift",
+        "japanese-snack"
+      ],
+      "suitable_for": [
+        "japanese-chocolate-snacks-ranked",
+        "popular-japanese-sweets",
+        "chocolate-snacks-with-sticks",
+        "gifts-from-japan"
+      ],
+      "tagged_at": "2026-04-26 12:27"
     }
   }
 }
