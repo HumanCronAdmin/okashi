@@ -1593,6 +1593,1382 @@
           "rank": "rank4"
         }
       ]
+    },
+    {
+      "id": "meiji-almond-chocolate-4620",
+      "name_en": "Meiji Almond Chocolate",
+      "name_ja": "",
+      "maker": "Meiji",
+      "category": "chocolate",
+      "flavors": [
+        "almond",
+        "chocolate"
+      ],
+      "texture": "melty",
+      "sweetness": 4,
+      "image": "images/webp/IMG_4620.webp",
+      "photo_count": 2,
+      "photos": [
+        {
+          "img": "IMG_4620",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4621",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "meiji-almond-chocolate-4622",
+      "name_en": "Meiji Almond Chocolate",
+      "name_ja": "",
+      "maker": "Meiji",
+      "category": "chocolate",
+      "flavors": [
+        "almond",
+        "chocolate"
+      ],
+      "texture": "crunchy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_4622.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4622",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4623",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4624",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "meiji-chocolate-snack-bamboo-charcoal",
+      "name_en": "Meiji Chocolate Snack Bamboo Charcoal",
+      "name_ja": "明治チョコスナック 竹の子",
+      "maker": "Meiji",
+      "category": "chocolate",
+      "flavors": [
+        "chocolate",
+        "bamboo"
+      ],
+      "texture": "crunchy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_4722.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_4722",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_4723",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_4724",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "ichigo-special-strawberry-cream",
+      "name_en": "Ichigo Special Strawberry Cream",
+      "name_ja": "イチゴスペシャル",
+      "maker": "Yamazaki Biscuits (ヤマザキ)",
+      "category": "cookie",
+      "flavors": [
+        "strawberry",
+        "cream"
+      ],
+      "texture": "soft",
+      "sweetness": 4,
+      "image": "images/webp/IMG_E4771.webp",
+      "photo_count": 9,
+      "photos": [
+        {
+          "img": "IMG_E4771",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_E4773",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4778",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4775",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_E4772",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E4770",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4776",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4777",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4779",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "chocolate-tapioca-pudding-snack",
+      "name_en": "Chocolate Tapioca Pudding Snack",
+      "name_ja": "さわやかごちそうチョコレート葉子",
+      "maker": "Meiji",
+      "category": "cookie",
+      "flavors": [
+        "chocolate",
+        "tapioca"
+      ],
+      "texture": "crispy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_4780.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_4780",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4781",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_4782",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4784",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4785",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "pocky-chocolate-4786",
+      "name_en": "Pocky Chocolate",
+      "name_ja": "ポッキー チョコレート菓子",
+      "maker": "Glico",
+      "category": "pocky",
+      "flavors": [
+        "chocolate"
+      ],
+      "texture": "crispy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_4800.webp",
+      "photo_count": 26,
+      "photos": [
+        {
+          "img": "IMG_4800",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4801",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_4786",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_4787",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4788",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4789",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4791",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4792",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4793",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4795",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4796",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4797",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4798",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4799",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4803",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4804",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4805",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E4805",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4806",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E4806",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4807",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E4807",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4808",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E4808",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_4809",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E4809",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "hokkaido-cheese-senbei-hokkaido-cheese-rice-crackers",
+      "name_en": "Hokkaido Cheese Senbei (Hokkaido Cheese Rice Crackers)",
+      "name_ja": "北海道チーズせんべい",
+      "maker": "Befco",
+      "category": "rice-cracker",
+      "flavors": [
+        "cheese",
+        "salt"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5001.webp",
+      "photo_count": 2,
+      "photos": [
+        {
+          "img": "IMG_5001",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_4998",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "hokkaido-super-thick-cheese-senbei",
+      "name_en": "Hokkaido Super Thick Cheese Senbei",
+      "name_ja": "北海道超絶濃厚チーズせんべい",
+      "maker": "Befco",
+      "category": "rice-cracker",
+      "flavors": [
+        "cheese",
+        "gouda",
+        "mozzarella",
+        "cheddar"
+      ],
+      "texture": "crispy",
+      "sweetness": 2,
+      "image": "images/webp/IMG_5009.webp",
+      "photo_count": 11,
+      "photos": [
+        {
+          "img": "IMG_5009",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5017",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5018",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5011",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5012",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5013",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5014",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5016",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5019",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5020",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5021",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "air-o-s",
+      "name_en": "Air-O's",
+      "name_ja": "エアオーズ",
+      "maker": "Lotte",
+      "category": "cookie",
+      "flavors": [
+        "chocolate"
+      ],
+      "texture": "airy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5025.webp",
+      "photo_count": 2,
+      "photos": [
+        {
+          "img": "IMG_5025",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_E5025",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "baum-roll",
+      "name_en": "Baum Roll",
+      "name_ja": "バームロール ミニロールケーキ",
+      "maker": "Lotte",
+      "category": "cookie",
+      "flavors": [
+        "chocolate",
+        "wafer"
+      ],
+      "texture": "crispy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5026.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_5026",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5031",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5032",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5027",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5028",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5030",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "choco-pie",
+      "name_en": "Choco Pie",
+      "name_ja": "チョコパイ",
+      "maker": "Lotte",
+      "category": "chocolate",
+      "flavors": [
+        "chocolate"
+      ],
+      "texture": "soft",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5036.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_5036",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5039",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5040",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "kit-kat-potato-rings-snack",
+      "name_en": "Kit Kat Potato Rings Snack",
+      "name_ja": "キットカット ポテトリングスナック",
+      "maker": "Tohto",
+      "category": "chips",
+      "flavors": [
+        "potato",
+        "chicken",
+        "tomato",
+        "corn"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5041.webp",
+      "photo_count": 2,
+      "photos": [
+        {
+          "img": "IMG_5041",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5043",
+          "rank": "rank3"
+        }
+      ]
+    },
+    {
+      "id": "pocky-potato",
+      "name_en": "Pocky Potato",
+      "name_ja": "ポテチ",
+      "maker": "Lotte",
+      "category": "cookie",
+      "flavors": [
+        "potato"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5049.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_5049",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5050",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5051",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "seaweed-flavored-rice-chips",
+      "name_en": "Seaweed-Flavored Rice Chips",
+      "name_ja": "おめちゃのり味",
+      "maker": "Seven Premium",
+      "category": "rice-cracker",
+      "flavors": [
+        "seaweed"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5071.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_5071",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5066",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5072",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5073",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5074",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5075",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "shrimp-flavored-rice-chips",
+      "name_en": "Shrimp-Flavored Rice Chips",
+      "name_ja": "おつまみチップス えび味",
+      "maker": "Seven & I Holdings (7-Eleven Premium brand)",
+      "category": "chips",
+      "flavors": [
+        "shrimp"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5088.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_5088",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5089",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5091",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5092",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5095",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5096",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "bourbon-crepe-cookie",
+      "name_en": "Bourbon Crepe Cookie",
+      "name_ja": "ブルボン クレープクッキー",
+      "maker": "Lotte",
+      "category": "cookie",
+      "flavors": [
+        "bourbon",
+        "caramel",
+        "vanilla"
+      ],
+      "texture": "crispy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_E5125.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_E5125",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5126",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_E5126",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5128",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5128",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5130",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5130",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "lotte-choco-pie-matcha-inferred-matcha-flavor-choco-pie",
+      "name_en": "Lotte Choco Pie Matcha (Inferred: Matcha Flavor Choco Pie)",
+      "name_ja": "抹茶の奥深いあじわい チョコパイ",
+      "maker": "Lotte",
+      "category": "cookie",
+      "flavors": [
+        "matcha",
+        "chocolate",
+        "whipped-cream"
+      ],
+      "texture": "crispy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5133.webp",
+      "photo_count": 14,
+      "photos": [
+        {
+          "img": "IMG_5133",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5135",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5144",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5138",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5134",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5139",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5141",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5143",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5147",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5147",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5148",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5149",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5151",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5152",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "coconut-sable",
+      "name_en": "Coconut Sable",
+      "name_ja": "ココナッツセイブル",
+      "maker": "Nissin",
+      "category": "cookie",
+      "flavors": [
+        "coconut"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5163.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_5163",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5164",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_E5163",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5164",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "triple-nut-coconut-sable",
+      "name_en": "Triple Nut Coconut Sable",
+      "name_ja": "トリプルナッツ ココナッツサブレ",
+      "maker": "Nissin",
+      "category": "cookie",
+      "flavors": [
+        "coconut",
+        "almond",
+        "hazelnut"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5166.webp",
+      "photo_count": 4,
+      "photos": [
+        {
+          "img": "IMG_5166",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5168",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5169",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5167",
+          "rank": "rank4"
+        }
+      ]
+    },
+    {
+      "id": "coco-puffs-triple-layer-almond-hazelnut",
+      "name_en": "Coco Puffs Triple Layer Almond Hazelnut",
+      "name_ja": "ココナッツ アーモンド ハゼルナッツ トリプル7層",
+      "maker": "Nissin",
+      "category": "cookie",
+      "flavors": [
+        "coconut",
+        "almond",
+        "hazelnut"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5172.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_5172",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5173",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5175",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "pocky-bits-lotte",
+      "name_en": "Pocky Bits Lotte",
+      "name_ja": "ポッキー ビッツ ロッテ",
+      "maker": "Lotte",
+      "category": "chocolate",
+      "flavors": [
+        "chocolate"
+      ],
+      "texture": "crunchy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5177.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_5177",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5178",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5179",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "koikeda-no-1-soy-sauce-corn-snacks",
+      "name_en": "Koikeda No.1 Soy Sauce Corn Snacks",
+      "name_ja": "コイケヤ焼きそばチップス",
+      "maker": "Koikeda (コイケヤ)",
+      "category": "chips",
+      "flavors": [
+        "soy-sauce",
+        "corn"
+      ],
+      "texture": "crispy",
+      "sweetness": 2,
+      "image": "images/webp/IMG_5192.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_5192",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5193",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5194",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5195",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5196",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "dango-possibly-mochi-dango-or-shiratama-dango",
+      "name_en": "Dango (possibly Mochi Dango or Shiratama Dango)",
+      "name_ja": "",
+      "maker": "unknown",
+      "category": "mochi",
+      "flavors": [
+        "sweet rice"
+      ],
+      "texture": "chewy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5208.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_5208",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5209",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5210",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "calbee-potato-chips-spicy",
+      "name_en": "Calbee Potato Chips Spicy",
+      "name_ja": "カルビー スパicyポテチ",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "potato",
+        "spicy"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5224.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_5224",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5215",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5216",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5217",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5218",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5220",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5221",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "cracker-snack",
+      "name_en": "Cracker Snack",
+      "name_ja": "スナッククラッカー",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "cheese"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5260.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_5260",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5261",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_E5260",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5262",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5263",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5265",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5266",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "calbee-poffin-matcha",
+      "name_en": "Calbee Poffin Matcha",
+      "name_ja": "カルビー ポッフィン 抹茶",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "matcha"
+      ],
+      "texture": "crispy",
+      "sweetness": 3,
+      "image": "images/webp/IMG_5346.webp",
+      "photo_count": 6,
+      "photos": [
+        {
+          "img": "IMG_5346",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5350",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5347",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_E5346",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5348",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5349",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "calbee-potato-chips-for-the-taste-of-new-york",
+      "name_en": "Calbee Potato Chips 'For the Taste of New York'",
+      "name_ja": "カルビー ポテチニューヨーク風味",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "potato",
+        "salt"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_E5350.webp",
+      "photo_count": 3,
+      "photos": [
+        {
+          "img": "IMG_E5350",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5351",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_E5351",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "calbee-potato-chips",
+      "name_en": "Calbee Potato Chips",
+      "name_ja": "カルビー ポテチ",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "potato",
+        "salt"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5353.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_5353",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_E5356",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5354",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5355",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5356",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5357",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5357",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "calbee-wasabi-spicy-chips",
+      "name_en": "Calbee Wasabi Spicy Chips",
+      "name_ja": "カルビー ワサビ味",
+      "maker": "Calbee",
+      "category": "chips",
+      "flavors": [
+        "wasabi",
+        "spicy"
+      ],
+      "texture": "crispy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5360.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_5360",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5361",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5362",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5362",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5363",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5364",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_E5364",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "tohato-potato-ring-snacks-umashio",
+      "name_en": "Tohato Potato Ring Snacks Umashio",
+      "name_ja": "細切りポテトリング なげわ うましお味",
+      "maker": "Tohato",
+      "category": "chips",
+      "flavors": [
+        "umashio"
+      ],
+      "texture": "crunchy",
+      "sweetness": 2,
+      "image": "images/webp/IMG_5055.webp",
+      "photo_count": 5,
+      "photos": [
+        {
+          "img": "IMG_5055",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5053",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5054",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5057",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5056",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "peanut-rice-crackers",
+      "name_en": "Peanut Rice Crackers",
+      "name_ja": "",
+      "maker": "7-Eleven",
+      "category": "rice-cracker",
+      "flavors": [
+        "peanut",
+        "salt"
+      ],
+      "texture": "crunchy",
+      "sweetness": 1,
+      "image": "images/webp/IMG_5106.webp",
+      "photo_count": 16,
+      "photos": [
+        {
+          "img": "IMG_5106",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5102",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5104",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5108",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5109",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5110",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5111",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5112",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5113",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5114",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5115",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5117",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5118",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5121",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5124",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5125",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "pie-no-jitsu",
+      "name_en": "Pie no Jitsu",
+      "name_ja": "パイの実",
+      "maker": "Lotte",
+      "category": "chocolate",
+      "flavors": [
+        "chocolate"
+      ],
+      "texture": "crunchy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5155.webp",
+      "photo_count": 8,
+      "photos": [
+        {
+          "img": "IMG_5155",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_E5161",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5161",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5156",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5158",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5159",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5160",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5162",
+          "rank": "extra"
+        }
+      ]
+    },
+    {
+      "id": "almond-chocolate-crisp",
+      "name_en": "Almond Chocolate Crisp",
+      "name_ja": "",
+      "maker": "Lotte",
+      "category": "chocolate",
+      "flavors": [
+        "chocolate",
+        "almond"
+      ],
+      "texture": "crunchy",
+      "sweetness": 4,
+      "image": "images/webp/IMG_5181.webp",
+      "photo_count": 7,
+      "photos": [
+        {
+          "img": "IMG_5181",
+          "rank": "rank1"
+        },
+        {
+          "img": "IMG_5189",
+          "rank": "rank2"
+        },
+        {
+          "img": "IMG_5190",
+          "rank": "rank3"
+        },
+        {
+          "img": "IMG_5182",
+          "rank": "rank4"
+        },
+        {
+          "img": "IMG_5185",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5186",
+          "rank": "extra"
+        },
+        {
+          "img": "IMG_5188",
+          "rank": "extra"
+        }
+      ]
     }
   ]
 }
